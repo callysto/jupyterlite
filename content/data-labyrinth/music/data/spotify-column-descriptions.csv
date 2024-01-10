@@ -1,0 +1,14 @@
+Feature,Description
+danceability,How suitable a track is for dancing. A value of 0.0 is least danceable and 1.0 is most danceable.
+energy,"A perceptual measure of intensity and activity that ranges between 0 to 1. Typically, energetic tracks feel fast, loud, and noisy."
+key,"The key the track is in. Integers map to pitches using standard Pitch Class notation. E.g. 0 = C, 1 = C♯/D♭, 2 = D, and so on."
+loudness,The average loudness of a track in decibels (dB). Values typically ranges between -60 and 0 db.
+mode,"The modality (major or minor) of a track, the type of scale from which its melodic content is derived. Major is represented by 1 and minor is 0."
+speechiness,Indicates the presence of spoken words in a track. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech while below 0.33 most likely represent music and other non-speech-like tracks.
+acousticness,A confidence measure indicating whether the track is acoustic. Value of 1 represents highest confidence.
+instrumentalness,"Predicts whether a track contains no vocals. The closer the value is to 1.0, the greater likelihood the track contains no vocal content."
+liveness,Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live.
+valence,"A measure to describe the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry)."
+tempo,The overall estimated tempo (speed or pace) of a track in beats per minute (BPM).
+duration_ms,The duration of the track in milliseconds.
+time_signature,An estimated overall time signature of a track. The time signature is a notational convention to specify how many beats are in each bar (or measure).
