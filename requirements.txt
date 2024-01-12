@@ -50,5 +50,7 @@ bqplot
 # Extensions
 theme-darcula
 nbformat
+statsmodels
+pillow
 folium
 haversine
