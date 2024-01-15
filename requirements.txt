@@ -42,9 +42,9 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+nbformat
+pyodide_http
 
 # Extensions
 theme-darcula
-nbformat
-pyodide_http
 jupyterlab-open-url-parameter
