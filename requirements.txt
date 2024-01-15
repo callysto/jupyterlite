@@ -24,10 +24,6 @@ jupyterlite-xeus-lua==0.3.1
 jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: Geojson file renderer (optional)
 jupyterlab-geojson>=3.4.0,<4
-# JupyterLab: guided tour (optional)
-# TODO: re-enable after https://github.com/jupyterlab-contrib/jupyterlab-tour/issues/82
-# jupyterlab-tour
-# JupyterLab: dark theme
 jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
@@ -50,3 +46,5 @@ bqplot
 # Extensions
 theme-darcula
 nbformat
+pyodide_http
+jupyterlab-open-url-parameter
