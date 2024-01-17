@@ -1,0 +1,37 @@
+RECORD,VALUE
+Emails,domainabuse@tucows.com
+Name,Lillian Rose
+Name Servers,NS1.ABAC.COM
+Org,Toxicodendron Inc.
+Address,1 Edge Forrest Lane
+City,Springfield
+Country,US
+Creation Date,2016-07-21T18:07:13
+Dnssec,unsigned
+NS,aida.ns.cloudflare.com
+AAAA,2606:4700:3032::ac43:bbf4
+A,104.21.7.173
+AAAA,2606:4700:3032::6815:7ad
+A,172.67.187.244
+SOA,aida.ns.cloudflare.com
+NS,beau.ns.cloudflare.com
+A,8.222.142.231
+A,34.102.136.180
+NS,ns38.domaincontrol.com
+NS,ns37.domaincontrol.com
+CNAME,po1s0n1vy.com
+NS,ns37.domaincontrol.com
+NS,ns38.domaincontrol.com
+SOA,ns37.domaincontrol.com
+A,NXDOMAIN
+A,NXDOMAIN
+A,34.102.136.180
+A,91.195.240.117
+A,91.195.240.117
+A,91.195.240.117
+A,91.195.240.117
+A,23.22.63.114
+A,64.29.151.221
+A,23.22.63.114
+A,64.29.151.221
+CNAME,po1s0n1vy.com
