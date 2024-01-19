@@ -39,15 +39,15 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
-# Python: plotting libraries (optional)
-plotly>=5,<6
-bqplot
-nbformat
-lxml
-pyodide_http
-haversine
-folium
-
 # Extensions
 theme-darcula
 jupyterlab-open-url-parameter
+
+# Python: visualization libraries
+plotly>=5,<6
+bqplot
+nbformat
+pyodide_http
+haversine
+folium
+ColabTurtlePlus
