@@ -50,4 +50,3 @@ nbformat
 pyodide_http
 haversine
 folium
-ColabTurtlePlus
