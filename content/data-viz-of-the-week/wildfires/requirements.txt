@@ -1,0 +1,6 @@
+pyodide_http 
+plotly 
+plotly-express
+nbformat
+ipywidgets
+openpyxl
