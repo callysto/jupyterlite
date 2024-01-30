@@ -1,0 +1,3010 @@
+ID,ARpage,ARs,ARvessel,ARcommander,ARname,ARbound,ARgender,ARage
+18,17,18,Aurora,,Paul,St. Johns,m,19
+29,17,24,Spencer,Bellantine,Sarah Fox,St. Johns,f,21
+8,17,8,Aurora,,Sarah Farmer,St. Johns,f,23
+440,27,2,Hope,Robert Peacock,Dick,St Johns River,m,38
+158,20,31,Polly,John Broome,Fanny,Port Roseway,f,33
+1972,63,32,Mars,,Charles,St. Johns,m,18
+1973,63,32,Mars,,Murreer,St. Johns,f,18
+130,20,,Lady's Adventure,Capt. Robert Gibson,,St. Johns,m,
+1880,61,32,Mars,,Samuel Williams,,m,16
+857,38,26,Mars,,Dinah Haynes,Port Roseway,f,45
+1881,61,32,Mars,,James Webb,,m,18
+1882,61,32,Mars,,Richard Richardson,,m,30
+1,17,1,Ship Spring,,George Black,St. Johns,m,35
+2,17,2,Ship Spring,,Ann Black,St. Johns,f,25
+3,17,3,Ship Spring,,Reuben,St. Johns,c m,7
+4,17,4,Ship Spring,,Sukey,St. Johns,c f,5
+5,17,5,Aurora,,Billy Williams,St. Johns,m,35
+6,17,6,Aurora,,Rose Richard,St. Johns,f,20
+7,17,7,Aurora,,Daniel Barber,St. Johns,m,70
+9,17,9,Aurora,,Barbarry Allen,St. Johns,f,22
+10,17,10,Aurora,,Elizabeth Black,St. Johns,f,24
+11,17,11,Aurora,,Bob Stafford,St. Johns,m,20
+12,17,12,Aurora,,Harry Covenhoven,St. Johns,m,24
+13,17,13,Aurora,,John Vans,St. Johns,m,39
+14,17,14,Aurora,,Anthony Haln,St. Johns,m,27
+15,17,15,Aurora,,Joyce,St. Johns,c f,12
+16,17,16,Aurora,,Simson McGuine,St. Johns,m,23
+17,17,17,Aurora,,Bristol Cibbwine,St. Johns,c m,14
+19,17,19,Ariel,Richardson,Samuel Brothers,St. Johns,m,25
+20,17,20,Ariel,Richardson,Betsy Brothers his wife and 2 children,St. Johns,f,32
+21,17,20,Ariel,Richardson,child of Betsy Brothers,St. Johns,c,14
+22,17,20,Ariel,Richardson,child of Betsy Brothers,St. Johns,c,12
+23,17,21,Ariel,Richardson,Susanna Jarvis,St. Johns,f,22
+24,17,22,Ariel,Richardson,Dinah Mitchel,St. Johns,f,30
+25,17,22,Ariel,Richardson,child of Dinah Mitchel,St. Johns,c,
+26,17,23,Ariel,Richardson,Frank Mitchel her son,St. Johns,c m,10
+27,17,24,Ariel,Richardson,Joseph,St. Johns,m,20
+28,17,24,Ariel,Richardson,Clara,St. Johns,f,20
+30,17,24,Spencer,Bellantine,John Lynch,St. Johns,m,18
+31,17,24,Spencer,Bellantine,Jacob Lynch,St. Johns,m,42
+32,17,24,Spencer,Bellantine,Phebe Lynch,St. Johns,f,42
+33,17,24,Spencer,Bellantine,Isaac Corie,St. Johns,m,27
+34,17,24,Spencer,Bellantine,Hagar Corie,St. Johns,f,22
+35,17,24,Spencer,Bellantine,child of Hagar Corie,St. Johns,c,18 months
+36,17,24,Peggy,Jacob Wilson,Josiah Smith,Port Roseway,m,42
+37,17,24,Peggy,Jacob Wilson,Richard Stanley,Port Roseway,m,39
+38,18,1,Peggy,Jacob Wilson,Paul Coffin,Port Roseway,m,29
+39,18,2,Peggy,Jacob Wilson,Harry,Port Roseway,m,23
+40,18,3,Peggy,Jacob Wilson,Phebe,Port Roseway,f,21
+41,18,4,Peggy,Jacob Wilson,Fortune,Port Roseway,m,35
+42,18,5,Peggy,Jacob Wilson,Letitie,Port Roseway,f,26
+43,18,6,Peggy,Jacob Wilson,Peter,Port Roseway,c m,10
+44,18,7,Peggy,Jacob Wilson,William,Port Roseway,m,22
+45,18,8,Peggy,Jacob Wilson,Ceasor and a boy,Port Roseway,m,38
+46,18,8,Peggy,Jacob Wilson,child of Ceasor,Port Roseway,c m,9
+47,18,9,Peggy,Jacob Wilson,Abraham and,Port Roseway,m,21
+2252,71,23,Cato,,John Doore,Annapollis Royal,m,50
+48,18,10,Peggy,Jacob Wilson,Hannah his wife,Port Roseway,f,22
+49,18,11,Peggy,Jacob Wilson,Joe and,Port Roseway,m,36
+50,18,12,Peggy,Jacob Wilson,Mary his wife and boy,Port Roseway,f,26
+51,18,12,Peggy,Jacob Wilson,child of Mary,Port Roseway,c m,
+52,18,13,Peggy,Jacob Wilson,Abraham,Port Roseway,m,19
+342,24,31,Venus,John Martin,child of Sentry,Port Roseway,c,
+53,18,14,Peggy,Jacob Wilson,Parthenia Stanly,Port Roseway,f,35
+54,18,14,Peggy,Jacob Wilson,child of Stanly,Port Roseway,c m,
+55,18,15,Peggy,Jacob Wilson,George,Port Roseway,c m,13
+56,18,16,Peggy,Jacob Wilson,George,Port Roseway,m,18
+57,18,17,Camel,Tinker,Henry,St. Johns,m,47
+58,18,18,Camel,Tinker,Kate and girl 6 years,St. Johns,f,40
+59,18,18,Camel,Tinker,child of Kate,St. Johns,c f,6
+60,18,19,Camel,Tinker,Almin,St. Johns,m,32
+61,18,20,Camel,Tinker,Isaac,St. Johns,m,17
+62,18,21,Camel,Tinker,Eleanor Hicks,St. Johns,c f,13
+63,18,22,Mars,Grayson,Venus and 2 small children,St. Johns,f,25
+64,18,22,Mars,Grayson,child of Venus,St. Johns,c,
+65,18,22,Mars,Grayson,child of Venus,St. Johns,c,
+66,18,23,Mars,Grayson,Peggy Lynch,St. Johns,f,18
+67,18,24,Mars,Grayson,Samuel Ives,St. Johns,m,44
+68,18,25,Mars,Grayson,Joe,St. Johns,m,27
+69,18,26,Mars,Grayson,Henry Lyon,St. Johns,m,36
+70,18,27,Mars,Grayson,Phebe Lyon,St. Johns,f,40
+71,18,28,Mars,Grayson,Phillis Lyon,St. Johns,f,5
+72,18,29,Mars,Grayson,Simon White,St. Johns,m,32
+73,18,30,Mars,Grayson,Samuel Hewell,St. Johns,m,65
+74,18,31,Mars,Grayson,Darkas and Child,St. Johns,f,28
+75,18,31,Mars,Grayson,child of Darkas,St. Johns,c f,
+76,18,32,Mars,Grayson,Catharine,St. Johns,f,66
+77,18,33,Mars,Grayson,Moses,St. Johns,m,4
+78,18,33,Mars,Grayson,Dempse Slaughter,St. Johns,m,35
+79,18,33,Mars,Grayson,Joseph Collins,St. Johns,m,30
+80,18,33,Mars,Grayson,Joseph Philips,St. Johns,m,22
+81,18,33,Mars,Grayson,Betsey Collins,St. Johns,f,30
+82,18,33,Lady's Adventure,Capt. Robert Gibson,Nathaniel Lindsay,St. Johns,m,20
+83,18,33,Lady's Adventure,Capt. Robert Gibson,Edward Lloyd,St. Johns,m,19
+84,18,33,Lady's Adventure,Capt. Robert Gibson,John Stewart,St. Johns,m,19
+85,18,33,Lady's Adventure,Capt. Robert Gibson,Peter Moses,St. Johns,m,27
+86,18,33,Lady's Adventure,Capt. Robert Gibson,Stephen Sampson,St. Johns,m,22
+87,19,1,Lady's Adventure,Capt. Robert Gibson,James Watson,St. Johns,m,30
+88,19,2,Lady's Adventure,Capt. Robert Gibson,Dick Jackson,St. Johns,m,21
+89,19,3,Lady's Adventure,Capt. Robert Gibson,Joseph Kelly,St. Johns,m,25
+90,19,4,Lady's Adventure,Capt. Robert Gibson,Edmund Hill,St. Johns,m,21
+91,19,5,Lady's Adventure,Capt. Robert Gibson,Andrew Hilton,St. Johns,m,22
+92,19,6,Lady's Adventure,Capt. Robert Gibson,Charles Allen,St. Johns,m,25
+93,19,7,Lady's Adventure,Capt. Robert Gibson,William Hanson,St. Johns,m,22
+94,19,8,Lady's Adventure,Capt. Robert Gibson,Gabriel Dickenson,St. Johns,m,22
+95,19,9,Lady's Adventure,Capt. Robert Gibson,Charles Ferrell,St. Johns,m,21
+96,19,10,Lady's Adventure,Capt. Robert Gibson,John Frederick,St. Johns,m,21.5
+97,19,11,Lady's Adventure,Capt. Robert Gibson,Pompey Brown,St. Johns,m,21
+98,19,12,Lady's Adventure,Capt. Robert Gibson,Joseph Williams,St. Johns,m,23
+99,19,13,Lady's Adventure,Capt. Robert Gibson,William Higginson,St. Johns,m,23
+100,19,14,Lady's Adventure,Capt. Robert Gibson,Abraham Marrian,St. Johns,m,25
+101,19,15,Lady's Adventure,Capt. Robert Gibson,Sipio Jenkins,St. Johns,m,16
+102,19,16,Lady's Adventure,Capt. Robert Gibson,James Jenkins,St. Johns,m,23
+103,19,17,Lady's Adventure,Capt. Robert Gibson,Joseph Stewart,St. Johns,c m,15
+104,19,18,Lady's Adventure,Capt. Robert Gibson,Henry Cruden,St. Johns,c m,13
+105,19,19,Lady's Adventure,Capt. Robert Gibson,Hester Walton,St. Johns,m,28
+106,19,20,Lady's Adventure,Capt. Robert Gibson,George Greenard,St. Johns,m,19
+107,19,21,Lady's Adventure,Capt. Robert Gibson,Hector Munro,St. Johns,m,23
+108,19,22,Lady's Adventure,Capt. Robert Gibson,Daniel Green,St. Johns,m,20
+109,19,23,Lady's Adventure,Capt. Robert Gibson,William Dixon,St. Johns,m,18
+343,24,32,Venus,John Martin,Fanny,Port Roseway,f,22
+110,19,24,Lady's Adventure,Capt. Robert Gibson,Sylvia Bailley,St. Johns,f,26
+111,19,25,Lady's Adventure,Capt. Robert Gibson,Nancy Bailley,St. Johns,c f,9
+112,19,26,Lady's Adventure,Capt. Robert Gibson,Joe Bailley,St. Johns,c m,7
+113,19,27,Lady's Adventure,Capt. Robert Gibson,Thomas Morgan,St. Johns,m,21
+114,19,28,Lady's Adventure,Capt. Robert Gibson,Israel Crawford,St. Johns,m,27
+115,19,29,Lady's Adventure,Capt. Robert Gibson,James Anthony,St. Johns,m,20
+116,19,30,Lady's Adventure,Capt. Robert Gibson,Samuel Edmond,St. Johns,m,38
+117,19,31,Lady's Adventure,Capt. Robert Gibson,Jeremy Dyer,St. Johns,m,20
+118,19,32,Lady's Adventure,Capt. Robert Gibson,George Roberts,St. Johns,m,30
+119,19,32,Lady's Adventure,Capt. Robert Gibson,Hannah Roberts,St. Johns,f,30
+120,19,32,Lady's Adventure,Capt. Robert Gibson,Clarisa Roberts,St. Johns,c f,6
+121,19,32,Lady's Adventure,Capt. Robert Gibson,Samuel Everly,St. Johns,m,30
+122,19,32,Lady's Adventure,Capt. Robert Gibson,Judith Everly,St. Johns,f,18
+123,19,32,Lady's Adventure,Capt. Robert Gibson,Goyce Moses,St. Johns,f,20
+124,19,32,Lady's Adventure,Capt. Robert Gibson,Tilley Moses,St. Johns,c f,12
+125,19,32,Lady's Adventure,Capt. Robert Gibson,Elsia Doughty,St. Johns,f,19
+126,19,32,Lady's Adventure,Capt. Robert Gibson,Sally Ferrell,St. Johns,f,22
+127,19,32,Lady's Adventure,Capt. Robert Gibson,Lucy Litchmore,St. Johns,f,22
+128,20,1,Lady's Adventure,Capt. Robert Gibson,Keatie Dyer,St. Johns,f,25
+129,20,2,Lady's Adventure,Capt. Robert Gibson,Bella Jinkins,St. Johns,f,21
+131,20,4,Grand Duchess of Russia,Stephen Holman,Bill Tyng,St. Johns,m,16
+132,20,5,Grand Duchess of Russia,Stephen Holman,John Tyng,St. Johns,m,19
+133,20,6,Grand Duchess of Russia,Stephen Holman,Dinah Tyng,St. Johns,f,20
+134,20,7,Grand Duchess of Russia,Stephen Holman,Juliet Tyng,St. Johns,c f,3
+135,20,8,Grand Duchess of Russia,Stephen Holman,Lewes Carter,St. Johns,m,20
+136,20,9,Grand Duchess of Russia,Stephen Holman,Effie Dowglass,St. Johns,f,24
+137,20,10,Grand Duchess of Russia,Stephen Holman,John Banter,St. Johns,c m,2
+138,20,11,Grand Duchess of Russia,Stephen Holman,Thomas Banter,St. Johns,m,24
+139,20,12,Grand Duchess of Russia,Stephen Holman,Moses Simson,St. Johns,m,20
+140,20,13,Grand Duchess of Russia,Stephen Holman,Lieut. Berry,St. Johns,m,42
+141,20,14,Grand Duchess of Russia,Stephen Holman,Ishmael Colley,St. Johns,m,23
+142,20,15,Grand Duchess of Russia,Stephen Holman,Sarah Ceasor,St. Johns,f,45
+143,20,16,Grand Duchess of Russia,Stephen Holman,Succy Sikes,St. Johns,f,24
+144,20,17,Grand Duchess of Russia,Stephen Holman,George Kent,St. Johns,m,30
+145,20,18,Grand Duchess of Russia,Stephen Holman,Joseph Talbot,St. Johns,m,28
+146,20,19,Grand Duchess of Russia,Stephen Holman,Nancy Talbot,St. Johns,f,21
+147,20,20,Polly,John Broome,Simon Garway,Port Roseway,m,26
+148,20,21,Polly,John Broome,Jack Smith,Port Roseway,m,31
+149,20,22,Polly,John Broome,William Williams,Port Roseway,m,25
+150,20,23,Polly,John Broome,Jacob Lawson,Port Roseway,m,30
+151,20,24,Polly,John Broome,Ruth his wife,Port Roseway,f,
+152,20,25,Polly,John Broome,Luke Brian,Port Roseway,m,25
+153,20,26,Polly,John Broome,Harry Gray,Port Roseway,m,30
+154,20,27,Polly,John Broome,Abby his wife,Port Roseway,f,28
+155,20,28,Polly,John Broome,Samuel Dickison,Port Roseway,m,24
+156,20,29,Polly,John Broome,Thomas Foster,Port Roseway,m,28
+157,20,30,Polly,John Broome,Jack Gordon,Port Roseway,m,40
+159,20,32,Polly,John Broome,Eleanor Foster,Port Roseway,f,34
+160,20,33,Polly,John Broome,George Lacey,Port Roseway,m,42
+161,20,33,Polly,John Broome,Fanny his wife,Port Roseway,f,33
+162,20,33,Polly,John Broome,Kate her daughter,Port Roseway,f,16
+163,20,33,Polly,John Broome,Guinea,Port Roseway,m,21
+164,20,33,Polly,John Broome,Harry Squash,Port Roseway,m,22
+165,20,33,Polly,John Broome,Deborah his wife,Port Roseway,f,20
+166,20,33,Polly,John Broome,Samuel Bayard,Port Roseway,m,45
+167,20,33,London Frigate,Hugh Walls,George May,Port Roseway,m,34
+168,20,33,London Frigate,Hugh Walls,William Mannan,Port Roseway,m,27
+169,20,33,London Frigate,Hugh Walls,Harry McGriggor,Port Roseway,m,24
+170,20,33,London Frigate,Hugh Walls,Peter Randall,Port Roseway,m,23
+171,21,1,London Frigate,Hugh Walls,Robert Blew,Port Roseway,m,30
+172,21,2,London Frigate,Hugh Walls,Sippio Simmons,Port Roseway,m,26
+173,21,3,London Frigate,Hugh Walls,Jacob Myles,Port Roseway,m,36
+174,21,4,London Frigate,Hugh Walls,Williiam Fortune,Port Roseway,m,40
+175,21,5,London Frigate,Hugh Walls,Samuel Wyllie,Port Roseway,m,30
+176,21,6,London Frigate,Hugh Walls,Gads Saunders,Port Roseway,m,25
+177,21,7,London Frigate,Hugh Walls,Judith Saunders,Port Roseway,f,25
+178,21,8,London Frigate,Hugh Walls,Simsa Herring,Port Roseway,m,26
+179,21,9,London Frigate,Hugh Walls,Thomas Ogden,Port Roseway,m,29
+180,21,10,London Frigate,Hugh Walls,Ben Broughton,Port Roseway,m,38
+181,21,11,London Frigate,Hugh Walls,Thomas Smith,Port Roseway,m,25
+182,21,12,London Frigate,Hugh Walls,William Bogert,Port Roseway,m,20
+183,21,13,London Frigate,Hugh Walls,William Syrrus,Port Roseway,m,30
+184,21,14,London Frigate,Hugh Walls,Samuel Martin,Port Roseway,m,16
+185,21,15,London Frigate,Hugh Walls,Richard Lautten,Port Roseway,m,41
+186,21,16,London Frigate,Hugh Walls,Thomas Browne,Port Roseway,m,40
+187,21,17,London Frigate,Hugh Walls,William Dunk,Port Roseway,m,32
+188,21,18,London Frigate,Hugh Walls,Dick Richards,Port Roseway,m,22
+189,21,19,London Frigate,Hugh Walls,Joseph,Port Roseway,m,32
+190,21,20,London Frigate,Hugh Walls,Isaac,Port Roseway,m,21
+191,21,21,London Frigate,Hugh Walls,John Simonsbury,Port Roseway,m,43
+192,21,22,London Frigate,Hugh Walls,Isaac Connor,Port Roseway,m,49
+193,21,23,London Frigate,Hugh Walls,James Perrow,Port Roseway,m,38
+194,21,24,London Frigate,Hugh Walls,Tom Knight,Port Roseway,m,38
+195,21,25,London Frigate,Hugh Walls,Moses Palmer,Port Roseway,m,18
+196,21,26,London Frigate,Hugh Walls,Elizabeth Williams,Port Roseway,f,36
+197,21,27,London Frigate,Hugh Walls,Hand Palmer,Port Roseway,c f,15
+198,21,28,London Frigate,Hugh Walls,Susana Herring,Port Roseway,f,22
+199,21,29,London Frigate,Hugh Walls,Mary Brown,Port Roseway,f,38
+200,21,30,London Frigate,Hugh Walls,Mary Richards,Port Roseway,f,22
+201,21,31,London Frigate,Hugh Walls,Dinah Blavelt,Port Roseway,f,20
+202,21,31,London Frigate,Hugh Walls,Jack Blavelt,Port Roseway,c m,1
+203,21,32,London Frigate,Hugh Walls,Sara Byrrian,Port Roseway,f,27
+204,21,33,London Frigate,Hugh Walls,Sara Graham,Port Roseway,f,24
+205,21,33,London Frigate,Hugh Walls,Mariah,Port Roseway,f,26
+206,21,33,London Frigate,Hugh Walls,Dina McGriggor,Port Roseway,f,24
+207,21,33,London Frigate,Hugh Walls,Preniah Perry,Port Roseway,f,21
+208,21,33,London Frigate,Hugh Walls,Phillis Blue,Port Roseway,f,24
+209,21,33,London Frigate,Hugh Walls,Phillis Sparrow,Port Roseway,f,28
+210,21,33,London Frigate,Hugh Walls,Nannis Sparrow,Port Roseway,c f,11
+211,21,33,London Frigate,Hugh Walls,Sukey Sparrow,Port Roseway,c f,9
+212,21,33,London Frigate,Hugh Walls,John Sparrow,Port Roseway,c m,3
+213,21,33,London Frigate,Hugh Walls,Charles Francis,Port Roseway,m,20
+214,21,33,London Frigate,Hugh Walls,Jenny,Port Roseway,c f,4
+215,22,1,London Frigate,Hugh Walls,Samuel Gullet,Port Roseway,m,32
+216,22,2,London Frigate,Hugh Walls,Hester Singleton,Port Roseway,f,30
+217,22,3,London Frigate,Hugh Walls,Cathrine,Port Roseway,f,17
+218,22,4,London Frigate,Hugh Walls,Nancy,Port Roseway,f,20
+219,22,5,London Frigate,Hugh Walls,Phillis,Port Roseway,f,34
+220,22,6,London Frigate,Hugh Walls,Nan,Port Roseway,c f,12
+221,22,7,London Frigate,Hugh Walls,Nancy,Port Roseway,f,25
+222,22,8,London Frigate,Hugh Walls,Nancy Broughton,Port Roseway,f,24
+223,22,9,London Frigate,Hugh Walls,Barbara Ogden,Port Roseway,f,35
+224,22,10,Little Dale,Kellsick,Peter,Halifax,c m,15
+225,22,11,Ann,Joseph Clark,James Robertson,Port Roseway,m,49
+226,22,12,Ann,Joseph Clark,Betsey Robertson,Port Roseway,f,46
+227,22,13,Ann,Joseph Clark,James Robertson,Port Roseway,c m,2.5
+228,22,14,Ann,Joseph Clark,James Jackson,Port Roseway,m,50
+229,22,15,Ann,Joseph Clark,Judith Jackson,Port Roseway,f,24
+230,22,16,Ann,Joseph Clark,Harry Jackson,Port Roseway,c m,8
+231,22,17,Ann,Joseph Clark,Charles Fox,Port Roseway,m,33
+232,22,18,Ann,Joseph Clark,Rachel Fox,Port Roseway,f,42
+233,22,19,Ann,Joseph Clark,London Jackson,Port Roseway,m,32
+234,22,20,Ann,Joseph Clark,Sebro Jackson,Port Roseway,f,25
+235,22,21,Ann,Joseph Clark,Zelpher Jackson,Port Roseway,c m,1/2
+236,22,22,Ann,Joseph Clark,Nelly Jackson,Port Roseway,f,33
+237,22,23,Ann,Joseph Clark,Nancy Walker,Port Roseway,f,21
+238,22,24,Ann,Joseph Clark,James Collin,Port Roseway,m,43
+239,22,25,Ann,Joseph Clark,Dick Leich,Port Roseway,m,28
+240,22,26,Ann,Joseph Clark,Ruth Leich,Port Roseway,f,20
+241,22,27,Ann,Joseph Clark,Grace Leich,Port Roseway,f,17
+242,22,28,Ann,Joseph Clark,Jacob Wanton,Port Roseway,m,35
+243,22,29,Ann,Joseph Clark,Thomas Hicks,Port Roseway,c m,15
+244,22,30,Ann,Joseph Clark,Thomas Terhune,Port Roseway,m,19
+245,22,31,Ann,Joseph Clark,Dinah Terhune,Port Roseway,f,16
+246,22,32,Ann,Joseph Clark,Prince Few,Port Roseway,m,26
+247,22,33,Ann,Joseph Clark,Judah Few,Port Roseway,f,35
+248,22,33,Ann,Joseph Clark,child of Few,Port Roseway,c,5
+249,22,33,Ann,Joseph Clark,Abigail,Port Roseway,f,35
+250,22,33,Ann,Joseph Clark,child of Abigail,Port Roseway,c,4 months
+251,22,33,Ann,Joseph Clark,John Pell,Port Roseway,m,28
+252,22,33,Ann,Joseph Clark,John Pell,Port Roseway,c m,14
+253,22,33,Ann,Joseph Clark,Judah Pell,Port Roseway,f,25
+254,22,33,Ann,Joseph Clark,child of Pell,Port Roseway,c,5
+255,22,33,Ann,Joseph Clark,Ceasar Nicholls,Port Roseway,m,22
+256,22,33,Ann,Joseph Clark,Peter Warner,Port Roseway,m,30
+257,22,33,Ann,Joseph Clark,Effa Warner,Port Roseway,f,33
+258,22,33,Ann,Joseph Clark,child of Warner,Port Roseway,c m,2
+259,22,33,Ann,Joseph Clark,Dick Gray,Port Roseway,m,25
+260,22,33,Ann,Joseph Clark,Harry ,Port Roseway,m,23
+261,22,33,Ann,Joseph Clark,William,Port Roseway,c m,14
+262,23,1,Ann,Joseph Clark,Joe Gold,Port Roseway,m,30
+263,23,2,Ann,Joseph Clark,Betsey his wife,Port Roseway,f,33
+264,23,3,Ann,Joseph Clark,Sukey her daughter,Port Roseway,c f,12
+265,23,4,Esther,Robert Gill,Thomas Scutcheon,Port Roseway,m,28
+266,23,5,Esther,Robert Gill,Rache Scutcheon,Port Roseway,c f,14
+267,23,6,Esther,Robert Gill,Jack Browne,Port Roseway,m,48
+268,23,7,Esther,Robert Gill,Dinah Browne,Port Roseway,f,33
+269,23,8,Esther,Robert Gill,Acky Dickson,Port Roseway,m,25
+270,23,9,Esther,Robert Gill,Clara Dickson,Port Roseway,f,24
+271,23,10,Esther,Robert Gill,Andrew Johnson,Port Roseway,m,25
+272,23,11,Esther,Robert Gill,Jenny Johnson,Port Roseway,f,21
+273,23,12,Esther,Robert Gill,Jenny Reynolds,Port Roseway,f,25
+274,23,13,Esther,Robert Gill,Ned Godfrey,Port Roseway,m,42
+275,23,14,Esther,Robert Gill,Elizabeth Godfrey,Port Roseway,f,30
+276,23,15,Esther,Robert Gill,Jeffery Godfrey,Port Roseway,m,17
+277,23,16,Esther,Robert Gill,Betsey Godfrey,Port Roseway,c f,1 1/2
+278,23,17,Esther,Robert Gill,Abigail Godfrey,Port Roseway,f,75
+279,23,18,Esther,Robert Gill,Nero Simmon,Port Roseway,m,45
+280,23,19,Esther,Robert Gill,Cudjo,Port Roseway,m,40
+281,23,20,Esther,Robert Gill,Nancy Sears,Port Roseway,f,43
+282,23,21,Esther,Robert Gill,August Isaac,Port Roseway,m,25
+283,23,22,Esther,Robert Gill,Joseph Dickson,Port Roseway,m,25
+284,23,23,Esther,Robert Gill,John Prison,Port Roseway,m,24
+285,23,24,Esther,Robert Gill,Catharine his wife,Port Roseway,f,19
+286,23,25,Esther,Robert Gill,Brass Watson,Port Roseway,m,30
+287,23,26,Esther,Robert Gill,Nancy his wife,Port Roseway,f,30
+288,23,26,Esther,Robert Gill,child of Watson,Port Roseway,c,
+289,23,26,Esther,Robert Gill,child of Watson,Port Roseway,c,
+290,23,27,Esther,Robert Gill,Stephen Peters,Port Roseway,m,20
+291,23,28,Esther,Robert Gill,Bristol,Port Roseway,m,40
+292,23,29,Esther,Robert Gill,Peter Prentice,Port Roseway,m,32
+293,23,30,Esther,Robert Gill,Samuel Mason,Port Roseway,m,25
+294,23,31,Esther,Robert Gill,Polly his wife,Port Roseway,f,26
+295,23,32,Esther,Robert Gill,John Bullet,Port Roseway,m,35
+296,23,33,Esther,Robert Gill,Sall his wife,Port Roseway,f,26
+297,23,33,Esther,Robert Gill,child of Bullet,Port Roseway,c,
+298,23,33,Esther,Robert Gill,Lewis Moore,Port Roseway,m,50
+299,23,33,Esther,Robert Gill,John Lewis,Port Roseway,m,26
+300,23,33,Esther,Robert Gill,Job Allen,Port Roseway,m,27
+301,23,33,Esther,Robert Gill,Polly his wife,Port Roseway,f,27
+302,23,33,Esther,Robert Gill,child of Allen,Port Roseway,c,
+303,23,33,Esther,Robert Gill,child of Allen,Port Roseway,c,
+304,23,33,Esther,Robert Gill,Emanuel,Port Roseway,m,26
+305,23,33,Esther,Robert Gill,Isabella and small child,Port Roseway,f,29
+306,23,33,Esther,Robert Gill,child of Isabella,Port Roseway,c,
+307,23,33,Apollo,John Adamson,Joseph Fowler,Port Roseway,m,41
+308,23,33,Apollo,John Adamson,Mary Fowler,Port Roseway,f,9
+309,23,33,Apollo,John Adamson,Cato Boden,Port Roseway,m,28
+310,23,33,Apollo,John Adamson,Pegg Boden,Port Roseway,f,23
+311,24,1,Apollo,John Adamson,Nathaniel Black,Port Roseway,m,50
+312,24,2,Apollo,John Adamson,Effy Black,Port Roseway,f,25
+313,24,3,Apollo,John Adamson,Nathaniel Black,Port Roseway,c m,1 1/2
+314,24,4,Apollo,John Adamson,Prince Wigfall,Port Roseway,m,25
+315,24,5,Apollo,John Adamson,Rose Morgan,Port Roseway,c f,15
+316,24,6,Apollo,John Adamson,Jac Lawrence,Port Roseway,m,23
+317,24,7,Apollo,John Adamson,John Jarvis,Port Roseway,m,34
+318,24,8,Kingston,John Atkinson,Moses Lafton,Port Roseway,m,24
+319,24,9,Kingston,John Atkinson,Robert Brown,Port Roseway,m,26
+320,24,10,Kingston,John Atkinson,Towerhil Hall,Port Roseway,m,32
+321,24,11,Kingston,John Atkinson,Frank Crumline,Port Roseway,m,30
+322,24,12,Kingston,John Atkinson,Chloe Crumline,Port Roseway,f,45
+323,24,13,Kingston,John Atkinson,Mingo Crumline,Port Roseway,c m,7
+324,24,14,Kingston,John Atkinson,Ned Lawson,Port Roseway,m,22
+325,24,15,Kingston,John Atkinson,Patty Johnson,Port Roseway,f,17
+326,24,16,Kingston,John Atkinson,Adam Bush,Port Roseway,m,24
+327,24,17,Kingston,John Atkinson,Charity Bush,Port Roseway,f,26
+328,24,18,Kingston,John Atkinson,Sampson Bush,Port Roseway,m,40
+329,24,19,Stafford,Robert Watson,Jack Spencer,Port Roseway,m,34
+330,24,20,Stafford,Robert Watson,Robin Willett,Port Roseway,m,53
+331,24,21,Stafford,Robert Watson,John Dempse,Port Roseway,m,27
+332,24,22,Stafford,Robert Watson,Mary Collins,Port Roseway,f,28
+333,24,23,Stafford,Robert Watson,Hanna Collins,Port Roseway,c f,2
+334,24,24,Jane,Francis Laing,Tom Davis,Port Roseway,m,25
+335,24,25,Jane,Francis Laing,Becca Feggen,Port Roseway,c f,14
+336,24,26,Venus,John Martin,Charles Rinn,Port Roseway,m,32
+337,24,27,Venus,John Martin,Billy Rinn,Port Roseway,m,40
+338,24,28,Venus,John Martin,Carsy Rinn,Port Roseway,f,28
+339,24,29,Venus,John Martin,Phillis Rinn,Port Roseway,f,32
+340,24,30,Venus,John Martin,Anthony Jones,Port Roseway,m,40
+341,24,31,Venus,John Martin,Sentry and child,Port Roseway,f,28
+344,24,33,Three Sisters,John Wardell,Pompey Fleet,Port Roseway,m,26
+345,24,33,Three Sisters,John Wardell,Suky Coleman,Port Roseway,f,21
+346,24,33,Three Sisters,John Wardell,Sam Fleet,Port Roseway,c m,5
+347,24,33,Three Sisters,John Wardell,Mary Ann,Port Roseway,f,23
+348,24,33,Three Sisters,John Wardell,Foreman Pleasant,Port Roseway,c f,15
+349,24,33,Three Sisters,John Wardell,Sam Morris,Port Roseway,m,40
+350,24,33,Three Sisters,John Wardell,Betsy Morris,Port Roseway,f,38
+351,24,33,Three Sisters,John Wardell,Cuff Warwick,Port Roseway,m,28
+352,24,33,Three Sisters,John Wardell,Lydia Warwick his wife,Port Roseway,f,28
+353,24,33,Three Sisters,John Wardell,Jim,Port Roseway,c m,10
+354,25,1,Blackett,John Roxby,Thomas Bachus,Port Roseway,m,28
+355,25,2,Blackett,John Roxby,Jenny Bachus,Port Roseway,f,33
+356,25,3,Blackett,John Roxby,Flora Bachus,Port Roseway,c f,11
+357,25,4,Blackett,John Roxby,Mary Bachus,Port Roseway,c f,4
+358,25,5,Blackett,John Roxby,William Bachus,Port Roseway,c m,1
+359,25,6,Blackett,John Roxby,Jacob Howard,Port Roseway,m,26
+360,25,7,Blackett,John Roxby,Peggy Summer,Port Roseway,f,21
+361,25,8,Blackett,John Roxby,Sarah Howard,Port Roseway,c f,1
+362,25,9,Blackett,John Roxby,Charles Dixon,Port Roseway,m,47
+363,25,10,Blackett,John Roxby,Dolly Dixon,Port Roseway,f,41
+364,25,11,Blackett,John Roxby,Myles Dixon,Port Roseway,c m,15
+365,25,12,Blackett,John Roxby,Luke Dixon,Port Roseway,c m,13
+366,25,13,Blackett,John Roxby,Dick Dixon,Port Roseway,c m,12
+367,25,14,Blackett,John Roxby,Sophia Dixon,Port Roseway,c f,10
+368,25,15,Blackett,John Roxby,Sally Dixon,Port Roseway,c f,4
+369,25,16,Blackett,John Roxby,Henry Beach,Port Roseway,m,30
+370,25,17,Blackett,John Roxby,Robert Freeman,Port Roseway,m,27
+371,25,18,Blackett,John Roxby,Jonathan Monday,Port Roseway,m,19
+372,25,19,Blackett,John Roxby,William Simmons,Port Roseway,m,19
+373,25,20,Blackett,John Roxby,Shedrick Jones,Port Roseway,m,23
+374,25,21,Blackett,John Roxby,Francis Bruff,Port Roseway,m,18
+375,25,22,Blackett,John Roxby,Silva Shepherd,Port Roseway,f,25
+376,25,23,Blackett,John Roxby,Peggy Jones,Port Roseway,c f,1
+377,25,24,Blackett,John Roxby,William Smith,Port Roseway,m,33
+378,25,25,Blackett,John Roxby,Siles Bright,Port Roseway,m,31
+379,25,26,Blackett,John Roxby,Robert Jenkins,Port Roseway,m,31
+380,25,27,Blackett,John Roxby,Sarah Browne,Port Roseway,f,28
+381,25,28,Blackett,John Roxby,Sukey,Port Roseway,f,25
+382,25,29,Blackett,John Roxby,John Prior,Port Roseway,m,26
+383,25,30,Blackett,John Roxby,Nancy Mumford,Port Roseway,f,21
+384,25,31,Blackett,John Roxby,Adam Jones,Port Roseway,m,26
+385,25,32,Blackett,John Roxby,Francis Bruff,Port Roseway,m,18
+386,25,32,Blackett,John Roxby,Charles,Port Roseway,m,
+387,25,32,Blackett,John Roxby,Joe Ramsey,Port Roseway,m,31
+388,25,32,Blackett,John Roxby,Peggy Ramsey his wife,Port Roseway,f,31
+389,25,32,Blackett,John Roxby,Richard Ball,Port Roseway,m,20
+390,25,32,Blackett,John Roxby,Peter Richards,Port Roseway,m,33
+391,25,32,Blackett,John Roxby,Bella Richards his wife,Port Roseway,f,30
+392,25,32,Blackett,John Roxby,Libby Richards his daughter,Port Roseway,f,16
+393,25,32,Blackett,John Roxby,John Richards their son,Port Roseway,c m,15
+394,25,32,Blackett,John Roxby,John Gray,Port Roseway,m,28
+395,26,1,Blackett,John Roxby,Mary Bella,Port Roseway,f,29
+396,26,2,Blackett,John Roxby,Esther Smith,Port Roseway,c f,14
+397,26,3,Nero,George Burnett,Peter Donnell,Port Roseway,m,29
+398,26,4,Nero,George Burnett,Nancy Van Horne,Port Roseway,f,26
+399,26,5,Elizabeth,Michael Hodgson,John Jones,Port Roseway,m,40
+400,26,6,Elizabeth,Michael Hodgson,Lucretia Jones,Port Roseway,f,27
+628,31,9,Friends,John Willson,Benjamin,Halifax,m,21
+401,26,7,Elizabeth,Michael Hodgson,Charlott Jones,Port Roseway,c f,3
+402,26,8,Elizabeth,Michael Hodgson,William Wells,Port Roseway,m,30
+403,26,9,Elizabeth,Michael Hodgson,Mary Wells,Port Roseway,f,35
+404,26,10,Elizabeth,Michael Hodgson,William Frances,Port Roseway,m,30
+405,26,11,Elizabeth,Michael Hodgson,Rose Yeates,Port Roseway,f,30
+406,26,12,Elizabeth,Michael Hodgson,Billy Francis,Port Roseway,c m,3
+407,26,13,Elizabeth,Michael Hodgson,Dick Van Wart,Port Roseway,m,30
+408,26,14,Elizabeth,Michael Hodgson,Charles Francis,Port Roseway,m,27
+409,26,15,Elizabeth,Michael Hodgson,Thomas Francis,Port Roseway,m,36
+410,26,16,Elizabeth,Michael Hodgson,Robert James,Port Roseway,m,26
+411,26,17,Elizabeth,Michael Hodgson,Rebecca Williams,Port Roseway,f,25
+412,26,18,Elizabeth,Michael Hodgson,Rachel James,Port Roseway,c f,9
+413,26,19,Elizabeth,Michael Hodgson,James James,Port Roseway,c m,3/4
+414,26,20,Elizabeth,Michael Hodgson,Jack Dunlap,Port Roseway,c m,9
+415,26,21,Elizabeth,Michael Hodgson,Jenny Bruce,Port Roseway,c f,15
+416,26,22,Elizabeth,Michael Hodgson,Betsy Bruce,Port Roseway,c f,13
+417,26,23,Elizabeth,Michael Hodgson,Hilly Ivey,Port Roseway,c f,12
+418,26,24,Elizabeth,Michael Hodgson,Jacob,Port Roseway,m,20
+419,26,25,Elizabeth,Michael Hodgson,Sarah Gordon,Port Roseway,f,28
+420,26,26,Elizabeth,Michael Hodgson,Jasper Gordon,Port Roseway,c m,7
+421,26,27,Elizabeth,Michael Hodgson,Lucy Lydacre,Port Roseway,f,24
+422,26,28,Elizabeth,Michael Hodgson,Fany Lydacre,Port Roseway,c f,3
+423,26,29,Grace,William Oxley,Peter Martin,Port Roseway,c m,12
+424,26,30,Grace,William Oxley,Wallace,Port Roseway,m,21
+425,26,31,Grace,William Oxley,Nancy Hill,Port Roseway,f,22
+426,26,31,Grace,William Oxley,child of Hill,Port Roseway,c,
+427,26,32,Grace,William Oxley,Jack Tucker,Port Roseway,m,18
+428,26,33,Grace,William Oxley,Samuel Albert,Port Roseway,m,20
+429,26,33,Grace,William Oxley,Billy Williams,Port Roseway,m,23
+430,26,33,Grace,William Oxley,Rose Jackson,Port Roseway,f,22
+431,26,33,Grace,William Oxley,Anthony Piggot,Port Roseway,m,47
+432,26,33,Grace,William Oxley,Sarah Piggot,Port Roseway,f,36
+433,26,33,Grace,William Oxley,John Piggot their son,Port Roseway,m,18
+434,26,33,Grace,William Oxley,Ceasar Piggot their son,Port Roseway,c m,9
+435,26,33,Grace,William Oxley,Isaac James,Port Roseway,m,22
+436,26,33,Hope,Robert Peacock,Cato Cannon,St Johns River,m,40
+437,26,33,Hope,Robert Peacock,Phillis Ketchim,St Johns River,f,44
+438,26,33,Hope,Robert Peacock,Frank Fairweather,St Johns River,c m,10
+439,27,1,Hope,Robert Peacock,Jack Hyde,St Johns River,m,50
+441,27,3,Sovereign,William Stewart,Cornelius Moss,St Johns River,m,30
+442,27,4,Sovereign,William Stewart,Thomas Brinkerhoof,St Johns River,m,34
+443,27,5,Sovereign,William Stewart,Peter Bean,St Johns River,m,32
+444,27,6,Sovereign,William Stewart,Anthony Gillman,St Johns River,m,46
+445,27,7,Sovereign,William Stewart,George Black,St Johns River,m,40
+446,27,8,Sovereign,William Stewart,Betsy Black,St Johns River,f,35
+447,27,9,Sovereign,William Stewart,William Black,St Johns River,c m,14
+448,27,10,Sovereign,William Stewart,Sam,St Johns River,m,30
+449,27,11,Sovereign,William Stewart,Luke Spencer,St Johns River,m,25
+450,27,12,Sovereign,William Stewart,Abigail his wife,St Johns River,f,26
+451,27,12,Sovereign,William Stewart,child of Spencer,St Johns River,c,
+452,27,13,Sovereign,William Stewart,Bill Piggott,St Johns River,m,28
+453,27,14,Sovereign,William Stewart,Pompey Chase,St Johns River,m,28
+454,27,15,Sovereign,William Stewart,John Voice,St Johns River,m,36
+455,27,16,Sovereign,William Stewart,Dian,St Johns River,f,20
+456,27,16,Sovereign,William Stewart,child of Dian,St Johns River,c,
+457,27,17,Ann & Elizabeth,Ben Fowler,Peter Johnson,Port Roseway,m,35
+458,27,18,Ann & Elizabeth,Ben Fowler,Judith Johnson,Port Roseway,f,27
+459,27,19,Ann & Elizabeth,Ben Fowler,Thomas Danvers,Port Roseway,m,45
+460,27,20,Ann & Elizabeth,Ben Fowler,Sarah Cross,Port Roseway,f,34
+461,27,21,Ann & Elizabeth,Ben Fowler,Harry Spencell,Port Roseway,m,38
+462,27,22,Ann & Elizabeth,Ben Fowler,John Dunham,Port Roseway,m,25
+463,27,23,Ann & Elizabeth,Ben Fowler,Jack Smith,Port Roseway,m,25
+464,27,24,Ann & Elizabeth,Ben Fowler,Venus,Port Roseway,f,28
+465,27,25,Ann & Elizabeth,Ben Fowler,Samuel Drayton,Port Roseway,m,40
+466,27,26,Ann & Elizabeth,Ben Fowler,Catherine Drayton,Port Roseway,f,40
+467,27,27,Ann & Elizabeth,Ben Fowler,Dinah Edmonds,Port Roseway,f,34
+468,27,28,Ann & Elizabeth,Ben Fowler,Thomas Edmonds,Port Roseway,c m,5
+469,27,29,Ann & Elizabeth,Ben Fowler,John Rogers,Port Roseway,m,29
+470,27,30,Ann & Elizabeth,Ben Fowler,Henry Maxfield,Port Roseway,m,33
+471,27,31,Ann & Elizabeth,Ben Fowler,Hannah his wife,Port Roseway,f,23
+472,27,31,Ann & Elizabeth,Ben Fowler,child of Hannah,Port Roseway,c,
+473,27,31,Ann & Elizabeth,Ben Fowler,child of Hannah,Port Roseway,c,
+474,27,31,Ann & Elizabeth,Ben Fowler,Bill Browne,Port Roseway,m,24
+475,27,31,Ann & Elizabeth,Ben Fowler,Dinah Browne his wife,Port Roseway,f,23
+476,27,31,Ann & Elizabeth,Ben Fowler,child of Browne,Port Roseway,c,
+477,27,31,Ann & Elizabeth,Ben Fowler,Tom,Port Roseway,m,40
+478,27,31,Ann & Elizabeth,Ben Fowler,Nancy his wife,Port Roseway,f,40
+479,27,31,Ann & Elizabeth,Ben Fowler,Charles,Port Roseway,m,21
+480,27,31,Ann & Elizabeth,Ben Fowler,Prince Fraction,Port Roseway,m,25
+481,27,31,Montague,Robert Wilson,William Woodhouse,Port Roseway,m,48
+482,27,31,Montague,Robert Wilson,Jenny Perrill,Port Roseway,f,45
+483,27,31,Montague,Robert Wilson,child of Perrill,Port Roseway,c,1
+484,27,31,Montague,Robert Wilson,Benjamin Philips,Port Roseway,m,40
+485,28,1,Montague,Robert Wilson,Rachel,Port Roseway,f,28
+486,28,2,Montague,Robert Wilson,David,Port Roseway,c m,8
+487,28,3,Montague,Robert Wilson,Polly Pompey,Port Roseway,c f,9
+488,28,4,Montague,Robert Wilson,Minnus,Port Roseway,f,19
+489,28,5,Providence,John Richie,Nero McCulloch,Port Roseway,m,22
+490,28,6,Providence,John Richie,Patty Shewbrick,Port Roseway,f,20
+491,28,6,Providence,John Richie,child of Shewbrick,Port Roseway,c m,10 months
+492,28,7,Providence,John Richie,London Bloy,Port Roseway,m,40
+493,28,8,Providence,John Richie,Abigail Richardson,Port Roseway,f,38
+494,28,9,Providence,John Richie,Catharine Richardson,Port Roseway,c f,9
+495,28,10,Providence,John Richie,James Ramsey,Port Roseway,m,20
+496,28,11,Providence,John Richie,Hana Hazard,Port Roseway,f,36
+497,28,12,Providence,John Richie,Ben Hazard,Port Roseway,c m,11
+498,28,13,Providence,John Richie,David Jones,Port Roseway,m,40
+499,28,14,Providence,John Richie,Cato Ramsey,Port Roseway,m,45
+500,28,15,Providence,John Richie,China Godfrey,Port Roseway,f,35
+501,28,16,Providence,John Richie,Nelly Ramsey,Port Roseway,c f,15
+502,28,17,Providence,John Richie,Betsy Ramsey,Port Roseway,c f,10
+503,28,18,Providence,John Richie,Thomas Ellis,Port Roseway,m,25
+504,28,19,Providence,John Richie,Dinah Ellis,Port Roseway,f,25
+505,28,20,Providence,John Richie,Samuel Ellis,Port Roseway,c m,5
+506,28,21,Providence,John Richie,Lucy Ellis,Port Roseway,c f,3
+507,28,22,Providence,John Richie,Fonlove Jackson,Port Roseway,f,25
+508,28,23,Providence,John Richie,Dinah Jackson,Port Roseway,c f,9
+509,28,24,Providence,John Richie,Ned Jackson,Port Roseway,c m,6
+510,28,25,Providence,John Richie,Francis,Port Roseway,m,50
+511,28,26,Providence,John Richie,Sylvia,Port Roseway,f,30
+512,28,27,Providence,John Richie,Ben,Port Roseway,c m,12
+513,28,28,Providence,John Richie,Anthony Loyal,Port Roseway,m,36
+514,28,29,Providence,John Richie,Hagar his wife,Port Roseway,f,35
+515,28,30,Providence,John Richie,Abraham Cromwell,Port Roseway,m,16
+516,28,31,Providence,John Richie,James Campbell,Port Roseway,m,22
+517,28,32,Providence,John Richie,Bill,Port Roseway,m,26
+518,28,32,Providence,John Richie,Luke Johnson,Port Roseway,m,18
+519,28,32,Providence,John Richie,John Dick,Port Roseway,m,25
+520,28,32,Providence,John Richie,Henry Williams,Port Roseway,m,23
+521,28,32,Mary,Francis Roughbottom,Anthony Davis,Port Roseway,m,29
+522,28,32,Mary,Francis Roughbottom,Wynie Hampstead,Port Roseway,f,18
+523,28,32,Mary,Francis Roughbottom,child of Hamptead,Port Roseway,c,2 months
+524,28,32,Mary,Francis Roughbottom,Thomas Patrick,Port Roseway,m,42
+525,28,32,Mary,Francis Roughbottom,Phebe Patrick,Port Roseway,f,29
+526,28,32,Mary,Francis Roughbottom,Icabod Cornwall,Port Roseway,m,23
+527,28,32,Mary,Francis Roughbottom,Tamer Cornwall,Port Roseway,f,21
+528,29,1,Mary,Francis Roughbottom,Samuel Warner,Port Roseway,m,36
+529,29,2,Mary,Francis Roughbottom,Sally Hays,Port Roseway,f,46
+530,29,2,Mary,Francis Roughbottom,child of Hays,Port Roseway,c,2
+531,29,3,Mary,Francis Roughbottom,Sally Taylor,Port Roseway,f,35
+532,29,4,Mary,Francis Roughbottom,Samuel Whitting,Port Roseway,m,25
+533,29,5,Mary,Francis Roughbottom,Lucie Whitting,Port Roseway,f,36
+534,29,6,Mary,Francis Roughbottom,John Smith,Port Roseway,m,49
+535,29,7,Mary,Francis Roughbottom,Scipio Buxton,Port Roseway,m,26
+536,29,8,Mary,Francis Roughbottom,Thomas Plumb,Port Roseway,m,42
+537,29,9,Mary,Francis Roughbottom,Zaccheus Curle,Port Roseway,m,30
+538,29,10,Mary,Francis Roughbottom,George Butler,Port Roseway,m,23
+539,29,11,Mary,Francis Roughbottom,Sukey Butler,Port Roseway,f,23
+540,29,12,Mary,Francis Roughbottom,Frank Peters,Port Roseway,m,20
+541,29,13,Mary,Francis Roughbottom,Nancy Peters,Port Roseway,f,20
+542,29,14,Mary,Francis Roughbottom,Joe,Port Roseway,m,26
+543,29,15,Mary,Francis Roughbottom,Hannah his wife,Port Roseway,f,23
+544,29,15,Mary,Francis Roughbottom,child of Hannah,Port Roseway,c,
+545,29,15,Mary,Francis Roughbottom,child of Hannah,Port Roseway,c,
+546,29,16,Mary,Francis Roughbottom,William Ashe,Port Roseway,m,38
+547,29,17,Mary,Francis Roughbottom,Mary Ashe his wife,Port Roseway,f,38
+627,31,8,Friends,John Willson,Solomon,Halifax,c m,12
+548,29,18,Mary,Francis Roughbottom,Esther their daughter,Port Roseway,c f,10
+549,29,19,Mary,Francis Roughbottom,Sam Cuthbert,Port Roseway,m,30
+550,29,20,Mary,Francis Roughbottom,John Cuthbert,Port Roseway,m,26
+551,29,21,Mary,Francis Roughbottom,Lucinda his wife,Port Roseway,f,23
+552,29,21,Mary,Francis Roughbottom,child of Lucinda,Port Roseway,c,
+553,29,21,Mary,Francis Roughbottom,child of Lucinda,Port Roseway,c,
+554,29,22,Mary,Francis Roughbottom,Dinah,Port Roseway,f,20
+555,29,23,Mary,Francis Roughbottom,Salley,Port Roseway,f,18
+556,29,24,Mary,Francis Roughbottom,Sarah Fillifitas,Port Roseway,c f,14
+557,29,25,Mary,Francis Roughbottom,London,Port Roseway,m,19
+558,29,26,Mary,Francis Roughbottom,Primus,Port Roseway,m,19
+559,29,27,Mary,Francis Roughbottom,Hannah,Port Roseway,c f,14
+560,29,28,Mary,Francis Roughbottom,Charlotte Plumb,Port Roseway,c f,13
+561,29,29,Bacher & Atlee,Erasmus Roberts,Robert Winter,Port Roseway,m,26
+562,29,30,Bacher & Atlee,Erasmus Roberts,Waney VanSant,Port Roseway,m,45
+563,29,31,Bacher & Atlee,Erasmus Roberts,Betty Tynes,Port Roseway,f,30
+564,29,31,Bacher & Atlee,Erasmus Roberts,child of Tynes,Port Roseway,c,1 month
+565,29,32,Bacher & Atlee,Erasmus Roberts,Henry Kipp,Port Roseway,m,23
+566,29,33,Bacher & Atlee,Erasmus Roberts,August Griggs,Port Roseway,m,18
+567,29,33,Bacher & Atlee,Erasmus Roberts,Richard Dixon,Port Roseway,m,21
+568,29,33,Bacher & Atlee,Erasmus Roberts,Prince Princes,Port Roseway,m,53
+569,29,33,Bacher & Atlee,Erasmus Roberts,Margret Princes his wife,Port Roseway,f,40
+570,29,33,Bacher & Atlee,Erasmus Roberts,Nicholas Princes their son,Port Roseway,c m,11
+571,29,33,Bacher & Atlee,Erasmus Roberts,Elizabeth Princes their daughter,Port Roseway,f,20
+572,29,33,Bacher & Atlee,Erasmus Roberts,child of Princes,Port Roseway,c,
+573,29,33,Bacher & Atlee,Erasmus Roberts,Sam Van Norstrant,Port Roseway,m,28
+574,29,33,Bacher & Atlee,Erasmus Roberts,Isaac Anderson,Port Roseway,m,30
+575,29,33,Bacher & Atlee,Erasmus Roberts,Sarah Anderson his wife,Port Roseway,f,20
+576,29,33,Beaver,Peter Parker,Ceaser Handle,Port Roseway,m,34
+577,30,1,Beaver,Peter Parker,Joseph Skinner,Port Roseway,m,35
+578,30,2,Beaver,Peter Parker,Jinnia Lynch,Port Roseway,f,25
+579,30,3,Beaver,Peter Parker,Sally Lynch,Port Roseway,c f,6
+580,30,4,Katy,Peter Lawrence,William Robertson,Port Roseway,m,36
+581,30,5,Ranger,James Philips,Anthony Philips,Annapolis Royal,m,23
+582,30,6,Ranger,James Philips,Charles Demce,Annapolis Royal,m,23
+583,30,7,Ranger,James Philips,Hester Ruggles,Annapolis Royal,c f,7
+584,30,8,Ranger,James Philips,Jeffery Ruggles,Annapolis Royal,c m,6
+585,30,9,Ranger,James Philips,Prince,Annapolis Royal,m,19
+586,30,10,Ranger,James Philips,Robert Williams,Annapolis Royal,m,23
+587,30,11,Ranger,James Philips,John Costin,Annapolis Royal,m,25
+588,30,12,Ranger,James Philips,William,Annapolis Royal,c m,6
+589,30,13,Ranger,James Philips,Violett,Annapolis Royal,c m,11
+590,30,14,Delight,Benjamin Benjis,Jupiter King,River St. Johns,m,24
+591,30,15,Delight,Benjamin Benjis,Tom Wallace,River St. Johns,m,22
+592,30,16,Delight,Benjamin Benjis,Jack Cooper,River St. Johns,m,25
+593,30,17,Delight,Benjamin Benjis,John Clayton,River St. Johns,m,26
+594,30,18,Apollo,John Adams,John Kassery,Port Roseway,m,22
+595,30,19,Apollo,John Adams,Dublin Fowler,Port Roseway,c m,14
+596,30,20,Apollo,John Adams,Lotche Slaide,Port Roseway,m,46
+597,30,21,Apollo,John Adams,Freelove his wife,Port Roseway,f,49
+598,30,22,Apollo,John Adams,Roger their son,Port Roseway,c m,14
+599,30,23,Apollo,John Adams,Jack Rogers,Port Roseway,m,50
+600,30,24,Apollo,John Adams,St. Louis,Port Roseway,m,60
+601,30,25,Apollo,John Adams,Jacob Wigfall,Port Roseway,m,36
+602,30,26,Apollo,John Adams,Silvia his wife,Port Roseway,f,36
+603,30,27,Apollo,John Adams,Ishmael Warren,Port Roseway,m,25
+604,30,28,Apollo,John Adams,James Wright,Port Roseway,m,21
+605,30,29,Apollo,John Adams,Charles Jenkins,Port Roseway,m,19
+606,30,30,Kingston,John Atkinson,Joe Robinson,Port Roseway,m,25
+607,30,31,Kingston,John Atkinson,Absalom Dickson,Port Roseway,m,31
+608,30,32,Kingston,John Atkinson,Peggy and small boy,Port Roseway,f,28
+609,30,32,Kingston,John Atkinson,child of Peggy,Port Roseway,c m,
+610,30,33,Kingston,John Atkinson,Sabinah,Port Roseway,f,70
+611,30,33,Kingston,John Atkinson,Benjamin Shepherd,Port Roseway,m,20
+612,30,33,Kingston,John Atkinson,Nancy Collins,Port Roseway,f,19
+613,30,33,Kingston,John Atkinson,Phillis Lloyd,Port Roseway,f,19
+614,30,33,Kingston,John Atkinson,Affy Lloyd her mother,Port Roseway,f,36
+615,30,33,Kingston,John Atkinson,Jack Thomson,Port Roseway,m,24
+616,30,33,Kingston,John Atkinson,Patty Stokes,Port Roseway,f,19
+617,30,33,Kingston,John Atkinson,Stephen Ficklin,Port Roseway,m,22
+618,30,33,Stafford,Captain Watson,Amanda Courtney,Port Roseway,f,16
+619,30,33,Stafford,Captain Watson,Mariana,Port Roseway,f,29
+620,31,1,Stafford,Captain Watson,John Thomas,Port Roseway,m,28 1/2
+621,31,2,Stafford,Captain Watson,Cato Linus,Port Roseway,m,34
+622,31,3,Friends,John Willson,John Williams,Halifax,m,47
+623,31,4,Friends,John Willson,Lucretia,Halifax,f,29
+624,31,5,Friends,John Willson,Thomas London,Halifax,m,36
+625,31,6,Friends,John Willson,Mary,Halifax,f,55
+626,31,7,Friends,John Willson,Amoretta,Halifax,f,50
+629,31,10,Friends,John Willson,Frank Gibb,Halifax,c m,9
+630,31,11,Friends,John Willson,Betsy Willoughby,Halifax,f,21
+631,31,11,Friends,John Willson,child of Willoughby,Halifax,c,
+632,31,11,Friends,John Willson,child of Willoughby,Halifax,c,
+633,31,12,The Brothers,William Walker,Fortune,River St Johns,m,30
+634,31,13,The Brothers,William Walker,Sam,River St Johns,m,23
+635,31,14,The Brothers,William Walker,Cornelius McEntire,River St Johns,m,28
+636,31,15,The Brothers,William Walker,Lissey his wife,River St Johns,f,24
+637,31,16,The Brothers,William Walker,Bill McEntyre,River St Johns,c m,6
+638,31,17,The Brothers,William Walker,Charles Goodman,River St Johns,c m,11
+639,31,18,Montague,Robert Wilson,John Dunn,Port Roseway,m,45
+640,31,19,Montague,Robert Wilson,Dinah and little boy,Port Roseway,f,40
+641,31,19,Montague,Robert Wilson,child of Dinah,Port Roseway,c m,
+642,31,20,Montague,Robert Wilson,James Lindsey,Port Roseway,m,21
+643,31,21,Montague,Robert Wilson,David Saunders,Port Roseway,m,27
+644,31,22,Montague,Robert Wilson,Nancy Davids,Port Roseway,f,25
+645,31,22,Montague,Robert Wilson,child of Davids,Port Roseway,c,
+646,31,22,Montague,Robert Wilson,child of Davids,Port Roseway,c,
+647,31,22,Montague,Robert Wilson,child of Davids,Port Roseway,c,
+648,31,23,Montague,Robert Wilson,Jerry Pero,Port Roseway,m,30
+649,31,24,Nancy,Joseph Duffey,John Daniel,Port Roseway,m,31
+650,31,25,Nancy,Joseph Duffey,Jacob Somersil,Port Roseway,m,21
+651,31,26,Nancy,Joseph Duffey,John Gibbons,Port Roseway,m,43
+652,31,27,Eagle,John Gardner,Simon,Port Roseway,c m,12
+653,31,28,Eagle,John Gardner,Scipio,Port Roseway,m,25
+654,31,29,Eagle,John Gardner,Boston,Port Roseway,m,30
+655,31,30,Eagle,John Gardner,Effy and small child,Port Roseway,f,23
+656,31,30,Eagle,John Gardner,child of Effy,Port Roseway,c,
+657,31,31,Sally,John Prim,Silas,Port Roseway,m,31
+658,31,32,Sally,John Prim,Sam,Port Roseway,m,26
+659,31,33,Sally,John Prim,Jack,Port Roseway,m,23
+660,31,33,Gig,John Ewart,Francis,Port Roseway,m,23
+661,31,33,Gig,John Ewart,Joe Williams,Port Roseway,m,40
+662,31,33,Gig,John Ewart,John Smith,Port Roseway,m,29
+663,31,33,Gig,John Ewart,George Weeks,Port Roseway,m,25
+664,31,33,Gig,John Ewart,Will O'Neale,Port Roseway,m,25
+665,31,33,Union,Con Wilson,Tom Hyde,St. Johns,m,27
+666,31,33,Union,Con Wilson,Sukey,St. Johns,c f,9
+667,33,1,Free Britain,Jacob Hays,Leven Johnson,Port Roseway,m,31
+668,33,2,Free Britain,Jacob Hays,Margret Johnson,Port Roseway,f,43
+669,33,3,Free Britain,Jacob Hays,Thomas Johnson,Port Roseway,m,40
+670,33,4,Free Britain,Jacob Hays,Sarah Johnson,Port Roseway,f,22
+671,33,5,Free Britain,Jacob Hays,Colin Johnson,Port Roseway,c m,4
+672,33,6,Free Britain,Jacob Hays,Eisha Johnson,Port Roseway,c,11
+673,33,7,Free Britain,Jacob Hays,Patty Johnson,Port Roseway,c f,9 months
+674,33,8,Free Britain,Jacob Hays,Abraham Thomas,Port Roseway,m,20
+675,33,9,Free Britain,Jacob Hays,William Pitt,Port Roseway,m,32
+676,33,10,Free Britain,Jacob Hays,Jemima Bull,Port Roseway,f,26
+677,33,11,Free Britain,Jacob Hays,Philip  Bull,Port Roseway,c m,13
+678,33,12,Free Britain,Jacob Hays,Millia Bull,Port Roseway,c f,6
+679,33,13,Free Britain,Jacob Hays,Ceazer Bull,Port Roseway,c m,1
+680,33,14,Free Britain,Jacob Hays,Isaac Wilson,Port Roseway,m,22
+681,33,15,Free Britain,Jacob Hays,James Barclett,Port Roseway,m,59
+682,33,16,Free Britain,Jacob Hays,Kate Barclett,Port Roseway,f,45
+683,33,17,Free Britain,Jacob Hays,Nancy Jackson,Port Roseway,c f,11
+684,33,18,Free Britain,Jacob Hays,Joe Williams,Port Roseway,m,27
+685,33,19,Free Britain,Jacob Hays,Billy Knowland,Port Roseway,m,18
+686,33,20,Free Britain,Jacob Hays,John Williams,Port Roseway,m,30
+687,33,21,Free Britain,Jacob Hays,Mary,Port Roseway,f,25
+688,33,22,Free Britain,Jacob Hays,Samuel Edwards,Port Roseway,m,36
+689,33,23,Free Britain,Jacob Hays,Betsy Fountain,Port Roseway,f,21
+690,33,24,Free Britain,Jacob Hays,Isaac Wilkins,Port Roseway,c m,15
+691,33,25,Free Britain,Jacob Hays,Joshua Berry,Port Roseway,m,30
+692,33,26,Free Britain,Jacob Hays,Tabitha Berry,Port Roseway,f,24
+693,33,27,Free Britain,Jacob Hays,Jack Richards,Port Roseway,m,28
+694,33,27,Free Britain,Jacob Hays,James Johnson,Port Roseway,m,34
+695,33,27,Free Britain,Jacob Hays,Isaac Blackston,Port Roseway,m,23
+696,33,27,Free Britain,Jacob Hays,Pompey Lynden,Port Roseway,m,27
+697,33,27,Free Britain,Jacob Hays,Moses Watson,Port Roseway,m,25
+698,33,27,Free Britain,Jacob Hays,Henry Jackson,Port Roseway,m,35
+699,33,27,Free Britain,Jacob Hays,William Jackson,Port Roseway,m,22
+700,33,27,Free Britain,Jacob Hays,Cato Perkins,Port Roseway,m,44
+701,33,27,Symetry,Francis Maxwell,Tom Henry,St. Johns,m,19
+702,34,1,Symetry,Francis Maxwell,Cuff Fairchild,St. Johns,m,55
+703,34,2,Symetry,Francis Maxwell,Cuff Potter,St. Johns,m,53
+704,34,3,Symetry,Francis Maxwell,Tom Hoggart,St. Johns,m,22
+705,34,4,Symetry,Francis Maxwell,York Oliphant,St. Johns,m,16
+706,34,5,Symetry,Francis Maxwell,Bachus Samson,St. Johns,m,19
+707,34,6,Symetry,Francis Maxwell,Jack Griffith,St. Johns,c m,8
+708,34,7,Symetry,Francis Maxwell,Jack Josephson,St. Johns,m,17
+709,34,8,Symetry,Francis Maxwell,John Reed,St. Johns,m,45
+710,34,9,Symetry,Francis Maxwell,Prudence Connowell,St. Johns,f,32
+711,34,10,Symetry,Francis Maxwell,Jack Connowell,St. Johns,c m,2
+712,34,11,Two  Sisters,John Brown,London Derry,St. Johns,m,30
+713,34,12,Two  Sisters,John Brown,William Fortune,St. Johns,m,25
+714,34,13,Two  Sisters,John Brown,Moses Browne,St. Johns,m,20
+715,34,14,Two  Sisters,John Brown,James,St. Johns,m,25
+716,34,15,Two  Sisters,John Brown,Jack Buckley,St. Johns,m,50
+717,34,16,Two  Sisters,John Brown,Darkas Buckley,St. Johns,f,45
+718,34,17,Two  Sisters,John Brown,Prince Buckley,St. Johns,c m,5
+719,34,18,Generous Friends,Thomas Huntley,Andrew Creamer,St. Johns,m,60
+720,34,19,Generous Friends,Thomas Huntley,Ben Creamer,St. Johns,m,28
+721,34,20,Generous Friends,Thomas Huntley,Mary Creamer,St. Johns,f,20
+722,34,21,Generous Friends,Thomas Huntley,Sarah Creamer,St. Johns,c f,4
+723,34,22,Generous Friends,Thomas Huntley,James Ruffin,St. Johns,m,25
+724,34,23,Generous Friends,Thomas Huntley,Isabella,St. Johns,f,26
+725,34,24,Generous Friends,Thomas Huntley,Isabella,St. Johns,c f,5
+726,34,25,Generous Friends,Thomas Huntley,John Patterson,St. Johns,c m,15
+727,34,26,Generous Friends,Thomas Huntley,Jack Loosely,St. Johns,m,28
+728,34,27,Generous Friends,Thomas Huntley,Robert Lee,St. Johns,m,20
+729,34,28,Generous Friends,Thomas Huntley,David Bricker,St. Johns,m,18
+730,34,28,Thetis,Robert Gordon,Prince Williams,Fort Cumberland,m,17
+731,34,28,Thetis,Robert Gordon,Sill Williams,Fort Cumberland,c f,15
+732,34,28,Thetis,Robert Gordon,Harry Totton,Fort Cumberland,c m,12
+733,34,28,Thetis,Robert Gordon,Peter Totten,Fort Cumberland,m,28
+734,34,28,Nicholas and Jane,John Allison,Lidia Purdie,Fort Cumberland,c f,15
+735,34,28,Nicholas and Jane,John Allison,Israel Merrit,Fort Cumberland,m,25
+736,34,28,Nicholas and Jane,John Allison,Dinah Knepp,Fort Cumberland,f,29
+737,34,27,Nicholas and Jane,John Allison,Allice Knepp,Fort Cumberland,c f,6
+738,35,1,Nicholas and Jane,John Allison,Job Knepp,Fort Cumberland,c m,1
+739,35,2,Amities Production,Thomas Reid,William Stepney,St. Johns,m,24
+740,35,3,Amities Production,Thomas Reid,George State,St. Johns,m,25
+741,35,4,Amities Production,Thomas Reid,Mary State,St. Johns,f,21
+742,35,5,Amities Production,Thomas Reid,Job State,St. Johns,m,24
+743,35,6,Amities Production,Thomas Reid,William Holchapan,St. Johns,m,40
+744,35,7,William and Mary,Moses Brewer,Frank Symons,Annapolis Royal,m,45
+745,35,8,William and Mary,Moses Brewer,Mellia Marrant,Annapolis Royal,f,30
+746,35,9,William and Mary,Moses Brewer,Amelia Marrant,Annapolis Royal,c f,6
+747,35,10,William and Mary,Moses Brewer,Ben Marrant,Annapolis Royal,c m,4
+748,35,11,William and Mary,Moses Brewer,Cuffie Bush,Annapolis Royal,m,50
+749,35,12,William and Mary,Moses Brewer,Glasgow Grigg,Annapolis Royal,m,26
+750,35,13,William and Mary,Moses Brewer,Charles Ferrell,Annapolis Royal,c m,13
+751,35,14,William and Mary,Moses Brewer,Judith Glasgow,Annapolis Royal,f,22
+752,35,15,William and Mary,Moses Brewer,Hannah Glasgow,Annapolis Royal,c f,6
+753,35,16,William and Mary,Moses Brewer,Richard Glasgow,Annapolis Royal,c m,1 1/2
+754,35,17,William and Mary,Moses Brewer,John London,Annapolis Royal,m,20
+755,35,18,William and Mary,Moses Brewer,Peter Newbold,Annapolis Royal,m,30
+756,35,19,William and Mary,Moses Brewer,Ceaser Speffen,Annapolis Royal,m,42
+757,35,20,Thames,Abraham Ingram,Richard Cole,St. Johns River,m,35
+758,35,21,Thames,Abraham Ingram,Mary Braveboy,St. Johns River,f,44
+759,35,22,Thames,Abraham Ingram,Mima,St. Johns River,f,26
+760,35,23,Thames,Abraham Ingram,Jenny,St. Johns River,c f,12
+761,35,24,Thames,Abraham Ingram,Sarah and her infant,St. Johns River,f,30
+762,35,24,Thames,Abraham Ingram,child of Sarah,St. Johns River,c,
+763,35,25,Tartar,Andrew Yates,Joshua,St. Johns River,m,22
+764,35,26,Tartar,Andrew Yates,Harry Bourdett,St. Johns River,m,18
+765,35,27,Tartar,Andrew Yates,Ceaser,St. Johns River,m,16
+766,35,28,Tartar,Andrew Yates,Charles Cambridge,St. Johns River,m,27
+767,35,29,Tartar,Andrew Yates,Mary,St. Johns River,f,39
+768,35,29,Tartar,Andrew Yates,Betty and infant,St. Johns River,f,20
+769,35,29,Tartar,Andrew Yates,child of Betty,St. Johns River,c,
+770,35,29,Hopewell,William Proutt,Nelly Cooper,St. Johns River,c f,11
+771,35,29,Hopewell,William Proutt,Sylvia,St. Johns River,f,16
+772,35,29,Hopewell,William Proutt,James,St. Johns River,c m,13
+773,35,29,Hopewell,William Proutt,Tom,St. Johns River,c m,12
+774,35,29,Little Dale,Richard Kelsick,London,St. Johns River,m,68
+775,35,29,Little Dale,Richard Kelsick,Jacob,St. Johns River,c m,12
+776,36,1,Little Dale,Richard Kelsick,Jude,St. Johns River,c f,14
+777,36,2,Little Dale,Richard Kelsick,York,St. Johns River,m,23
+778,36,3,Little Dale,Richard Kelsick,Sarah and 2 children,St. Johns River,f,25
+779,36,3,Little Dale,Richard Kelsick,child of Sarah,St. Johns River,c,
+780,36,3,Little Dale,Richard Kelsick,child of Sarah,St. Johns River,c,
+781,36,4,Little Dale,Richard Kelsick,Jack,St. Johns River,c m,15
+782,36,5,Bridgewater,Daniel Adnitt,Joe,St. Johns River,c m,12
+783,36,6,Bridgewater,Daniel Adnitt,Jack,St. Johns River,m,38
+784,36,7,Bridgewater,Daniel Adnitt,Betty,St. Johns River,f,20
+785,36,8,Bridgewater,Daniel Adnitt,Sukey,St. Johns River,c f,4
+786,36,9,Bridgewater,Daniel Adnitt,Daniel Carey,St. Johns River,m,22
+787,36,10,Bridgewater,Daniel Adnitt,Jack Coley and 3 children,St. Johns River,m,34
+788,36,10,Bridgewater,Daniel Adnitt,child of Coley,St. Johns River,c,
+789,36,10,Bridgewater,Daniel Adnitt,child of Coley,St. Johns River,c,
+790,36,10,Bridgewater,Daniel Adnitt,child of Coley,St. Johns River,c,
+791,36,11,Bridgewater,Daniel Adnitt,Dinah,St. Johns River,f,24
+792,36,12,Bridgewater,Daniel Adnitt,Cuffie,St. Johns River,m,40
+793,36,13,Bridgewater,Daniel Adnitt,Jemima with 2 children,St. Johns River,f,18
+794,36,13,Bridgewater,Daniel Adnitt,child of Jemima,St. Johns River,c,
+795,36,13,Bridgewater,Daniel Adnitt,child of Jemima,St. Johns River,c,
+796,36,14,Bridgewater,Daniel Adnitt,John Wilkins,St. Johns River,m,26
+797,36,15,Bridgewater,Daniel Adnitt,Dolly,St. Johns River,f,24
+798,36,16,Bridgewater,Daniel Adnitt,Robert Lawson,St. Johns River,m,34
+799,36,17,Bridgewater,Daniel Adnitt,Philip,St. Johns River,m,40
+800,36,18,Bridgewater,Daniel Adnitt,Ann,St. Johns River,c f,15
+801,36,19,Bridgewater,Daniel Adnitt,Molly,St. Johns River,c f,15
+802,36,20,Bridgewater,Daniel Adnitt,Adam,St. Johns River,c m,11
+803,36,21,Dutchess of Gordon,John Holms,Sam,St. Johns River,m,34
+804,36,22,Dutchess of Gordon,John Holms,Sarah and 5 children,St. Johns River,f,26
+805,36,22,Dutchess of Gordon,John Holms,child of Sarah,St. Johns River,c,
+806,36,22,Dutchess of Gordon,John Holms,child of Sarah,St. Johns River,c,
+807,36,22,Dutchess of Gordon,John Holms,child of Sarah,St. Johns River,c,
+808,36,22,Dutchess of Gordon,John Holms,child of Sarah,St. Johns River,c,
+809,36,22,Dutchess of Gordon,John Holms,child of Sarah,St. Johns River,c,
+810,36,23,Dutchess of Gordon,John Holms,Jack White,St. Johns River,m,40
+811,36,24,Dutchess of Gordon,John Holms,Ceasar Closs,St. Johns River,m,36
+812,37,1,Lydia,Jacob Getcheus,Thomas Tait,Annapolis Royal,m,23
+813,37,2,Lydia,Jacob Getcheus,Hagar Thomson,Annapolis Royal,f,22
+814,37,3,Lydia,Jacob Getcheus,Kassey Aitken,Annapolis Royal,m,19
+815,37,4,Lydia,Jacob Getcheus,Henry Bruens,Annapolis Royal,m,45
+816,37,5,Lydia,Jacob Getcheus,Peter Huams,Annapolis Royal,m,50
+817,37,6,Lydia,Jacob Getcheus,Eli Atken,Annapolis Royal,c m,14
+818,37,7,Lydia,Jacob Getcheus,Hagar Bruen,Annapolis Royal,f,44
+819,37,8,Lydia,Jacob Getcheus,James Johnson,Annapolis Royal,c m,15
+820,37,9,Three Friends,John Stewart,Tom Gunn,River St Johns,m,43
+821,37,10,Three Friends,John Stewart,Richard Merrick,River St Johns,m,32
+822,37,11,Three Friends,John Stewart,Elizabeth Merrick,River St Johns,f,27
+823,37,12,Three Friends,John Stewart,William Johnson,River St Johns,m,21
+824,37,13,Three Friends,John Stewart,Hannah and,River St Johns,f,16
+825,37,14,Three Friends,John Stewart,Sally her child,River St Johns,c f,8 months
+826,37,15,Lydia,Jacob Getcheus,Charles,Annapolis Royal,c m,10
+827,37,16,Lydia,Jacob Getcheus,Brutus Junius,Annapolis Royal,m,42
+828,37,17,Lydia,Jacob Getcheus,Amey Junius,Annapolis Royal,f,35
+829,37,18,Lydia,Jacob Getcheus,Grace her infant,Annapolis Royal,c f,7 months
+830,37,19,Lydia,Jacob Getcheus,Cato,Annapolis Royal,m,25
+831,37,20,Lydia,Jacob Getcheus,Bristol,Annapolis Royal,m,35
+832,38,1,Ann ,John Clark,Pompy Wanton,St. Johns River,m,25
+833,38,2,Ann ,John Clark,Peter Stogdon,St. Johns River,m,23
+834,38,3,Ann ,John Clark,Jacob Smith,St. Johns River,m,20
+835,38,4,Ann ,John Clark,Dinah Simmons,St. Johns River,f,40
+836,38,5,Ann ,John Clark,Sylvia Smith,St. Johns River,c f,14
+837,38,6,Grace ,William Baxley,Ruben Upkins,St. Johns River,m,24
+838,38,7,Grace ,William Baxley,Lidya Tomkins,St. Johns River,f,34
+839,38,8,Grace ,William Baxley,Sam Tomkins,St. Johns River,c m,2
+840,38,9,Lord Townshend,James Hogg,David Riddle,St. Johns River,m,28
+841,38,10,Lord Townshend,James Hogg,Ben Riddle,St. Johns River,c m,7
+1884,61,32,Ann,Clark,Dick Vincent,,c m,10
+842,38,11,Lord Townshend,James Hogg,Nancy Howard,St. Johns River,f,23
+843,38,12,Lord Townshend,James Hogg,John Ceasor,St. Johns River,c m,3 months
+844,38,13,Lord Townshend,James Hogg,John Howard,St. Johns River,m,26
+845,38,14,Commerce ,Richard Strong,Sipio Bazeley,St. Johns River,m,30
+846,38,15,Commerce ,Richard Strong,Peter Beardsley,St. Johns River,m,24
+847,38,16,Commerce ,Richard Strong,Anthony Jarvis,St. Johns River,m,34
+848,38,17,Commerce ,Richard Strong,Betsy Jarvis,St. Johns River,c f,2
+849,38,18,Joseph,Martin Stout,Isaac Berry,St. Johns River,m,36
+850,38,19,Joseph,Martin Stout,Hagar Britain,St. Johns River,f,41
+851,38,20,Apollo ,John Adamson,Thomas Rogers,Port Roseway,m,40
+852,38,21,Apollo ,John Adamson,Cara Wilkins,Port Roseway,f,27
+853,38,22,Apollo ,John Adamson,Jupiter Wise,Port Roseway,m,25
+854,38,23,Apollo ,John Adamson,Sealia Bowden,Port Roseway,f,27
+855,38,24,Apollo ,John Adamson,Sally Bowden,Port Roseway,c f,3
+856,38,25,Apollo ,John Adamson,Dempsey Bowden,Port Roseway,c m,2 months
+858,38,27,Mars,,Cloe Haynes,Port Roseway,c f,8
+859,38,28,Mars,,Nancy Haynes,Port Roseway,c f, 1/2
+860,38,29,Esther,Robert Gills,Sarah Jackson,Port Roseway,f,23
+861,38,30,Esther,Robert Gills,Hanna Jackson,Port Roseway,c f,2
+862,38,31,Esther,Robert Gills,Mary Ann,Port Roseway,f,25
+863,38,32,Esther,Robert Gills,Elizabeth,Port Roseway,c f,6
+864,38,33,Esther,Robert Gills,Nancy,Port Roseway,c f,3 months
+865,38,33,Esther,Robert Gills,Charles Harbert,Port Roseway,m,50
+866,38,33,Esther,Robert Gills,Rose Harbert,Port Roseway,f,45
+867,38,33,Esther,Robert Gills,Hanna Harbert,Port Roseway,f,40
+868,38,33,Esther,Robert Gills,Jenny Harbert,Port Roseway,c f,9
+869,38,33,Esther,Robert Gills,David Harbert,Port Roseway,c m,5
+870,38,33,Esther,Robert Gills,Isaac Harbert,Port Roseway,c m,11
+871,38,33,Esther,Robert Gills,London Harbert,Port Roseway,m,30
+872,38,33,Esther,Robert Gills,Venus Harbert,Port Roseway,f,16
+873,38,33,Esther,Robert Gills,Kimme Williams,Port Roseway,f,18
+874,39,1,Elizabeth,John Watson,George Goddin,St. Johns River,m,22
+875,39,2,Elizabeth,John Watson,Penny Channell,St. Johns River,f,22
+876,39,3,Elizabeth,John Watson,Abraham Channel,St. Johns River,c m,1
+877,39,4,Elizabeth,John Watson,Abraham Dalton,St. Johns River,m,18
+878,39,5,Elizabeth,John Watson,Jenny Cole,St. Johns River,f,36
+879,39,6,Elizabeth,John Watson,Henry Cole,St. Johns River,m,33
+880,39,7,Elizabeth,John Watson,Fanny Mosely,St. Johns River,f,27
+881,39,8,Elizabeth,John Watson,Tommy Mosely,St. Johns River,c m,1
+882,39,9,Ann,Joseph Clarke,Harry Myers,St. Johns River,m,21
+883,39,10,Ann,Joseph Clarke,George Williams,St. Johns River,m,27
+884,39,11,Ann,Joseph Clarke,Polly Williams,St. Johns River,f,20
+885,39,12,Lord Townshend,James Hogg,Anna ,St. Johns River,f,27
+886,39,13,Lord Townshend,James Hogg,Sukey her daughter,St. Johns River,c f,11 months
+887,39,14,Sovereign,William Stewart,Peter Wearin,St. Johns River,m,21
+888,39,15,Sovereign,William Stewart,Kezzia,St. Johns River,f,16
+889,39,16,Sovereign,William Stewart,Jack,St. Johns River,m,18
+890,39,17,Commerce,Richard Strong,Adam,St. Johns River,m,24
+891,39,18,Commerce,Richard Strong,Hercules,St. Johns River,m,21
+892,39,19,Commerce,Richard Strong,Sally,St. Johns River,f,20
+893,39,20,Commerce,Richard Strong,Jacob,St. Johns River,c m,12
+894,39,21,Commerce,Richard Strong,Dinah,St. Johns River,f,35
+895,39,22,Joseph,Martin Stokes,Henry Perry,St. Johns River,m,20
+896,39,23,Joseph,Martin Stokes,Betty,St. Johns River,f,26
+897,39,24,Joseph,Martin Stokes,Sarah,St. Johns River,c f,11 months
+898,39,25,Joseph,Martin Stokes,Jack,St. Johns River,c m,4
+899,39,26,William,Edward Major,Andrew West,St. Johns River,m,24
+900,39,27,William,Edward Major,Flora Nerna,St. Johns River,f,48
+901,39,28,William,Edward Major,Michael Wilkins,St. Johns River,c m,15
+902,39,29,Apollo,John Adamson,Edward Jackson,Port Roseway,c m,14
+903,39,30,Apollo,John Adamson,James Jackson,Port Roseway,c m,12
+904,39,31,Apollo,John Adamson,Henry Carter,Port Roseway,m,24
+905,39,32,Apollo,John Adamson,Dinah,Port Roseway,f,26
+906,39,32,Mars,James Grayson,Anna,Port Roseway,f,20
+907,39,32,Mars,James Grayson,Prince Augustus,Port Roseway,m,50
+908,39,32,Mars,James Grayson,Thomas Britton,Port Roseway,m,30
+909,39,32,Mars,James Grayson,Richard Betts,Port Roseway,m,22
+910,39,32,Mars,James Grayson,Silas Bright,Port Roseway,m,25
+911,39,32,Mars,James Grayson,Tony Haines,Port Roseway,m,45
+912,39,32,Mars,James Grayson,Sukey,Port Roseway,c f,9
+913,39,32,Mars,James Grayson,Samuel Ivey,Port Roseway,m,44
+914,40,1,Montague,Robert Wilson,John Potter,River St. Johns,m,25
+915,40,2,Montague,Robert Wilson,Lucy Potter,River St. Johns,f,24
+916,40,3,Montague,Robert Wilson,Tom Mills,River St. Johns,c m,15
+917,40,4,Montague,Robert Wilson,Ben Grey,River St. Johns,m,50
+918,40,5,Aurora,Jackson,Thomas Brown,River St. Johns,m,26
+919,40,6,Esther,Robert Gill,John Postell,Port Roseway,m,22
+920,40,7,Esther,Robert Gill,Robin Postell,Port Roseway,c m,12
+921,40,8,Esther,Robert Gill,Cesar Williams,Port Roseway,m,41
+922,40,9,Esther,Robert Gill,Thomas Jackson,Port Roseway,m,40
+923,40,10,Esther,Robert Gill,John Upham,Port Roseway,m,62
+924,40,11,Esther,Robert Gill,Hagar Upham,Port Roseway,f,42
+925,40,12,Esther,Robert Gill,Nancy Williams,Port Roseway,f,29
+926,40,13,Esther,Robert Gill,Hanna her daughter,Port Roseway,c f,5 months
+927,40,14,Esther,Robert Gill,Lucy Bloom,Port Roseway,f,40
+928,40,15,Esther,Robert Gill,Dinah,Port Roseway,c f,13
+929,40,16,Esther,Robert Gill,Ben,Port Roseway,c m,11
+930,40,17,Esther,Robert Gill,Robert Pleasant,Port Roseway,m,30
+931,40,18,Elizabeth,John Watson,Abraham Mifflin,River St. Johns,m,42
+932,40,19,Elizabeth,John Watson,Nancy,River St. Johns,f,40
+933,40,20,Elizabeth,John Watson,David,River St. Johns,c m,7
+934,40,21,Elizabeth,John Watson,Walley Warring,River St. Johns,m,23
+935,40,22,Elizabeth,John Watson,Toney,River St. Johns,c m,10
+936,40,23,Elizabeth,John Watson,Prince Royal,River St. Johns,m,26
+937,41,1,Lord Townshend,James Hogg,Thomas Lydecker,River St. Johns,m,32
+938,41,2,Mars,James Grayson,Willis Herbert,Port Roseway,m,30
+939,41,3,Mars,James Grayson,Jonas Bracey,Port Roseway,m,25
+940,41,4,Aurora,Thomas Jackson,Peter Cox,River St. Johns,m,24
+941,41,5,Aurora,Thomas Jackson,Ned Morris,River St. Johns,m,36
+942,41,6,Aurora,Thomas Jackson,Charity Morris,River St. Johns,f,28
+943,41,7,Aurora,Thomas Jackson,Isaac,River St. Johns,c m,9
+944,41,8,Aurora,Thomas Jackson,Edward,River St. Johns,c m,5
+945,41,9,Aurora,Thomas Jackson,Mary Ann,River St. Johns,c f,3
+946,41,10,Aurora,Thomas Jackson,Unus Deaton,River St. Johns,f,27
+947,41,11,Mary,Mathew Peacock,George Flanders,Quebec,m,23
+948,41,12,Mary,Mathew Peacock,Phillis Duet,Quebec,f,46
+949,41,13,Mary,Mathew Peacock,Judith Duett,Quebec,c f,8
+950,41,14,Camel,William Tinker,Abigail Orser,Quebec,c f,14
+951,41,15,Camel,William Tinker,Oliver Orser,Quebec,c m,11
+952,41,16,Blackett,John Roxby,Nicholas Clause,Quebec,m,40
+953,41,17,Blackett,John Roxby,Lena Clause,Quebec,f,40
+954,41,18,Blackett,John Roxby,Nancy Hill,Quebec,f,27
+955,41,19,Blackett,John Roxby,Elsee Boon,Quebec,f,28
+956,41,20,Blackett,John Roxby,Dick Boon,Quebec,m,50
+957,41,21,Blackett,John Roxby,Celia Boon,Quebec,f,30
+958,41,22,Blackett,John Roxby,Rosetta,Quebec,f,30
+959,41,23,Hope,R. Peacock,Lucia,Quebec,f,37
+960,41,24,Baker & Atly,Roberts,Tampier,Quebec,m,50
+961,41,25,Baker & Atly,Roberts,Mary,Quebec,c f,11
+962,41,26,Union,Consill Wilson,Jack Harrison,Quebec,m,60
+963,41,27,Union,Consill Wilson,Charity Umberston,Quebec,f,22
+964,41,28,London Frigate,Hugh Watts,Jeffrey,Bremer Lee,c m,10
+965,41,29,Antelope,Gordon,Dan,Bremer Lee,c m,7
+966,41,30,Antelope,Gordon,George Bishick,Bremer Lee,m,26
+967,41,31,Trident,Robert Gallile,Tom,Bremer Lee,m,26
+968,41,31,Trident,Robert Gallile,Judith,Bremer Lee,f,16
+969,41,31,Trident,Robert Gallile,Toby,Bremer Lee,m,23
+970,41,31,Trident,Robert Gallile,Dick,Bremer Lee,m,25
+971,43,1,Sally,William Bell,John Primus,River St Johns,m,22
+972,43,2,Sally,William Bell,James,River St Johns,m,26
+973,43,3,Nancy,Robert Bauer,Jersula Fortune,Halifax,f,24
+974,43,4,Nancy,Robert Bauer,Simon,Halifax,c m,12
+975,43,5,Nancy,Robert Bauer,Jeff,Halifax,c m,9
+976,43,6,Nancy,Robert Bauer,Andrew Moore,Halifax,m,23
+977,43,7,Nancy,Robert Bauer,William Allen,Halifax,m,23
+978,43,8,Spencer,Robert Valentine,Lucinda,River St. Johns,f,25
+979,43,9,Hesperus,Samuel Clarke,Tom,River St. Johns,m,23
+980,43,10,Hesperus,Samuel Clarke,Jem,River St. Johns,c m,14
+981,43,11,Hesperus,Samuel Clarke,Sally,River St. Johns,f,23
+982,43,12,Fishburn,Joseph Gill,James Langford,River St. Johns,m,21
+983,43,13,Fishburn,Joseph Gill,Gabriel Philcox,River St. Johns,m,22
+984,43,14,Fishburn,Joseph Gill,Stach,River St. Johns,f,17
+985,43,15,Fishburn,Joseph Gill,Joe,River St. Johns,c m,9 months
+986,43,16,Fishburn,Joseph Gill,Fortune,River St. Johns,c m,12
+987,43,17,Fishburn,Joseph Gill,Richard Fowler,River St. Johns,m,25
+988,43,19,Kingston,John Atkinson,George Peters,Port Roseway,m,23
+989,43,20,Kingston,John Atkinson,Thomas Channell,Port Roseway,m,24
+990,43,21,Kingston,John Atkinson,Benjamin Dunn,Port Roseway,m,21
+991,43,22,Kingston,John Atkinson,Jack Sweley,Port Roseway,c m,12
+992,43,23,Kingston,John Atkinson,Clarissa Channell,Port Roseway,f,20
+993,43,24,Kingston,John Atkinson,Jenny Parker,Port Roseway,f,30
+994,43,25,Peggy,Jacob Wilson,William Faucett,River St. Johns,m,25
+995,43,26,Peggy,Jacob Wilson,Jeremiah Cole,River St. Johns,m,20
+996,43,27,Peggy,Jacob Wilson,Thomas Fountain,River St. Johns,m,44
+997,43,28,Peggy,Jacob Wilson,Peter Parker,River St. Johns,m,40
+998,43,29,Peggy,Jacob Wilson,Jenny,River St. Johns,f,22
+999,43,30,Peggy,Jacob Wilson,Jenny,River St. Johns,c f,14
+1000,43,31,Peggy,Jacob Wilson,Pomp Willet,River St. Johns,m,36
+1001,43,32,Peggy,Jacob Wilson,Nancy Willet,River St. Johns,f,23
+1002,43,33,Peggy,Jacob Wilson,John,River St. Johns,c m,8
+1003,43,33,Peggy,Jacob Wilson,Lilly,River St. Johns,c f,5
+1004,43,33,Peggy,Jacob Wilson,Pompey Ravo,River St. Johns,m,40
+1005,43,33,Peggy,Jacob Wilson,Charles Strephon,River St. Johns,m,18
+1006,43,33,Peggy,Jacob Wilson,Maryanne,River St. Johns,f,43
+1007,43,33,Peggy,Jacob Wilson,Rebecca,River St. Johns,c f,12
+1008,43,33,Peggy,Jacob Wilson,Binah Jones,River St. Johns,f,36
+1009,43,33,Stafford,Robert Wilson,Bill Williams,Port Roseway,m,19
+1010,43,33,Stafford,Robert Wilson,Peter Johnson,Port Roseway,m,18
+1011,43,33,Stafford,Robert Wilson,John Ranger,Port Roseway,m,24
+1012,43,33,Stafford,Robert Wilson,William Williams,Port Roseway,m,23
+1013,44,1,L'Abondence,Lt. Phillips,John Green,Port Roseway,m,35
+1014,44,2,L'Abondence,Lt. Phillips,David Shepherd,Port Roseway,c m,15
+1015,44,3,L'Abondence,Lt. Phillips,Cathern Van Sayl,Port Roseway,f,26
+1016,44,4,L'Abondence,Lt. Phillips,Mary Van Sayl,Port Roseway,c f,5
+1017,44,5,L'Abondence,Lt. Phillips,Peter Van Sayl,Port Roseway,c m,2 months
+1018,44,6,L'Abondence,Lt. Phillips,Cornelius Van Sayl,Port Roseway,m,30
+1019,44,7,L'Abondence,Lt. Phillips,Rose Bond,Port Roseway,f,21
+1020,44,8,L'Abondence,Lt. Phillips,Dick Bond,Port Roseway,c m,18 months
+1021,44,9,L'Abondence,Lt. Phillips,Kate Mosely,Port Roseway,c f,12
+1022,44,10,L'Abondence,Lt. Phillips,Dick Wilkinson,Port Roseway,c m,10
+1023,44,11,L'Abondence,Lt. Phillips,Charles Ford,Port Roseway,m,28
+1024,44,12,L'Abondence,Lt. Phillips,Hannah Ford,Port Roseway,f,30
+1025,44,13,L'Abondence,Lt. Phillips,Kesiah Ford,Port Roseway,c f,2
+1026,44,14,L'Abondence,Lt. Phillips,Joseph Elliot,Port Roseway,m,30
+1027,44,15,L'Abondence,Lt. Phillips,Nancy Elliot,Port Roseway,f,26
+1028,44,16,L'Abondence,Lt. Phillips,Margaret Wallus,Port Roseway,f,27
+1029,44,17,L'Abondence,Lt. Phillips,Judith Wallus,Port Roseway,c f,2 weeks
+1030,44,18,L'Abondence,Lt. Phillips,Jenny Bush,Port Roseway,c f,11
+1031,44,19,L'Abondence,Lt. Phillips,James Connor,Port Roseway,m,25
+1032,44,20,L'Abondence,Lt. Phillips,Thirisso Connor,Port Roseway,f,24
+1033,44,21,L'Abondence,Lt. Phillips,Betsey Connor,Port Roseway,c f,18 months
+1034,44,22,L'Abondence,Lt. Phillips,Jane Connor,Port Roseway,c f,6
+1035,44,23,L'Abondence,Lt. Phillips,Sally Godfrey,Port Roseway,f,36
+1036,44,24,L'Abondence,Lt. Phillips,John Godfrey,Port Roseway,c m,13
+1037,44,25,L'Abondence,Lt. Phillips,Jacob Godfrey,Port Roseway,c m,10
+1038,44,26,L'Abondence,Lt. Phillips,Kate Godfrey,Port Roseway,c f,15
+1039,44,27,L'Abondence,Lt. Phillips,Judith Bush,Port Roseway,f,50
+1040,44,28,L'Abondence,Lt. Phillips,Elizabeth Hutchins,Port Roseway,f,23
+1041,44,29,L'Abondence,Lt. Phillips,Jane Hill,Port Roseway,f,60
+1042,44,30,L'Abondence,Lt. Phillips,Patience Euinge,Port Roseway,f,16
+1043,44,31,L'Abondence,Lt. Phillips,Sarah McDonald,Port Roseway,f,17
+1044,44,32,L'Abondence,Lt. Phillips,Ishmeal Mosely,Port Roseway,m,26
+1045,44,33,L'Abondence,Lt. Phillips,John Jackson,Port Roseway,m,33
+1046,44,33,L'Abondence,Lt. Phillips,Samuel Johnson,Port Roseway,m,27
+1047,44,33,L'Abondence,Lt. Phillips,Polly Johnson,Port Roseway,f,27
+1048,44,33,L'Abondence,Lt. Phillips,Harry Williams,Port Roseway,m,35
+1049,44,33,L'Abondence,Lt. Phillips,Norfolk Virginia,Port Roseway,m,30
+1050,44,33,L'Abondence,Lt. Phillips,John White,Port Roseway,m,30
+1051,44,33,L'Abondence,Lt. Phillips,Silvia White,Port Roseway,f,24
+1052,44,33,L'Abondence,Lt. Phillips,Prima Johnston,Port Roseway,m,60
+1053,44,33,L'Abondence,Lt. Phillips,Nancy Johnston,Port Roseway,f,45
+1054,44,33,L'Abondence,Lt. Phillips,Dominick Yellow,Port Roseway,m,17
+1055,44,33,L'Abondence,Lt. Phillips,Rose Williams,Port Roseway,f,28
+1056,44,33,L'Abondence,Lt. Phillips,Harry Williams,Port Roseway,c m,1
+1057,45,1,L'Abondence,Lt. Phillips,Polly Carey,Port Roseway,f,26
+1058,45,2,L'Abondence,Lt. Phillips,Charlotte Cary,Port Roseway,c f,15 months
+1059,45,3,L'Abondence,Lt. Phillips,Jenny Carey,Port Roseway,c f,4
+1060,45,4,L'Abondence,Lt. Phillips,Nancy McKay,Port Roseway,f,20
+1061,45,5,L'Abondence,Lt. Phillips,Esther Langley,Port Roseway,f,23
+1062,45,6,L'Abondence,Lt. Phillips,Prissilla Gordon,Port Roseway,f,19
+1063,45,7,L'Abondence,Lt. Phillips,Mary,Port Roseway,c f,11 months
+1064,45,8,L'Abondence,Lt. Phillips,Daniel Moore,Port Roseway,m,26
+1065,45,9,L'Abondence,Lt. Phillips,Tinah Moore,Port Roseway,f,31
+1066,45,10,L'Abondence,Lt. Phillips,Elizabeth Moore,Port Roseway,c f,6
+1067,45,11,L'Abondence,Lt. Phillips,Sarah Goddin,Port Roseway,f,45
+1068,45,12,L'Abondence,Lt. Phillips,Calsa Goddin,Port Roseway,c f,9
+1069,45,13,L'Abondence,Lt. Phillips,Cyrus Spur,Port Roseway,m,40
+1070,45,14,L'Abondence,Lt. Phillips,Judith Spur,Port Roseway,f,30
+1071,45,15,L'Abondence,Lt. Phillips,Patty Spur,Port Roseway,c f,18 months
+1072,45,16,L'Abondence,Lt. Phillips,Frank Spur,Port Roseway,c m,9
+1073,45,17,L'Abondence,Lt. Phillips,Jane Robert,Port Roseway,f,26
+1074,45,18,L'Abondence,Lt. Phillips,Simon Robert,Port Roseway,c m,6 months
+1075,45,19,L'Abondence,Lt. Phillips,Grace Thompson,Port Roseway,f,24
+1076,45,20,L'Abondence,Lt. Phillips,Isabella Thompson,Port Roseway,c f,14
+1077,45,21,L'Abondence,Lt. Phillips,Lydia Thompson,Port Roseway,c f,9
+1078,45,22,L'Abondence,Lt. Phillips,Mary Perth,Port Roseway,f,43
+1079,45,23,L'Abondence,Lt. Phillips,Zilpah Cevils,Port Roseway,c f,15
+1080,45,24,L'Abondence,Lt. Phillips,Hannah Cevils,Port Roseway,c f,10
+1081,45,25,L'Abondence,Lt. Phillips,Patience Freeman,Port Roseway,f,18
+1082,45,26,L'Abondence,Lt. Phillips,Mary Williams,Port Roseway,f,40
+1083,45,27,L'Abondence,Lt. Phillips,Violet Snowball,Port Roseway,f,34
+1084,45,28,L'Abondence,Lt. Phillips,Nathaniel Snowball,Port Roseway,c m,12
+1085,45,29,L'Abondence,Lt. Phillips,Mary Snowball,Port Roseway,c f,3 months
+1086,45,30,L'Abondence,Lt. Phillips,China Sparrow,Port Roseway,c f,13
+1087,45,31,L'Abondence,Lt. Phillips,Anney Cheese,Port Roseway,f,30
+1088,45,32,L'Abondence,Lt. Phillips,William Cheese,Port Roseway,m,45
+1089,45,33,L'Abondence,Lt. Phillips,Binah Jackson,Port Roseway,f,28
+1090,45,34,L'Abondence,Lt. Phillips,Thomas Jackson,Port Roseway,m,30
+1091,45,35,L'Abondence,Lt. Phillips,Betsey August,Port Roseway,f,27
+1092,45,35,L'Abondence,Lt. Phillips,Voilet King,Port Roseway,f,35
+1093,45,35,L'Abondence,Lt. Phillips,Boston King,Port Roseway,m,23
+1094,45,35,L'Abondence,Lt. Phillips,Elizabeth Thomson,Port Roseway,f,28
+1095,45,35,L'Abondence,Lt. Phillips,Grace Thomson,Port Roseway,c f,2
+1096,45,35,L'Abondence,Lt. Phillips,Betty Thomson,Port Roseway,c f,1 months
+1097,45,35,L'Abondence,Lt. Phillips,Charles Thompson,Port Roseway,m,33
+1098,45,35,L'Abondence,Lt. Phillips,Cloe Walker,Port Roseway,f,30
+1099,45,35,L'Abondence,Lt. Phillips,Sam Walker,Port Roseway,c m,13
+1100,45,35,L'Abondence,Lt. Phillips,Lydia Walker,Port Roseway,f,7
+1101,45,35,L'Abondence,Lt. Phillips,Dusky York,Port Roseway,m,24
+1102,45,35,L'Abondence,Lt. Phillips,Betsey York,Port Roseway,f,24
+1103,46,1,L'Abondence,Lt. Phillips,Sally York,Port Roseway,c f,18 months
+1104,46,2,L'Abondence,Lt. Phillips,Richard Swan,Port Roseway,m,22
+1105,46,3,L'Abondence,Lt. Phillips,Sally Dennis,Port Roseway,f,20
+1106,46,4,L'Abondence,Lt. Phillips,John Dennis,Port Roseway,c m,19 months
+1107,46,5,L'Abondence,Lt. Phillips,Tobia Peterkin,Port Roseway,m,22
+1108,46,6,L'Abondence,Lt. Phillips,Harry Harrington,Port Roseway,m,40
+1109,46,7,L'Abondence,Lt. Phillips,Sally Harrington,Port Roseway,f,35
+1110,46,8,L'Abondence,Lt. Phillips,George Talbot,Port Roseway,m,36
+1111,46,9,L'Abondence,Lt. Phillips,Susannah Talbot,Port Roseway,f,37
+1112,46,10,L'Abondence,Lt. Phillips,James Talbot,Port Roseway,c m,13
+1113,46,11,L'Abondence,Lt. Phillips,James Hallstead,Port Roseway,m,63
+1114,46,12,L'Abondence,Lt. Phillips,Sally Hallstead,Port Roseway,f,60
+1115,46,13,L'Abondence,Lt. Phillips,George Snail,Port Roseway,c m,10
+1116,46,14,L'Abondence,Lt. Phillips,Jane Milligan,Port Roseway,f,20
+1117,46,15,L'Abondence,Lt. Phillips,Maria Milligan,Port Roseway,c f,9 months
+1118,46,16,L'Abondence,Lt. Phillips,Abby Brown,Port Roseway,f,30
+1119,46,17,L'Abondence,Lt. Phillips,William Patrick,Port Roseway,c m,12
+1120,46,18,L'Abondence,Lt. Phillips,Dinah Brown,Port Roseway,c f,3
+1121,46,19,L'Abondence,Lt. Phillips,Venus Miller,Port Roseway,f,24
+1122,46,20,L'Abondence,Lt. Phillips,Betsey Herbert,Port Roseway,f,26
+1123,46,21,L'Abondence,Lt. Phillips,Jenny Herbert,Port Roseway,c f,6
+1124,46,22,L'Abondence,Lt. Phillips,Lancaster Herbert,Port Roseway,c m,10
+1125,46,23,L'Abondence,Lt. Phillips,Peter Herbert,Port Roseway,m,28
+1126,46,24,L'Abondence,Lt. Phillips,Rose Stewart,Port Roseway,f,25
+1127,46,25,L'Abondence,Lt. Phillips,Mary White,Port Roseway,f,21
+1128,46,26,L'Abondence,Lt. Phillips,Jane Parks,Port Roseway,f,65
+1129,46,27,L'Abondence,Lt. Phillips,Francis Jones,Port Roseway,m,42
+1130,46,28,L'Abondence,Lt. Phillips,Philip Gordon,Port Roseway,m,23
+1131,46,29,L'Abondence,Lt. Phillips,Priscilla Gordon,Port Roseway,f,20
+1132,46,30,L'Abondence,Lt. Phillips,Stephen Blucke,Port Roseway,m,31
+1133,46,31,L'Abondence,Lt. Phillips,Margaret Blucke,Port Roseway,f,40
+1134,46,32,L'Abondence,Lt. Phillips,Isabel Gibbins,Port Roseway,f,20
+1135,46,33,L'Abondence,Lt. Phillips,Benjamin Heulin,Port Roseway,m,50
+1136,46,33,L'Abondence,Lt. Phillips,Nancy Brown,Port Roseway,c f,13
+1137,46,33,L'Abondence,Lt. Phillips,Peter Johnson,Port Roseway,m,30
+1138,46,33,L'Abondence,Lt. Phillips,Betsey Johnson,Port Roseway,f,32
+1139,46,33,L'Abondence,Lt. Phillips,Peter Johnson,Port Roseway,m,4
+1140,46,33,L'Abondence,Lt. Phillips,Sukey Johnson,Port Roseway,c f,2
+1141,46,33,L'Abondence,Lt. Phillips,York Lawrence,Port Roseway,m,30
+1142,46,33,L'Abondence,Lt. Phillips,Dinah Lawrence,Port Roseway,f,26
+1143,46,33,L'Abondence,Lt. Phillips,Betsey Lawrence,Port Roseway,c f,3
+1144,46,33,L'Abondence,Lt. Phillips,Gabriel Lawrence,Port Roseway,c m,8 months
+1145,46,33,L'Abondence,Lt. Phillips,Marshal Johns,Port Roseway,m,32
+1146,47,1,Clinton,Lt. Trounce,Stepney Hancock,Annapolis and St Johns,m,36
+1147,47,2,Clinton,Lt. Trounce,Benjamin Bush,Annapolis and St Johns,m,47
+1148,47,3,Clinton,Lt. Trounce,Frank Patrick,Annapolis and St Johns,m,28
+1149,47,4,Clinton,Lt. Trounce,Anthony Randall,Annapolis and St Johns,m,53
+1150,47,5,Clinton,Lt. Trounce,Isaac White,Annapolis and St Johns,m,27
+1151,47,6,Clinton,Lt. Trounce,Anthony Stevens,Annapolis and St Johns,m,47
+1152,47,7,Clinton,Lt. Trounce,Dick Richards,Annapolis and St Johns,m,30
+1153,47,8,Clinton,Lt. Trounce,Job Christeen,Annapolis and St Johns,m,60
+1154,47,9,Clinton,Lt. Trounce,John Sparrow,Annapolis and St Johns,m,40
+1155,47,10,Clinton,Lt. Trounce,James Nickins,Annapolis and St Johns,m,35
+1156,47,11,Clinton,Lt. Trounce,Thomas Stevens,Annapolis and St Johns,c m,13
+1157,47,12,Clinton,Lt. Trounce,Moses Jessup,Annapolis and St Johns,m,48
+1158,47,13,Clinton,Lt. Trounce,William Keeling,Annapolis and St Johns,m,48
+1159,47,14,Clinton,Lt. Trounce,Samuel Hunter,Annapolis and St Johns,m,36
+1160,47,15,Clinton,Lt. Trounce,Robert Fleming,Annapolis and St Johns,m,30
+1161,47,16,Clinton,Lt. Trounce,Harry Moore,Annapolis and St Johns,m,38
+1162,47,17,Clinton,Lt. Trounce,Bristol Mitchell,Annapolis and St Johns,m,57
+1163,47,18,Clinton,Lt. Trounce,Andrew Randall,Annapolis and St Johns,m,22
+1164,47,19,Clinton,Lt. Trounce,Dorothy Bush,Annapolis and St Johns,f,36
+1165,47,20,Clinton,Lt. Trounce,Barbara Hancock,Annapolis and St Johns,f,20
+1166,47,21,Clinton,Lt. Trounce,Robert Bray Hancock,Annapolis and St Johns,c m,6
+1167,47,22,Clinton,Lt. Trounce,Nancy Randall,Annapolis and St Johns,f,49
+1168,47,23,Clinton,Lt. Trounce,Adam Randall,Annapolis and St Johns,c m,9
+1169,47,24,Clinton,Lt. Trounce,Nancy Sparrow,Annapolis and St Johns,f,45
+1170,47,25,Clinton,Lt. Trounce,Nancy Johnson,Annapolis and St Johns,f,26
+1171,47,26,Clinton,Lt. Trounce,Andrew Johnson,Annapolis and St Johns,c m,15 months
+1172,47,27,Clinton,Lt. Trounce,Pindar Keeling,Annapolis and St Johns,f,29
+1173,47,28,Clinton,Lt. Trounce,Hannah Moore,Annapolis and St Johns,f,50
+1174,47,29,Clinton,Lt. Trounce,Jenny Hunter,Annapolis and St Johns,f,25
+1175,47,30,Clinton,Lt. Trounce,Phebe Randall,Annapolis and St Johns,f,21
+1176,47,31,Clinton,Lt. Trounce,Thomas McLeod,Annapolis and St Johns,c m,3
+1177,47,32,Clinton,Lt. Trounce,Sarah Stephens,Annapolis and St Johns,f,35
+1178,47,33,Clinton,Lt. Trounce,Moses Stephens,Annapolis and St Johns,c m,3 months
+1179,47,34,Clinton,Lt. Trounce,Judith Christeen,Annapolis and St Johns,f,60
+1180,47,35,Clinton,Lt. Trounce,Peggy Richards,Annapolis and St Johns,f,33
+1181,47,35,Clinton,Lt. Trounce,Esther Richards,Annapolis and St Johns,c f,11
+1182,47,35,Clinton,Lt. Trounce,Richard Richards,Annapolis and St Johns,c m,3
+1183,47,35,Clinton,Lt. Trounce,James Richards,Annapolis and St Johns,c m,2
+1184,47,35,Clinton,Lt. Trounce,Jane Halladay,Annapolis and St Johns,f,22
+1185,47,35,Clinton,Lt. Trounce,Peter Halliday,Annapolis and St Johns,c m,8 months
+1186,47,35,Clinton,Lt. Trounce,Elizabeth White,Annapolis and St Johns,f,25
+1187,47,35,Clinton,Lt. Trounce,Hannah Fleming,Annapolis and St Johns,f,28
+1188,47,35,Clinton,Lt. Trounce,Susannah Wynah,Annapolis and St Johns,f,25
+1189,47,35,Clinton,Lt. Trounce,John Gordon,Annapolis and St Johns,m,26
+1190,47,35,Clinton,Lt. Trounce,John Babus,Annapolis and St Johns,m,21
+1191,48,1,Clinton,Lt. Trounce,Abraham Saunders,Annapolis and St Johns,m,17
+1192,48,2,Clinton,Lt. Trounce,John Gustus,Annapolis and St Johns,m,19
+1193,48,3,Clinton,Lt. Trounce,Christian Halstead,Annapolis and St Johns,m,50
+1194,48,4,Clinton,Lt. Trounce,Isaac Mead,Annapolis and St Johns,m,40
+1195,48,5,Clinton,Lt. Trounce,Peter Warren,Annapolis and St Johns,m,23
+1196,48,6,Clinton,Lt. Trounce,Mingo Gordan,Annapolis and St Johns,m,19
+1197,48,7,Clinton,Lt. Trounce,Henry Reddick,Annapolis and St Johns,m,24
+1198,48,8,Clinton,Lt. Trounce,Bill Williams,Annapolis and St Johns,m,37
+1199,48,9,Clinton,Lt. Trounce,Henry Warren,Annapolis and St Johns,m,26
+1200,48,10,Clinton,Lt. Trounce,Andrew Carey,Annapolis and St Johns,c m,15
+1201,48,11,Clinton,Lt. Trounce,Benjamin Nelis,Annapolis and St Johns,m,24
+1202,48,12,Clinton,Lt. Trounce,George Scarberry,Annapolis and St Johns,m,25
+1203,48,13,Clinton,Lt. Trounce,Samuel Tomkin,Annapolis and St Johns,m,23
+1204,48,14,Clinton,Lt. Trounce,Robert Johnston,Annapolis and St Johns,m,21
+1205,48,15,Clinton,Lt. Trounce,Joseph Reddick,Annapolis and St Johns,c m,12
+1206,48,16,Clinton,Lt. Trounce,Wynce Gordon,Annapolis and St Johns,f,28
+1207,48,17,Clinton,Lt. Trounce,Philis Gordon,Annapolis and St Johns,f,20
+1208,48,18,Clinton,Lt. Trounce,Nancy,Annapolis and St Johns,f,28
+1209,48,19,Clinton,Lt. Trounce,James,Annapolis and St Johns,c m,6
+1210,48,20,Clinton,Lt. Trounce,Polly,Annapolis and St Johns,c f,3
+1211,48,21,Clinton,Lt. Trounce,Betsey,Annapolis and St Johns,c f,18 months
+1212,48,22,Clinton,Lt. Trounce,Phillis Halstead,Annapolis and St Johns,f,35
+1213,48,23,Clinton,Lt. Trounce,Peggy Halstead,Annapolis and St Johns,c f,2
+1214,48,24,Clinton,Lt. Trounce,Betty Mead,Annapolis and St Johns,f,30
+1215,48,25,Clinton,Lt. Trounce,Nanny Mead,Annapolis and St Johns,c f,10
+1216,48,26,Clinton,Lt. Trounce,Pleasant Reddick,Annapolis and St Johns,f,29
+1217,48,27,Clinton,Lt. Trounce,Elsey Reddick,Annapolis and St Johns,c f,7
+1218,48,28,Clinton,Lt. Trounce,Agnes Reddick,Annapolis and St Johns,c f,5 months
+1219,48,29,Clinton,Lt. Trounce,Betsey Williams,Annapolis and St Johns,f,40
+1220,48,30,Clinton,Lt. Trounce,Polly Williams,Annapolis and St Johns,c f,3
+1221,48,31,Clinton,Lt. Trounce,Betsey William,Annapolis and St Johns,c f,2
+1222,48,32,Clinton,Lt. Trounce,Judith Warren,Annapolis and St Johns,f,30
+1223,48,33,Clinton,Lt. Trounce,Nancy Babus,Annapolis and St Johns,c f,15
+1224,48,34,Clinton,Lt. Trounce,Jane Nelis,Annapolis and St Johns,f,30
+1225,48,35,Clinton,Lt. Trounce,Jonathan Nelis,Annapolis and St Johns,c m,4
+1226,48,35,Clinton,Lt. Trounce,Sally Nelis,Annapolis and St Johns,c f,2
+1227,48,35,Clinton,Lt. Trounce,Sarah Scarberry,Annapolis and St Johns,f,26
+1228,48,35,Clinton,Lt. Trounce,Betsey Scarberry,Annapolis and St Johns,c f,3
+1229,48,35,Clinton,Lt. Trounce,Peter Scarberry,Annapolis and St Johns,c m,8 months
+1230,48,35,Clinton,Lt. Trounce,Judith Johnson,Annapolis and St Johns,f,18
+1231,48,35,Clinton,Lt. Trounce,Dinah Griffin,Annapolis and St Johns,f,23
+1232,48,35,Clinton,Lt. Trounce,Sall Griffin,Annapolis and St Johns,c f,1
+1233,48,35,Clinton,Lt. Trounce,William McNight,Annapolis and St Johns,m,30
+1234,48,35,Clinton,Lt. Trounce,Nancy Jackson,Annapolis and St Johns,f,44
+1235,48,35,Clinton,Lt. Trounce,Hannah Johnson,Annapolis and St Johns,c f,13
+1236,49,1,Clinton,Lt. Trounce,Luke Johnson,Annapolis and St Johns,c f,12
+1237,49,2,Clinton,Lt. Trounce,Fanny Johnson,Annapolis and St Johns,c f,7
+1238,49,3,Clinton,Lt. Trounce,Cloe Johnson,Annapolis and St Johns,f,18
+1239,49,4,Clinton,Lt. Trounce,Fanny Johnson,Annapolis and St Johns,c f,6
+1240,49,5,Clinton,Lt. Trounce,Miles Jordan,Annapolis and St Johns,m,28
+1241,49,6,Clinton,Lt. Trounce,David Tankard,Annapolis and St Johns,m,28
+1242,49,7,Clinton,Lt. Trounce,Esther,Annapolis and St Johns,f,60
+1243,49,8,Clinton,Lt. Trounce,Seelah,Annapolis and St Johns,f,17
+1244,49,9,Clinton,Lt. Trounce,Edward Godfrey,Annapolis and St Johns,m,17
+1245,49,10,Clinton,Lt. Trounce,Thomas Bing,Annapolis and St Johns,m,26
+1246,49,11,Clinton,Lt. Trounce,Robert Bing,Annapolis and St Johns,m,22
+1247,49,12,Clinton,Lt. Trounce,Valentine Godfrey,Annapolis and St Johns,m,22
+1248,49,13,Clinton,Lt. Trounce,Bristol Storm,Annapolis and St Johns,m,40
+1249,49,14,Clinton,Lt. Trounce,Bob Johnson,Annapolis and St Johns,m,18
+1250,49,15,Clinton,Lt. Trounce,Jack Colhoun,Annapolis and St Johns,c m,15
+1251,49,16,Clinton,Lt. Trounce,Thomas Tuckker,Annapolis and St Johns,m,40
+1252,49,17,Clinton,Lt. Trounce,Walter Hammer,Annapolis and St Johns,m,23
+1253,49,18,Clinton,Lt. Trounce,William Seaman,Annapolis and St Johns,m,23
+1254,49,19,Clinton,Lt. Trounce,Lewis Kerby,Annapolis and St Johns,m,29
+1255,49,20,Clinton,Lt. Trounce,John Jackson,Annapolis and St Johns,m,26
+1256,49,21,Clinton,Lt. Trounce,Henry Mitchell,Annapolis and St Johns,m,23
+1257,49,22,Clinton,Lt. Trounce,Bristol Godfrey,Annapolis and St Johns,m,22
+1258,49,23,Clinton,Lt. Trounce,Daphne Shields,Annapolis and St Johns,f,25
+1259,49,24,Clinton,Lt. Trounce,Hannah Kerby,Annapolis and St Johns,f,25
+1260,49,25,Clinton,Lt. Trounce,Kitty Godfrey,Annapolis and St Johns,f,22
+1261,49,26,Clinton,Lt. Trounce,Lyddia Friend,Annapolis and St Johns,f,21
+1262,49,27,Clinton,Lt. Trounce,Hannah Bing,Annapolis and St Johns,f,35
+1263,49,27,Clinton,Lt. Trounce,child of Bing,Annapolis and St Johns,c,7 months
+1264,49,28,Clinton,Lt. Trounce,Phillis Mitchel,Annapolis and St Johns,f,22
+1265,49,28,Clinton,Lt. Trounce,child of Mitchel,Annapolis and St Johns,c,6 months
+1266,49,29,Clinton,Lt. Trounce,Fortune Dixon,Annapolis and St Johns,m,20
+1267,49,30,Clinton,Lt. Trounce,Henry Floyd,Annapolis and St Johns,m,28
+1268,49,31,Clinton,Lt. Trounce,James Liverpool,Annapolis and St Johns,m,40
+1269,49,32,Clinton,Lt. Trounce,James Bummele,Annapolis and St Johns,m,35
+1270,49,33,Clinton,Lt. Trounce,John Shepherd,Annapolis and St Johns,m,30
+1271,49,34,Clinton,Lt. Trounce,Dempsey Buxton,Annapolis and St Johns,m,23
+1272,49,35,Clinton,Lt. Trounce,Jacob Adams,Annapolis and St Johns,m,26
+1273,49,36,Clinton,Lt. Trounce,Samuel Hutchins,Annapolis and St Johns,m,26
+1274,49,37,Clinton,Lt. Trounce,Ben Elliot,Annapolis and St Johns,m,69
+1275,49,37,Clinton,Lt. Trounce,John Cox,Annapolis and St Johns,m,31
+1276,49,37,Clinton,Lt. Trounce,Joe Slone,Annapolis and St Johns,m,24
+1277,49,37,Clinton,Lt. Trounce,Andrew Cole,Annapolis and St Johns,m,26
+1278,49,37,Clinton,Lt. Trounce,Joshua Thompson,Annapolis and St Johns,m,21
+1279,49,37,Clinton,Lt. Trounce,Richard Henry,Annapolis and St Johns,m,23
+1280,49,37,Clinton,Lt. Trounce,Samuel Sampson,Annapolis and St Johns,m,20
+1281,49,37,Clinton,Lt. Trounce,Daniel Herring,Annapolis and St Johns,m,35
+1282,49,37,Clinton,Lt. Trounce,George White,Annapolis and St Johns,m,63
+1283,49,37,Clinton,Lt. Trounce,Nancy Elliot,Annapolis and St Johns,f,46
+1284,49,37,Clinton,Lt. Trounce,Jane Shepherd,Annapolis and St Johns,f,40
+1285,49,37,Clinton,Lt. Trounce,Fanny Floyd,Annapolis and St Johns,f,26
+1286,50,1,Clinton,Lt. Trounce,Sarah Hutchins,Annapolis and St Johns,f,21
+1710,58,20,Polly,John Broome,Sally,Spithead and Germany,f,24
+1287,50,1,Clinton,Lt. Trounce,child of Hutchins,Annapolis and St Johns,c,7 months
+1288,50,2,Clinton,Lt. Trounce,Mary Coles,Annapolis and St Johns,f,23
+1289,50,3,Clinton,Lt. Trounce,Sally Williams,Annapolis and St Johns,f,36
+1290,50,4,Clinton,Lt. Trounce,Nelly Cox,Annapolis and St Johns,f,33
+1291,50,4,Clinton,Lt. Trounce,child of Cox,Annapolis and St Johns,c,4
+1292,50,4,Clinton,Lt. Trounce,child of Cox,Annapolis and St Johns,c,6 months
+1293,50,5,Clinton,Lt. Trounce,John Holland,Annapolis and St Johns,m,29
+1294,50,6,Clinton,Lt. Trounce,Henry Biversudt,Annapolis and St Johns,m,26
+1295,50,7,Clinton,Lt. Trounce,Samuel Jarvis,Annapolis and St Johns,m,60
+1296,50,8,Clinton,Lt. Trounce,John Prime,Annapolis and St Johns,m,39
+1297,50,9,Clinton,Lt. Trounce,John Williams,Annapolis and St Johns,m,26
+1298,50,10,Clinton,Lt. Trounce,Harry Wait,Annapolis and St Johns,m,63
+1299,50,11,Clinton,Lt. Trounce,Samuel Fermer,Annapolis and St Johns,m,41
+1300,50,12,Clinton,Lt. Trounce,Francis Griffin,Annapolis and St Johns,m,45
+1301,50,13,Clinton,Lt. Trounce,Adam Way,Annapolis and St Johns,m,80
+1302,50,14,Clinton,Lt. Trounce,Harry Middleton,Annapolis and St Johns,m,50
+1303,50,15,Clinton,Lt. Trounce,Robert James,Annapolis and St Johns,m,30
+1304,50,16,Clinton,Lt. Trounce,Aaron James,Annapolis and St Johns,c m,9
+1305,50,17,Clinton,Lt. Trounce,Sampson Miles,Annapolis and St Johns,c m,12
+1306,50,18,Clinton,Lt. Trounce,Princessa,Annapolis and St Johns,f,30
+1307,50,19,Clinton,Lt. Trounce,Mary Miles,Annapolis and St Johns,f,46
+1308,50,20,Clinton,Lt. Trounce,Miley Wilkins,Annapolis and St Johns,f,30
+1309,50,21,Clinton,Lt. Trounce,Jingo Johnson,Annapolis and St Johns,m,16
+1310,50,22,Clinton,Lt. Trounce,Sally Farmer,Annapolis and St Johns,f,56
+1311,50,23,Clinton,Lt. Trounce,Catharine Livingston,Annapolis and St Johns,f,50
+1312,50,24,Clinton,Lt. Trounce,Phillis Crutchley,Annapolis and St Johns,f,30
+1313,50,24,Clinton,Lt. Trounce,child of Crutchley,Annapolis and St Johns,c,5
+1314,50,25,Clinton,Lt. Trounce,Jane James,Annapolis and St Johns,f,40
+1315,50,26,Clinton,Lt. Trounce,Mary Biversudt,Annapolis and St Johns,f,28
+1316,50,27,Clinton,Lt. Trounce,Lizzy Williams,Annapolis and St Johns,f,20
+1317,50,27,Clinton,Lt. Trounce,child of Williams,Annapolis and St Johns,c,3 weeks
+1318,50,28,Clinton,Lt. Trounce,Mary Tomkins,Annapolis and St Johns,f,23
+1319,50,29,Clinton,Lt. Trounce,Amey Wait,Annapolis and St Johns,f,33
+1320,50,30,Clinton,Lt. Trounce,Chressy Wait,Annapolis and St Johns,f,16
+1321,50,31,Clinton,Lt. Trounce,Phillis Scott,Annapolis and St Johns,f,75
+1322,50,32,Clinton,Lt. Trounce,Sarah Middleton,Annapolis and St Johns,f,25
+1323,50,32,Clinton,Lt. Trounce,child of Middleton,Annapolis and St Johns,c,6 months
+1324,50,33,Clinton,Lt. Trounce,Samuel Fleming,Annapolis and St Johns,m,20
+1325,50,34,Clinton,Lt. Trounce,Robert Johnson,Annapolis and St Johns,m,24
+1326,50,35,Clinton,Lt. Trounce,James Jackson,Annapolis and St Johns,m,24
+1327,50,35,Clinton,Lt. Trounce,Robert Roberts,Annapolis and St Johns,m,26
+1328,50,35,Clinton,Lt. Trounce,Peter Scott,Annapolis and St Johns,m,24
+1329,50,35,Clinton,Lt. Trounce,Charles Plummitty,Annapolis and St Johns,m,22
+1330,50,35,Clinton,Lt. Trounce,Josiah Hewslett,Annapolis and St Johns,m,23
+1331,50,35,Clinton,Lt. Trounce,John James,Annapolis and St Johns,m,21
+1332,50,35,Clinton,Lt. Trounce,Eleanor Fleming,Annapolis and St Johns,f,21
+1333,50,35,Clinton,Lt. Trounce,Rachel Johnson,Annapolis and St Johns,f,24
+1334,50,35,Clinton,Lt. Trounce,child of Johnson,Annapolis and St Johns,c m,3 1/2
+1335,50,35,Clinton,Lt. Trounce,Peggy Jackson,Annapolis and St Johns,f,22
+1336,50,35,Clinton,Lt. Trounce,child of Jackson,Annapolis and St Johns,c,8
+1337,50,35,Clinton,Lt. Trounce,child of Jackson,Annapolis and St Johns,c,5
+1338,50,35,Clinton,Lt. Trounce,child of Jackson,Annapolis and St Johns,c,4 months
+1339,50,35,Clinton,Lt. Trounce,Richard Wheeler,Annapolis and St Johns,m,30
+1340,50,35,Clinton,Lt. Trounce,Henry Vanryper,Annapolis and St Johns,m,34
+1341,50,35,Clinton,Lt. Trounce,Abraham Smith,Annapolis and St Johns,m,35
+1342,52,1,Clinton,Lt. Trounce,John Francis,Annapolis and St Johns,m,30
+1343,52,2,Clinton,Lt. Trounce,Jeany Francis,Annapolis and St Johns,f,36
+1344,52,2,Clinton,Lt. Trounce,child of Francis,Annapolis and St Johns,c,6
+1345,52,2,Clinton,Lt. Trounce,child of Francis,Annapolis and St Johns,c,4
+1346,52,2,Clinton,Lt. Trounce,child of Francis,Annapolis and St Johns,c,1 1/2
+1347,52,3,Clinton,Lt. Trounce,John Strong,Annapolis and St Johns,m,25
+1348,52,4,Clinton,Lt. Trounce,John Smith,Annapolis and St Johns,m,27
+1349,52,5,Clinton,Lt. Trounce,Randel Stewart,Annapolis and St Johns,m,45
+1350,52,6,Clinton,Lt. Trounce,Samuel Thomas,Annapolis and St Johns,m,24
+1351,52,7,Clinton,Lt. Trounce,Mathew Anthony,Annapolis and St Johns,m,29
+1352,52,8,Clinton,Lt. Trounce,Thomas Malby,Annapolis and St Johns,m,35
+1353,52,9,Clinton,Lt. Trounce,John Richards,Annapolis and St Johns,m,52
+1354,52,10,Clinton,Lt. Trounce,Philip Woodley,Annapolis and St Johns,m,36
+1355,52,11,Clinton,Lt. Trounce,Robert Smallwood,Annapolis and St Johns,m,42
+1356,52,12,Clinton,Lt. Trounce,Frank Marshal,Annapolis and St Johns,m,33
+1357,52,13,Clinton,Lt. Trounce,Daniel Stewart,Annapolis and St Johns,m,16
+1358,52,14,Clinton,Lt. Trounce,John Manwell,Annapolis and St Johns,m,25
+1359,52,15,Clinton,Lt. Trounce,James Hogwood,Annapolis and St Johns,m,27
+1360,52,16,Clinton,Lt. Trounce,John Catd,Annapolis and St Johns,m,36
+1361,52,17,Clinton,Lt. Trounce,Anthony Dimry,Annapolis and St Johns,m,18
+1362,52,18,Clinton,Lt. Trounce,Caesar Kingsland,Annapolis and St Johns,m,16
+1363,52,19,Clinton,Lt. Trounce,Thomas Mason,Annapolis and St Johns,m,25
+1364,52,20,Clinton,Lt. Trounce,James Richards,Annapolis and St Johns,m,20
+1365,52,21,Clinton,Lt. Trounce,William Homes,Annapolis and St Johns,m,26
+1366,52,22,Clinton,Lt. Trounce,Nathaniel Wandrey,Annapolis and St Johns,m,23
+1367,52,23,Clinton,Lt. Trounce,John Savage,Annapolis and St Johns,m,31
+1368,52,24,Clinton,Lt. Trounce,Famar Stewart,Annapolis and St Johns,f,26
+1369,52,24,Clinton,Lt. Trounce,child of Stewart,Annapolis and St Johns,c,
+1370,52,24,Clinton,Lt. Trounce,child of Stewart,Annapolis and St Johns,c,
+1371,52,24,Clinton,Lt. Trounce,child of Stewart,Annapolis and St Johns,c,
+1372,52,25,Clinton,Lt. Trounce,Polly Richards,Annapolis and St Johns,f,22
+1373,52,26,Clinton,Lt. Trounce,Chloe Wandsey,Annapolis and St Johns,f,18
+1374,52,27,Clinton,Lt. Trounce,Jeany Coddamus,Annapolis and St Johns,f,24
+1375,52,27,Clinton,Lt. Trounce,child of Coddamus,Annapolis and St Johns,c m,
+1376,52,27,Clinton,Lt. Trounce,child of Coddamus,Annapolis and St Johns,c m,
+1377,52,28,Clinton,Lt. Trounce,Tilla Mosely,Annapolis and St Johns,f,16
+1378,52,29,Clinton,Lt. Trounce,Nelly Smalwood,Annapolis and St Johns,f,22
+1379,52,30,Clinton,Lt. Trounce,Jane Marshal,Annapolis and St Johns,f,23
+1380,52,30,Clinton,Lt. Trounce,child of Marshal,Annapolis and St Johns,c,11
+1381,52,30,Clinton,Lt. Trounce,child of Marshal,Annapolis and St Johns,c,1 month
+1382,52,31,Clinton,Lt. Trounce,Mary Savage,Annapolis and St Johns,f,24
+1383,52,32,Clinton,Lt. Trounce,Susanna Vanryper,Annapolis and St Johns,f,24
+1384,52,33,Clinton,Lt. Trounce,Dinah Strong,Annapolis and St Johns,f,20
+1385,52,33,Clinton,Lt. Trounce,child of Strong,Annapolis and St Johns,c m,8
+1386,52,33,Clinton,Lt. Trounce,Mary Vanryper,Annapolis and St Johns,f,24
+1387,52,33,Clinton,Lt. Trounce,child of Vanryper,Annapolis and St Johns,c m,1
+1388,52,33,Clinton,Lt. Trounce,Lidsa Sally,Annapolis and St Johns,f,20
+1389,52,33,Clinton,Lt. Trounce,Betsy Holmes,Annapolis and St Johns,f,18
+1390,52,33,Clinton,Lt. Trounce,child of Holmes,Annapolis and St Johns,c,3
+1391,52,33,Clinton,Lt. Trounce,child of Holmes,Annapolis and St Johns,c,1
+1392,52,33,Clinton,Lt. Trounce,Sarah Flee,Annapolis and St Johns,f,21
+1393,52,33,Clinton,Lt. Trounce,Rachel Dye,Annapolis and St Johns,f,22
+1394,52,33,Clinton,Lt. Trounce,Sukey Smith,Annapolis and St Johns,f,25
+1395,52,33,Clinton,Lt. Trounce,Dinah Kingsstead,Annapolis and St Johns,f,33
+1396,52,33,Clinton,Lt. Trounce,child of Kingsstead,Annapolis and St Johns,c f,12
+1397,52,33,Clinton,Lt. Trounce,Polly Mosely,Annapolis and St Johns,f,18
+1398,52,33,Clinton,Lt. Trounce,child of Mosely,Annapolis and St Johns,c,2 months
+1399,53,1,L'Abondence,Lt. Phillips,Peter Vansuyl,Port Roseway,m,32
+1400,53,2,L'Abondence,Lt. Phillips,Charles Bailey,Port Roseway,m,19
+1401,53,3,L'Abondence,Lt. Phillips,Ned Cox,Port Roseway,m,19
+1402,53,4,L'Abondence,Lt. Phillips,Tomey Post,Port Roseway,m,33
+1403,53,5,L'Abondence,Lt. Phillips,Sarah Edwards,Port Roseway,f,23
+1404,53,5,L'Abondence,Lt. Phillips,child of Edwards,Port Roseway,c,
+1405,53,5,L'Abondence,Lt. Phillips,child of Edwards,Port Roseway,c,
+1406,53,6,L'Abondence,Lt. Phillips,David Edwards,Port Roseway,m,27
+1407,53,7,L'Abondence,Lt. Phillips,Robert Keeling,Port Roseway,m,26
+1408,53,8,L'Abondence,Lt. Phillips,Anney Keeling,Port Roseway,f,24
+1409,53,8,L'Abondence,Lt. Phillips,child of Keeling,Port Roseway,c,
+1410,53,9,L'Abondence,Lt. Phillips,Edmund Bell,Port Roseway,m,33
+1411,53,10,L'Abondence,Lt. Phillips,Jane Bell,Port Roseway,f,26
+1412,53,10,L'Abondence,Lt. Phillips,child of Bell,Port Roseway,c f,8
+1413,53,11,L'Abondence,Lt. Phillips,Alice Tankard,Port Roseway,f,20
+1414,53,11,L'Abondence,Lt. Phillips,child of Tankard,Port Roseway,c f,5
+1415,53,12,L'Abondence,Lt. Phillips,Sarah Jones,Port Roseway,f,33
+1416,53,13,L'Abondence,Lt. Phillips,Dennis Ford,Port Roseway,m,29
+1417,53,14,L'Abondence,Lt. Phillips,Patience Ford,Port Roseway,f,24
+1418,53,15,L'Abondence,Lt. Phillips,Thomas Shephard,Port Roseway,m,55
+1419,53,16,L'Abondence,Lt. Phillips,Lucy Shepherd,Port Roseway,f,45
+1420,53,17,L'Abondence,Lt. Phillips,Maria,Port Roseway,c f,10
+1421,53,18,L'Abondence,Lt. Phillips,Rachel Bell,Port Roseway,f,16
+1422,53,19,L'Abondence,Lt. Phillips,Luke Wilson,Port Roseway,m,28
+1423,53,20,L'Abondence,Lt. Phillips,Dolly Wilson,Port Roseway,f,45
+1424,53,21,L'Abondence,Lt. Phillips,Isaac Bush,Port Roseway,m,35
+1425,53,22,L'Abondence,Lt. Phillips,Lucy Bush,Port Roseway,f,35
+1426,53,22,L'Abondence,Lt. Phillips,child of Bush,Port Roseway,c m,5
+1427,53,23,L'Abondence,Lt. Phillips,James Jones,Port Roseway,m,42
+1428,53,24,L'Abondence,Lt. Phillips,William Jordan,Port Roseway,m,32
+1429,53,25,L'Abondence,Lt. Phillips,Anney Jordan,Port Roseway,f,26
+1430,53,25,L'Abondence,Lt. Phillips,child of Jordan,Port Roseway,c m,3
+1431,53,26,L'Abondence,Lt. Phillips,Clara Campbell,Port Roseway,f,23
+1432,53,26,L'Abondence,Lt. Phillips,child of Campbell,Port Roseway,c m,3 months
+1433,53,27,L'Abondence,Lt. Phillips,Adam Fall,Port Roseway,m,27
+1434,53,28,L'Abondence,Lt. Phillips,Dorothy Fall,Port Roseway,f,22
+1435,53,28,L'Abondence,Lt. Phillips,child of Fall,Port Roseway,c m,1
+1436,53,29,L'Abondence,Lt. Phillips,Thomas Shields,Port Roseway,m,63
+1437,53,30,L'Abondence,Lt. Phillips,Margaret,Port Roseway,f,65
+1438,53,31,L'Abondence,Lt. Phillips,Thomas Pool her grandson,Port Roseway,c m,15
+1439,53,32,L'Abondence,Lt. Phillips,Joseph Trowell,Port Roseway,m,24
+1440,53,33,L'Abondence,Lt. Phillips,Silvie Trowell,Port Roseway,f,22
+1441,53,34,L'Abondence,Lt. Phillips,Daniel Proffott,Port Roseway,m,24
+1442,53,35,L'Abondence,Lt. Phillips,John Jackson,Port Roseway,m,23
+1443,53,35,L'Abondence,Lt. Phillips,John Johnson,Port Roseway,m,24
+1444,53,35,L'Abondence,Lt. Phillips,Hester Johnson,Port Roseway,f,26
+1445,53,35,L'Abondence,Lt. Phillips,John Townsend,Port Roseway,m,21
+1446,53,35,L'Abondence,Lt. Phillips,John Martin,Port Roseway,m,30
+1447,53,35,L'Abondence,Lt. Phillips,Thomas Carey,Port Roseway,m,50
+1448,53,35,L'Abondence,Lt. Phillips,Lydie Carey,Port Roseway,f,45
+1449,53,35,L'Abondence,Lt. Phillips,Samuel Cranney,Port Roseway,m,20
+1450,53,35,L'Abondence,Lt. Phillips,Jeffery Burges,Port Roseway,m,35
+1451,53,35,L'Abondence,Lt. Phillips,Molly Burges,Port Roseway,f,24
+1452,53,35,L'Abondence,Lt. Phillips,James Young,Port Roseway,m,30
+1453,53,35,L'Abondence,Lt. Phillips,Susannah Smith,Port Roseway,f,40
+1454,53,35,L'Abondence,Lt. Phillips,child of Smith,Port Roseway,c,4
+1455,54,1,L'Abondence,Lt. Phillips,Rose Smith,Port Roseway,c f,12
+1456,54,2,L'Abondence,Lt. Phillips,Ennis Smith,Port Roseway,c f,10
+1457,54,3,L'Abondence,Lt. Phillips,James Smith,Port Roseway,m,50
+1458,54,4,L'Abondence,Lt. Phillips,Sanders Smith,Port Roseway,m,22
+1459,54,5,L'Abondence,Lt. Phillips,Luke Smith,Port Roseway,m,18
+1460,54,6,L'Abondence,Lt. Phillips,Anthony Trowell,Port Roseway,m,26
+1461,54,7,L'Abondence,Lt. Phillips,Thomas Bassett,Port Roseway,m,39
+1462,54,8,L'Abondence,Lt. Phillips,George Bailey,Port Roseway,m,22
+1463,54,9,L'Abondence,Lt. Phillips,George Shields,Port Roseway,m,19
+1464,54,10,L'Abondence,Lt. Phillips,Jeany Toney,Port Roseway,f,52
+1465,54,11,L'Abondence,Lt. Phillips,Judey Weedon,Port Roseway,c f,14
+1466,54,12,L'Abondence,Lt. Phillips,Sarah Bell,Port Roseway,f,19
+1467,54,13,L'Abondence,Lt. Phillips,Moses Murray,Port Roseway,m,30
+1468,54,14,L'Abondence,Lt. Phillips,Kitty Murray,Port Roseway,f,30
+1469,54,14,L'Abondence,Lt. Phillips,child of Murray,Port Roseway,c f,10
+1470,54,15,L'Abondence,Lt. Phillips,Unis Caldwell,Port Roseway,f,19
+1471,54,16,L'Abondence,Lt. Phillips,Jenny Rogers,Port Roseway,f,30
+1472,54,16,L'Abondence,Lt. Phillips,child of Rogers,Port Roseway,c,9
+1696,58,6,Hero,G.S. Burnet,Peter,Spithead and Germany,m,21
+1473,54,16,L'Abondence,Lt. Phillips,child of Rogers,Port Roseway,c,6
+1474,54,17,L'Abondence,Lt. Phillips,Kessick Shepherd,Port Roseway,f,18
+1475,54,18,L'Abondence,Lt. Phillips,Dinah Conner,Port Roseway,f,19
+1476,54,19,L'Abondence,Lt. Phillips,Baggerty Rogers,Port Roseway,m,45
+1477,54,20,L'Abondence,Lt. Phillips,Kingston Hutchins,Port Roseway,m,29
+1478,54,21,L'Abondence,Lt. Phillips,James Morris,Port Roseway,m,28
+1479,54,22,L'Abondence,Lt. Phillips,Robert Nickinson,Port Roseway,m,54
+1480,54,23,L'Abondence,Lt. Phillips,Nat Tashew,Port Roseway,m,23
+1481,54,24,L'Abondence,Lt. Phillips,Thomas Hawkins,Port Roseway,m,28
+1482,54,25,L'Abondence,Lt. Phillips,William Moses,Port Roseway,m,18
+1483,54,26,L'Abondence,Lt. Phillips,Joseph Waistcoat,Port Roseway,m,60
+1484,54,27,L'Abondence,Lt. Phillips,Dick Profitt,Port Roseway,m,57
+1485,54,28,L'Abondence,Lt. Phillips,Sharp Westcott,Port Roseway,c m,12
+1486,54,29,L'Abondence,Lt. Phillips,John Paul,Port Roseway,m,48
+1487,54,30,L'Abondence,Lt. Phillips,Joseph Glais,Port Roseway,m,50
+1488,54,31,L'Abondence,Lt. Phillips,Jack Taylor,Port Roseway,m,27
+1489,54,32,L'Abondence,Lt. Phillips,Michael Thomas,Port Roseway,m,18
+1490,54,33,L'Abondence,Lt. Phillips,Samuel Brown,Port Roseway,m,17
+1491,54,34,L'Abondence,Lt. Phillips,Adam Veters,Port Roseway,m,30
+1492,54,35,L'Abondence,Lt. Phillips,John McKay,Port Roseway,m,40
+1493,54,36,L'Abondence,Lt. Phillips,John Ivory,Port Roseway,m,35
+1494,54,37,L'Abondence,Lt. Phillips,Toney Christzer,Port Roseway,m,40
+1495,54,37,L'Abondence,Lt. Phillips,Nel Richards,Port Roseway,m,19
+1496,54,37,L'Abondence,Lt. Phillips,Amos Carrey,Port Roseway,m,45
+1497,54,37,L'Abondence,Lt. Phillips,James Knapp,Port Roseway,c m,12
+1498,54,37,L'Abondence,Lt. Phillips,Joseph Haynes,Port Roseway,m,28
+1499,54,37,L'Abondence,Lt. Phillips,Dick Lawrence,Port Roseway,m,35
+1500,54,37,L'Abondence,Lt. Phillips,Abbey Paul,Port Roseway,f,45
+1501,54,37,L'Abondence,Lt. Phillips,child of Paul,Port Roseway,c m,7
+1502,54,37,L'Abondence,Lt. Phillips,Sally Haynes,Port Roseway,f,25
+1503,54,37,L'Abondence,Lt. Phillips,Rose,Port Roseway,f,40
+1504,54,37,L'Abondence,Lt. Phillips,Lucy Morris,Port Roseway,f,26
+1505,54,37,L'Abondence,Lt. Phillips,child of Morris,Port Roseway,c,8 months
+1506,54,37,L'Abondence,Lt. Phillips,Dinah Weeks,Port Roseway,f,35
+1507,54,37,L'Abondence,Lt. Phillips,Dinah Laurence,Port Roseway,f,30
+1508,54,37,L'Abondence,Lt. Phillips,Prissella Ivory,Port Roseway,f,45
+1509,54,37,L'Abondence,Lt. Phillips,Pabley Nickkinson,Port Roseway,f,40
+1510,55,1,L'Abondence,Lt. Phillips,Venus Profit,Port Roseway,f,50
+1511,55,2,L'Abondence,Lt. Phillips,Hannah Jackson,Port Roseway,c f,12
+1512,55,3,L'Abondence,Lt. Phillips,Hannah Jackson,Port Roseway,f,33
+1513,55,4,L'Abondence,Lt. Phillips,Beckkey Seabrook,Port Roseway,f,27
+1514,55,5,L'Abondence,Lt. Phillips,Molly Wescot,Port Roseway,f,36
+1515,55,5,L'Abondence,Lt. Phillips,child of Wescot,Port Roseway,c f,12
+1516,55,5,L'Abondence,Lt. Phillips,child of Wescot,Port Roseway,c f,8
+1517,55,6,L'Abondence,Lt. Phillips,Hannah Blair,Port Roseway,f,25
+1518,55,6,L'Abondence,Lt. Phillips,child of Blair,Port Roseway,c m,4
+1519,55,6,L'Abondence,Lt. Phillips,child of Blair,Port Roseway,c m,2
+1520,55,7,L'Abondence,Lt. Phillips,Nancy Peters,Port Roseway,f,50
+1521,55,8,L'Abondence,Lt. Phillips,Rachel Herbert,Port Roseway,f,24
+1522,55,8,L'Abondence,Lt. Phillips,child of Herbert,Port Roseway,c f,3 weeks
+1523,55,9,L'Abondence,Lt. Phillips,Peter Weeks,Port Roseway,m,45
+1524,55,10,L'Abondence,Lt. Phillips,Samuel Moore,Port Roseway,m,26
+1525,55,11,L'Abondence,Lt. Phillips,Thomas Evans,Port Roseway,m,40
+1526,55,12,L'Abondence,Lt. Phillips,James Legree,Port Roseway,m,48
+1527,55,13,L'Abondence,Lt. Phillips,Dublin Gordon,Port Roseway,m,31
+1528,55,14,L'Abondence,Lt. Phillips,Abby Moore,Port Roseway,f,30
+1817,60,11,William,John Cook,Lettice London,Albaco,f,29
+1529,55,14,L'Abondence,Lt. Phillips,child of Moore,Port Roseway,c,6
+1530,55,14,L'Abondence,Lt. Phillips,child of Moore,Port Roseway,c,3
+1531,55,14,L'Abondence,Lt. Phillips,child of Moore,Port Roseway,c,9 months
+1532,55,15,L'Abondence,Lt. Phillips,Amos Thomas,Port Roseway,m,55
+1533,55,16,L'Abondence,Lt. Phillips,John Banbury,Port Roseway,m,38
+1534,55,17,L'Abondence,Lt. Phillips,Bellah Miles,Port Roseway,f,44
+1535,55,18,L'Abondence,Lt. Phillips,Sukey Leffers,Port Roseway,f,39
+1536,55,18,L'Abondence,Lt. Phillips,child of Leffers,Port Roseway,c,6
+1537,55,18,L'Abondence,Lt. Phillips,child of Leffers,Port Roseway,c,2
+1538,55,19,L'Abondence,Lt. Phillips,Grace,Port Roseway,f,36
+1539,55,19,L'Abondence,Lt. Phillips,child of Grace,Port Roseway,c f,10 months
+1540,55,20,L'Abondence,Lt. Phillips,Sally Miles,Port Roseway,f,18
+1541,55,21,L'Abondence,Lt. Phillips,Patience Wilburn,Port Roseway,f,60
+1542,55,22,L'Abondence,Lt. Phillips,Juno Thomas,Port Roseway,m,40
+1543,55,23,L'Abondence,Lt. Phillips,Flora Rutledge,Port Roseway,f,40
+1544,55,24,L'Abondence,Lt. Phillips,Pompey Rutledge,Port Roseway,m,44
+1545,55,25,L'Abondence,Lt. Phillips,John Thomas,Port Roseway,m,40
+1546,55,26,L'Abondence,Lt. Phillips,Charotte Hamond,Port Roseway,f,22
+1547,55,27,L'Abondence,Lt. Phillips,Venus Lagree,Port Roseway,f,30
+1548,55,27,L'Abondence,Lt. Phillips,child of Lagree,Port Roseway,c m,7
+1549,55,28,L'Abondence,Lt. Phillips,Lucy Banbury,Port Roseway,f,40
+1550,55,29,L'Abondence,Lt. Phillips,Judith Evans,Port Roseway,f,30
+1551,55,30,L'Abondence,Lt. Phillips,Sarah Evans,Port Roseway,f,16
+1552,55,31,L'Abondence,Lt. Phillips,Jane Roberts,Port Roseway,f,23
+1553,55,32,L'Abondence,Lt. Phillips,Peggy Campbell,Port Roseway,f,38
+1554,55,32,L'Abondence,Lt. Phillips,child of Campbell,Port Roseway,c m,8
+1555,55,33,L'Abondence,Lt. Phillips,Silvia Gordon,Port Roseway,f,30
+1556,55,34,L'Abondence,Lt. Phillips,Tom Cain,Port Roseway,m,30
+1557,55,35,L'Abondence,Lt. Phillips,Nancy Moody,Port Roseway,c f,14
+1558,55,36,L'Abondence,Lt. Phillips,Harry Washington,Port Roseway,m,43
+1559,55,37,L'Abondence,Lt. Phillips,Moses Campbell,Port Roseway,m,25
+1560,55,37,L'Abondence,Lt. Phillips,Robert Robinson,Port Roseway,m,23
+1561,55,37,L'Abondence,Lt. Phillips,Moses Wilkinson,Port Roseway,m,36
+1562,55,37,L'Abondence,Lt. Phillips,Abraham Cryt,Port Roseway,m,40
+1563,55,37,L'Abondence,Lt. Phillips,Sillah Cain,Port Roseway,f,40
+1564,55,37,L'Abondence,Lt. Phillips,William Smith,Port Roseway,m,40
+1565,55,37,L'Abondence,Lt. Phillips,Titus Milliner,Port Roseway,m,30
+1566,55,37,L'Abondence,Lt. Phillips,James Gibson,Port Roseway,m,23
+1567,55,37,L'Abondence,Lt. Phillips,James Campbell,Port Roseway,m,44
+1568,55,37,L'Abondence,Lt. Phillips,Hannah Miller,Port Roseway,f,21
+1569,55,37,L'Abondence,Lt. Phillips,child of Miller,Port Roseway,c,1
+1570,55,37,L'Abondence,Lt. Phillips,Abigail Newton,Port Roseway,f,40
+1571,55,37,L'Abondence,Lt. Phillips,child of Newton,Port Roseway,c,1
+1572,55,37,L'Abondence,Lt. Phillips,Lydia Newton,Port Roseway,c f,14
+1573,56,1,L'Abondence,Lt. Phillips,Francis Jones,Port Roseway,m,46
+1574,56,2,L'Abondence,Lt. Phillips,Ceasar Jones,Port Roseway,m,35
+1575,56,3,L'Abondence,Lt. Phillips,Jupiter Governier,Port Roseway,m,55
+1576,56,4,L'Abondence,Lt. Phillips,Thomas Whitten,Port Roseway,m,23
+1577,56,5,L'Abondence,Lt. Phillips,Harry Fruen,Port Roseway,m,36
+1578,56,6,L'Abondence,Lt. Phillips,John Sharp,Port Roseway,m,67
+1579,56,7,L'Abondence,Lt. Phillips,Katherine,Port Roseway,f,30
+1580,56,8,L'Abondence,Lt. Phillips,Elizabeth Thomas,Port Roseway,f,52
+1581,56,8,L'Abondence,Lt. Phillips,child of Thomas,Port Roseway,c f,8
+1582,56,9,L'Abondence,Lt. Phillips,John Thomas,Port Roseway,m,58
+1583,56,10,L'Abondence,Lt. Phillips,Peter Pharo.,Port Roseway,m,35
+1584,56,11,L'Abondence,Lt. Phillips,Richard Miller,Port Roseway,m,27
+1585,56,12,L'Abondence,Lt. Phillips,Daniel Sepkins,Port Roseway,m,54
+1586,56,13,L'Abondence,Lt. Phillips,Betty Paterson,Port Roseway,f,35
+1587,56,13,L'Abondence,Lt. Phillips,child of Paterson,Port Roseway,c m,9
+1588,56,13,L'Abondence,Lt. Phillips,child of Paterson,Port Roseway,c m,5
+1589,56,14,L'Abondence,Lt. Phillips,Henry Walker,Port Roseway,m,60
+1590,56,15,L'Abondence,Lt. Phillips,Tobias Walker ,Port Roseway,c m,13
+1591,56,16,L'Abondence,Lt. Phillips,Thomas Paterson,Port Roseway,m,45
+1592,56,17,L'Abondence,Lt. Phillips,James Sharpe,Port Roseway,m,48
+1593,56,18,L'Abondence,Lt. Phillips,Jonathan Glasgow,Port Roseway,m,39
+1594,56,19,L'Abondence,Lt. Phillips,Pamela Glasgow,Port Roseway,f,30
+1595,56,19,L'Abondence,Lt. Phillips,child of Glasgow,Port Roseway,c f,8
+1596,56,20,L'Abondence,Lt. Phillips,Susannah Rivers,Port Roseway,f,30
+1597,56,21,L'Abondence,Lt. Phillips,Patty Gibson,Port Roseway,f,23
+1598,56,21,L'Abondence,Lt. Phillips,child of Gibson,Port Roseway,c,3
+1599,56,21,L'Abondence,Lt. Phillips,child of Gibson,Port Roseway,c,1
+1600,56,22,L'Abondence,Lt. Phillips,Joseph Brown,Port Roseway,m,30
+1601,56,23,L'Abondence,Lt. Phillips,Toney Wilkins,Port Roseway,m,40
+1602,56,24,L'Abondence,Lt. Phillips,James Thomson,Port Roseway,m,25
+1603,56,25,L'Abondence,Lt. Phillips,Sikes Rivers,Port Roseway,m,40
+1604,56,26,L'Abondence,Lt. Phillips,William Davis,Port Roseway,m,26
+1605,56,27,L'Abondence,Lt. Phillips,Abraham Quince,Port Roseway,m,30
+1606,56,28,L'Abondence,Lt. Phillips,Anney Davis,Port Roseway,f,24
+1607,56,28,L'Abondence,Lt. Phillips,child of Davis,Port Roseway,c f,7
+1608,56,28,L'Abondence,Lt. Phillips,child of Davis,Port Roseway,c f,4
+1609,56,29,L'Abondence,Lt. Phillips,Olive Saunders,Port Roseway,f,25
+1610,56,29,L'Abondence,Lt. Phillips,child of Saunders,Port Roseway,c m,2
+1611,56,30,L'Abondence,Lt. Phillips,Thomas Saunders,Port Roseway,m,30
+1612,56,31,L'Abondence,Lt. Phillips,Sarah Wilkins,Port Roseway,f,23
+1613,56,32,L'Abondence,Lt. Phillips,Patty Saunders,Port Roseway,f,18
+1614,56,33,L'Abondence,Lt. Phillips,James Langley,Port Roseway,m,28
+1615,56,34,L'Abondence,Lt. Phillips,Patience Wilkinson,Port Roseway,f,30
+1616,56,34,L'Abondence,Lt. Phillips,child of Wilkinson,Port Roseway,c f,3
+1617,56,35,L'Abondence,Lt. Phillips,Violet Collett,Port Roseway,f,22
+1618,56,35,L'Abondence,Lt. Phillips,child of Collett,Port Roseway,c f,3 weeks
+1619,56,36,L'Abondence,Lt. Phillips,Edie Gordon,Port Roseway,f,23
+1620,56,37,L'Abondence,Lt. Phillips,Savinah Miles,Port Roseway,f,25
+1621,56,37,L'Abondence,Lt. Phillips,Venus Miles,Port Roseway,c f,14
+1622,56,37,L'Abondence,Lt. Phillips,Jane Thompson,Port Roseway,f,23
+1623,56,37,L'Abondence,Lt. Phillips,child of Thompson,Port Roseway,c f,6
+1624,56,37,L'Abondence,Lt. Phillips,Hagar Miles,Port Roseway,f,22
+1625,56,37,L'Abondence,Lt. Phillips,Betsey Wilson,Port Roseway,f,27
+1626,56,37,L'Abondence,Lt. Phillips,child of Wilson,Port Roseway,c,5
+1627,56,37,L'Abondence,Lt. Phillips,child of Wilson,Port Roseway,c,1
+1628,56,37,L'Abondence,Lt. Phillips,Billy Williams,Port Roseway,m,36
+1629,56,37,L'Abondence,Lt. Phillips,Hector Peters,Port Roseway,m,20
+1630,56,37,L'Abondence,Lt. Phillips,Henry Minton,Port Roseway,m,16
+1631,56,37,L'Abondence,Lt. Phillips,Henry Cook,Port Roseway,m,37
+1632,56,37,L'Abondence,Lt. Phillips,James Walker,Port Roseway,m,25
+1633,56,37,L'Abondence,Lt. Phillips,Thomas Miller,Port Roseway,m,25
+1634,56,37,L'Abondence,Lt. Phillips,Ephraim Jerret,Port Roseway,m,29
+1635,56,37,L'Abondence,Lt. Phillips,Nathaniel Snowball,Port Roseway,m,39
+1636,56,37,L'Abondence,Lt. Phillips,Marmory Brown,Port Roseway,m,58
+1637,56,37,L'Abondence,Lt. Phillips,Patty Brown,Port Roseway,f,55
+1638,57,1,L'Abondence,Lt. Phillips,Ceasar Perth,Port Roseway,m,37
+1639,57,2,L'Abondence,Lt. Phillips,Mary Brow,Port Roseway,f,69
+1640,57,3,L'Abondence,Lt. Phillips,Samuel Whitten,Port Roseway,m,39
+1641,57,4,L'Abondence,Lt. Phillips,Betsey,Port Roseway,f,60
+1642,57,4,L'Abondence,Lt. Phillips,child of Betsey,Port Roseway,c m,7
+1643,57,5,L'Abondence,Lt. Phillips,Britton Murry,Port Roseway,m,28
+1644,57,6,L'Abondence,Lt. Phillips,Hannah Whitten,Port Roseway,f,30
+1645,57,6,L'Abondence,Lt. Phillips,child of Whitten,Port Roseway,c,8
+1646,57,6,L'Abondence,Lt. Phillips,child of Whitten,Port Roseway,c,7
+1647,57,6,L'Abondence,Lt. Phillips,child of Whitten,Port Roseway,c,6
+1648,57,6,L'Abondence,Lt. Phillips,child of Whitten,Port Roseway,c,5
+1649,57,6,L'Abondence,Lt. Phillips,child of Whitten,Port Roseway,c,1
+1650,57,7,L'Abondence,Lt. Phillips,Peggy Crumwell,Port Roseway,f,50
+1651,57,8,L'Abondence,Lt. Phillips,Dorcas Crumwell,Port Roseway,c f,14
+1652,57,9,L'Abondence,Lt. Phillips,James Young,Port Roseway,m,35
+1653,57,10,L'Abondence,Lt. Phillips,Lake Jordan,Port Roseway,m,36
+1654,57,11,L'Abondence,Lt. Phillips,Joshua Jordan,Port Roseway,c m,14
+1655,57,12,L'Abondence,Lt. Phillips,Nancy Whitten,Port Roseway,f,32
+1656,57,12,L'Abondence,Lt. Phillips,child of Whitten,Port Roseway,c m,14 months
+1657,57,13,L'Abondence,Lt. Phillips,Harry Whitten,Port Roseway,c m,10
+1658,57,14,L'Abondence,Lt. Phillips,Demps Sullivan,Port Roseway,m,27
+1659,57,15,L'Abondence,Lt. Phillips,Ceasar McKenzie,Port Roseway,m,32
+1660,57,16,L'Abondence,Lt. Phillips,James Moses,Port Roseway,m,17
+1661,57,17,L'Abondence,Lt. Phillips,Katty Reddick,Port Roseway,f,22
+1662,57,17,L'Abondence,Lt. Phillips,child of Reddick,Port Roseway,c f,5 months
+1663,57,18,L'Abondence,Lt. Phillips,Joan Murray,Port Roseway,f,24
+1664,57,18,L'Abondence,Lt. Phillips,child of Murray,Port Roseway,c,4
+1665,57,18,L'Abondence,Lt. Phillips,child of Murray,Port Roseway,c,2
+1666,57,19,L'Abondence,Lt. Phillips,Daniel Archer,Port Roseway,m,32
+1667,57,20,L'Abondence,Lt. Phillips,Jane Thomson,Port Roseway,f,70
+1668,57,20,L'Abondence,Lt. Phillips,child of Thomson,Port Roseway,c,5
+1669,57,21,L'Abondence,Lt. Phillips,Kate Mason,Port Roseway,f,21
+1670,57,22,L'Abondence,Lt. Phillips,Hannah Jackson,Port Roseway,f,40
+1671,57,23,L'Abondence,Lt. Phillips,Bob Jackson,Port Roseway,c m,12
+1672,57,24,L'Abondence,Lt. Phillips,James Newcombe,Port Roseway,m,27
+1673,57,25,L'Abondence,Lt. Phillips,Jane Pearce,Port Roseway,f,23
+1674,57,25,L'Abondence,Lt. Phillips,child of Pearce,Port Roseway,c,8
+1675,57,25,L'Abondence,Lt. Phillips,child of Pearce,Port Roseway,c,7 months
+1676,57,26,Cyclops,Captain Christain,Abram Myers,Port Roseway,m,20
+1677,57,27,Grand Dutchess of Russia,Holman,Obediah Hammond,Annapolis Royal,m,40
+1678,57,28,Grand Dutchess of Russia,Holman,Andrew Bush,Annapolis Royal,m,25
+1679,57,29,Grand Dutchess of Russia,Holman,Michael Cox,Annapolis Royal,m,26
+1680,57,30,Grand Dutchess of Russia,Holman,Rachel,Annapolis Royal,f,39
+1681,57,30,Grand Dutchess of Russia,Holman,child of Rachel,Annapolis Royal,c,10
+1682,57,30,Grand Dutchess of Russia,Holman,child of Rachel,Annapolis Royal,c,6
+1683,57,30,Grand Dutchess of Russia,Holman,child of Rachel,Annapolis Royal,c,2
+1684,57,31,Grand Dutchess of Russia,Holman,Jack,Annapolis Royal,m,21
+1685,57,32,Grand Dutchess of Russia,Holman,Cyrus,Annapolis Royal,m,50
+1686,57,33,Grand Dutchess of Russia,Holman,Nell,Annapolis Royal,f,18
+1687,57,33,Grand Dutchess of Russia,Holman,child Nell,Annapolis Royal,c,7 months
+1688,57,34,Grand Dutchess of Russia,Holman,Phillis,Annapolis Royal,f,46
+1689,57,35,Grand Dutchess of Russia,Holman,Rossanna,Annapolis Royal,f,27
+1690,57,36,Grand Dutchess of Russia,Holman,Will,Annapolis Royal,m,23
+1691,58,1,Sibyl,Lt. Fitzgerald,Samuel Edmonds,The Downs,m,27
+1692,58,2,Hind,Lt. Brison,David,Spithead and Germany,c m,10
+1693,58,3,Hind,Lt. Brison,Peter,Spithead and Germany,m,27
+1694,58,4,Ladies Adventure,Humble,Samuel Banmord,Spithead and Germany,m,30
+1695,58,5,Ladies Adventure,Humble,David Devonshire,Spithead and Germany,m,21
+1697,58,7,Polly,John Broome,John,Spithead and Germany,c m,15
+1698,58,8,Polly,John Broome,George,Spithead and Germany,m,30
+1699,58,9,Polly,John Broome,George,Spithead and Germany,m,26
+1700,58,10,Polly,John Broome,George,Spithead and Germany,m,23
+1701,58,11,Polly,John Broome,Francis Stewart,Spithead and Germany,m,30
+1702,58,12,Polly,John Broome,July,Spithead and Germany,m,20
+1703,58,13,Polly,John Broome,Mingo,Spithead and Germany,m,18
+1704,58,14,Polly,John Broome,Hannah,Spithead and Germany,f,32
+1705,58,15,Polly,John Broome,Peggy,Spithead and Germany,f,21
+1706,58,16,Polly,John Broome,Christiana,Spithead and Germany,c f,15
+1707,58,17,Polly,John Broome,Kitty,Spithead and Germany,f,22
+1708,58,18,Polly,John Broome,Sarah,Spithead and Germany,c f,4
+1709,58,19,Polly,John Broome,Lucy,Spithead and Germany,c f,1
+1711,58,21,Polly,John Broome,Rose,Spithead and Germany,f,23
+1712,58,22,Polly,John Broome,Peter,Spithead and Germany,c m,2
+1713,58,23,Polly,John Broome,Bob,Spithead and Germany,m,30
+1714,58,24,Ann & Elizabeth,Benjamin Fowler,George Barnes,Spithead and Germany,m,47
+1715,58,25,Ann & Elizabeth,Benjamin Fowler,Rachel,Spithead and Germany,c f,7
+1716,58,26,Rebecca,John Willow,Cornwallis,Spithead and Germany,m,25
+1717,58,27,Rebecca,John Willow,Tobie,Spithead and Germany,m,25
+1718,58,28,Rebecca,John Willow,George,Spithead and Germany,m,20
+1719,58,29,Rebecca,John Willow,York,Spithead and Germany,m,30
+1720,58,30,Rebecca,John Willow,Nancy,Spithead and Germany,f,25
+1721,58,30,Rebecca,John Willow,child of Nancy,Spithead and Germany,c,4
+1722,58,31,Rebecca,John Willow,George,Spithead and Germany,m,27
+1723,58,32,Rebecca,John Willow,Will,Spithead and Germany,m,19
+1724,58,33,Rebecca,John Willow,Anthony Rix,Spithead and Germany,m,45
+1725,58,34,Rebecca,John Willow,John,Spithead and Germany,m,25
+1726,58,35,Rebecca,John Willow,Betsy,Spithead and Germany,f,28
+1727,58,36,Rebecca,John Willow,Bess,Spithead and Germany,f,20
+1728,58,37,Rebecca,John Willow,Jeanio,Spithead and Germany,f,19
+1729,58,37,Enterprise,Thomas Graham,George Andrews,Spithead and Germany,m,22
+1730,58,37,Elizabeth,Michael Hodson,Michael,Spithead and Germany,m,18
+1731,58,37,Lucifer,Patton Esq.,James Iron,Spithead,m,28
+1732,58,37,Lucifer,Patton Esq.,Harry Dean,Spithead,m,16
+1733,58,37,Aurora,C. Saunders,James Joseph,Germany,c m,15
+1734,58,37,Aurora,C. Saunders,Polydore,Germany,c m,15
+1735,58,37,William & Mary,Moses Brewer,Rosanna Mott,Germany,f,26
+1736,58,37,Royal Breton,Jacob Dunn,Ben,Germany,m,20
+1737,58,37,Volcano Fire Ship,Waller Esq.,Bill Searum,Spithead,m,17
+1738,58,37,Volcano Fire Ship,Waller Esq.,George Gloucester,Spithead,c m,15
+1739,58,37,Volcano Fire Ship,Waller Esq.,Samuel Taylor,Spithead,m,17
+1740,58,37,Volcano Fire Ship,Waller Esq.,James Davis,Spithead,m,35
+1741,58,37,Minerva,John Hall,Ceasar,Spithead,c m,14
+1742,58,37,Minerva,John Hall,Jane,Spithead,f,16
+1743,59,1,Milford,John Moy,London,Germany,m,24
+1744,59,2,Milford,John Moy,Juno,Germany,m,20
+1745,59,3,Milford,John Moy,Peter,Germany,m,26
+1746,59,4,Milford,John Moy,Hannah,Germany,f,26
+1747,59,5,Milford,John Moy,George,Germany,c m,2
+1748,59,6,Nautilus,Kildare Williamson,Joe Grant,Albaco,m,19
+1749,59,7,Nautilus,Kildare Williamson,James Snow,Albaco,m,25
+1750,59,8,Nautilus,Kildare Williamson,Anthony Townass,Albaco,m,40
+1751,59,9,Nautilus,Kildare Williamson,Isaac Bush,Albaco,m,28
+1752,59,10,Nautilus,Kildare Williamson,Charles Hazell,Albaco,m,17
+1753,59,11,Nautilus,Kildare Williamson,Joseph Cox,Albaco,m,40
+1754,59,12,Nautilus,Kildare Williamson,Flora Bush,Albaco,f,26
+1755,59,13,Nautilus,Kildare Williamson,Sally Jones,Albaco,f,25
+1818,60,12,William,John Cook,Henry Jackson,Albaco,m,25
+1756,59,14,Nautilus,Kildare Williamson,Joseph Paul,Albaco,m,30
+1757,59,15,Nautilus,Kildare Williamson,Susannah Paul,Albaco,f,30
+1758,59,15,Nautilus,Kildare Williamson,child of Paul,Albaco,c,3
+1759,59,15,Nautilus,Kildare Williamson,child of Paul,Albaco,c,5
+1760,59,15,Nautilus,Kildare Williamson,child of Paul,Albaco,c,2
+1761,59,16,Nautilus,Kildare Williamson,Ichabod Wilkins,Albaco,m,25
+1762,59,17,Nautilus,Kildare Williamson,Phillis Wilkins,Albaco,f,31
+1763,59,18,Nautilus,Kildare Williamson,Ned Price,Albaco,m,40
+1764,59,19,Nautilus,Kildare Williamson,Kate,Albaco,f,19
+1765,59,20,Nautilus,Kildare Williamson,Charles Johnson,Albaco,m,49
+1766,59,21,Nautilus,Kildare Williamson,Nancy Dixon,Albaco,f,30
+1767,59,21,Nautilus,Kildare Williamson,child of Dixon,Albaco,c f,6
+1768,59,22,Nautilus,Kildare Williamson,Jack Jordan,Albaco,m,55
+1769,59,23,Nautilus,Kildare Williamson,Venus Jordan,Albaco,f,64
+1770,59,24,Nautilus,Kildare Williamson,Timothy Snowball,Albaco,m,37
+1771,59,25,Nautilus,Kildare Williamson,Peter Johnson,Albaco,m,25
+1772,59,26,Nautilus,Kildare Williamson,Cuffy Lucas,Albaco,m,38
+1773,59,27,Nautilus,Kildare Williamson,Isabella,Albaco,f,40
+1774,59,28,Nautilus,Kildare Williamson,Thomas Miller,Albaco,m,20
+1775,59,29,Nautilus,Kildare Williamson,Jack,Albaco,m,25
+1776,59,30,Nautilus,Kildare Williamson,Robert Johnson,Albaco,m,49
+1777,59,31,Nautilus,Kildare Williamson,Hannah Johnson,Albaco,f,40
+1778,59,32,Nautilus,Kildare Williamson,Benjamin Harris,Albaco,m,39
+1779,59,33,Nautilus,Kildare Williamson,Hesther Scott,Albaco,f,20
+1780,59,34,Nautilus,Kildare Williamson,Tom,Albaco,m,25
+1781,59,35,Nautilus,Kildare Williamson,Lucas,Albaco,m,64
+1782,59,36,Nautilus,Kildare Williamson,Hercules ,Albaco,m,30
+1783,59,37,Nautilus,Kildare Williamson,Nancy,Albaco,f,16
+1784,59,38,Nautilus,Kildare Williamson,Tom,Albaco,m,60
+1785,59,39,Nautilus,Kildare Williamson,Adam,Albaco,c m,10
+1786,59,39,Nautilus,Kildare Williamson,Rose,Albaco,c f,11 1/2
+1787,59,39,William,John Cook,George,Albaco,m,20
+1788,59,39,William,John Cook,Sharp,Albaco,m,25
+1789,59,39,William,John Cook,Joe Elliot,Albaco,m,36
+1790,59,39,William,John Cook,James Nash,Albaco,m,26
+1791,59,39,William,John Cook,Dianah,Albaco,f,28
+1792,59,39,William,JohnCook,child of Dianah,Albaco,c,10 months
+1793,59,39,William,John Cook,Daphne Rivers,Albaco,f,22
+1794,59,39,William,John Cook,William Kenty,Albaco,m,35
+1795,59,39,William,John Cook,John Jackson,Albaco,m,27
+1796,59,39,William,John Cook,James Cain,Albaco,m,26
+1797,59,39,William,John Cook,Kate Johnson,Albaco,f,37
+1798,59,39,William,John Cook,Jack Johnson,Albaco,c m,11
+1799,59,39,William,John Cook,Esther Moore,Albaco,f,16
+1800,59,39,William,John Cook,Joseph Scott,Albaco,m,40
+1801,60,1,William,John Cook,Primus Fortune,Albaco,m,30
+1802,60,2,William,John Cook,Manuel Williams,Albaco,m,25
+1803,60,3,William,John Cook,Sally Beariman,Albaco,f,25
+1804,60,4,William,John Cook,Juba,Albaco,m,30
+1805,60,5,William,John Cook,Carolina,Albaco,c m,10
+1806,60,6,William,John Cook,Rebecca,Albaco,f,22
+1807,60,6,William,John Cook,child of Rebecca,Albaco,c,1
+1808,60,7,William,John Cook,Paris,Albaco,m,50
+1809,60,8,William,John Cook,Venus,Albaco,f,33
+1810,60,8,William,John Cook,child of Venus,Albaco,c,11
+1811,60,8,William,John Cook,child of Venus,Albaco,c,8
+1812,60,8,William,John Cook,child of Venus,Albaco,c,4
+1813,60,8,William,John Cook,child of Venus,Albaco,c,2
+1814,60,9,William,John Cook,George Taylor,Albaco,m,28
+1815,60,10,William,John Cook,Hannah Taylor,Albaco,f,22
+1816,60,10,William,John Cook,child of Taylor,Albaco,c,6 months
+1819,60,13,William,John Cook,Peggy,Albaco,f,21
+1820,60,13,William,John Cook,child of Peggy,Albaco,c,8 months
+1821,60,14,William,John Cook,Jane Williams,Albaco,f,60
+1822,60,15,William,John Cook,Isaac Wickfall,Albaco,m,45
+1823,60,16,William,John Cook,Susannah Pavell,Albaco,f,34
+1824,60,16,William,John Cook,child of Pavell,Albaco,c m,5
+1825,60,17,William,John Cook,Isaac Mannays,Albaco,m,16
+1826,60,18,William,John Cook,Luce,Albaco,c f,11
+1827,60,19,William,John Cook,Nancy,Albaco,f,24
+1828,60,19,William,John Cook,child of Nancy,Albaco,c,4
+1829,60,19,William,John Cook,child of Nancy,Albaco,c,2
+1830,60,20,William,John Cook,Patty,Albaco,f,21
+1831,60,20,William,John Cook,child of Patty,Albaco,c,6 months
+1832,60,21,William,John Cook,Bob Powell,Albaco,m,32
+1833,60,22,William,John Cook,Tom Tanyard,Albaco,m,31
+1834,60,23,William,John Cook,Betsey,Albaco,f,21
+1835,60,24,William,John Cook,James Dickson,Albaco,m,24
+1836,60,25,William,John Cook,Fortune,Albaco,m,23
+1837,60,26,William,John Cook,Thomas Grisswell,Albaco,m,23
+1838,60,27,William,John Cook,James Brown,Albaco,m,23
+1839,60,28,William,John Cook,Peter Brown,Albaco,m,35
+1840,60,29,William,John Cook,Ned Jackson,Albaco,m,31
+1841,60,30,William,John Cook,Bridget Wanton,Albaco,f,22
+1842,60,30,William,John Cook,child of Wanton,Albaco,c f,5
+1843,60,31,William,John Cook,William Willis,Albaco,m,39
+1844,60,32,William,John Cook,Hester Willis,Albaco,f,26
+1845,61,1,Commerce,Richard Strong,Joe Freeman,St. Johns,m,22
+1846,61,2,Commerce,Richard Strong,Jack Brincherhoff,St. Johns,m,26
+1847,61,3,Bridgewater,Daniel Addinott,Fortune Logan,St. Johns,m,24
+1848,61,4,Bridgewater,Daniel Addinott,Isaac York,St. Johns,m,27
+1849,61,5,Eagle ,John Blane,Lucy,St. Johns,f,16
+1850,61,6,Eagle ,John Blane,Dorethy,St. Johns,c f,5
+1851,61,7,Berwick,Captain Prediaux,John Humphries,England,m,22
+1852,61,8,Berwick,Captain Prediaux,Ceasar Jones,England,m,18
+1853,61,9,Grace,William Oxely,Jenney Miller,Quebec,f,38
+1854,61,10,Grace,William Oxely,Hannah Harris,Quebec,f,30
+1855,61,11,Grace,William Oxely,Polly Harris,Quebec,c f,4 months
+1856,61,12,Grace,William Oxely,Betsey Graham,Quebec,c f,13
+1857,61,13,Grace,William Oxely,Margaret Matthews,Quebec,f,26
+1858,61,14,Grace,William Oxely,Peter Matthews,Quebec,m,27
+1859,61,15,Grace,William Oxely,Betsey,Quebec,f,16
+1860,61,16,Grace,William Oxely,John Martine,Quebec,m,22
+1861,61,17,Three Sisters,John Wardell,Cuff Van Aulstine,Quebec,m,16
+1862,61,18,Three Sisters,John Wardell,Ben Johnson,Quebec,c m,11
+1863,61,19,Three Sisters,John Wardell,Simon Helenbeck,Quebec,m,19
+1864,61,20,Three Sisters,John Wardell,Cato Huggenell,Quebec,m,44
+1865,61,21,Three Sisters,John Wardell,Pusie,Quebec,f,30
+1866,61,22,Three Sisters,John Wardell,Child,Quebec,c,1 1/2
+1867,61,23,Three Sisters,John Wardell,York,Quebec,c m,11
+1868,61,24,Duke of Richmond,,Jack,St. John's,m,40
+1869,61,25,Duke of Richmond,,Hannah Jarvis,St. John's,f,26
+1870,61,26,Duke of Richmond,,Edward Chaistie,St. John's,m,27
+1871,61,27,Duke of Richmond,,Frank Addie,St. John's,c m,14
+1872,61,28,Duke of Richmond,,Francis Williams,St. John's,m,30
+1873,61,29,Duke of Richmond,,Lydia Williams,St. John's,f,17
+1874,61,30,Duke of Richmond,,Vaughn Covenhoven,St. John's,m,19
+1875,61,31,Duke of Richmond,,Plato,St. John's,m,18
+1876,61,32,Duke of Richmond,,John January,St. John's,c m,7
+1877,61,32,Duke of Richmond,,John Sygh,St. John's,m,18
+1878,61,32,Duke of Richmond,,Sunburry,St. John's,m,26
+1879,61,32,Mars,,Peter Jackson,,m,24
+1883,61,32,Ann,Clark,Elizabeth Mitchell,,c f,13
+1885,62,1,Elizabeth,Watson,Terry Miller,St. Johns,m,22
+1886,62,2,Elizabeth,Watson,Simon Johnson,St. Johns,m,16
+1887,62,3,Elizabeth,Watson,Melinda,St. Johns,c f,11
+1888,62,4,Elizabeth,Watson,Primus,St. Johns,c m,11
+1889,62,5,Elizabeth,Watson,Chloe,St. Johns,f,19
+1890,62,6,Elizabeth,Watson,Susannah,St. Johns,c f,7 months
+1891,62,7,Elizabeth,Watson,George,St. Johns,m,17
+1892,62,8,Elizabeth,Watson,London,St. Johns,m,17
+1893,62,9,Elizabeth,Watson,Nathaniel,St. Johns,m,16
+1894,62,10,Elizabeth,Watson,James,St. Johns,f,16
+1895,62,11,Elizabeth,Watson,Diana,St. Johns,c f,7
+1896,62,12,King George,,Andrew,St. Johns,c m,9
+1897,62,13,King George,,Ned Hustus,St. Johns,m,22
+1898,62,14,King George,,Will Hollyday,St. Johns,m,33
+1899,62,15,Montague,,Abraham Ness,St. Johns,m,30
+1900,62,16,Montague,,Lucy Ness,St. Johns,f,29
+1901,62,17,Montague,,William Carden,St. Johns,m,27
+1902,62,18,Montague,,Diana Carden,St. Johns,f,24
+1903,62,19,William ,,Anthony,St. Johns,m,32
+1904,62,20,William ,,Christopher,St. Johns,m,28
+1905,62,21,Appolo,,Boble,St. Johns,c m,15
+1906,62,22,Apollo,,Taff,St. Johns,c m,12
+1907,62,23,Apollo,,Vinia,St. Johns,f,25
+1908,62,24,Apollo,,Harry,St. Johns,c m,infant
+1909,62,25,Apollo,,Robert,St. Johns,c m,infant
+1910,62,26,Two Sisters,,Silvia,St. Johns,f,20
+1911,62,27,Two Sisters,,Besse,St. Johns,f,21
+1912,62,28,Two Sisters,,Keaty,St. Johns,c f,infant
+1913,62,29,Two Sisters,,Gull,St. Johns,m,16
+1914,62,30,Two Sisters,,Ambrose Lewis,St. Johns,m,19
+1915,62,31,Esther,,Mariah,St. Johns,f,21
+1916,62,32,Esther,,Mungo,St. Johns,c m,3
+1917,62,33,Esther,,Abraham,St. Johns,m,21
+1918,62,34,Mars,,Mingo II,St. Johns,m,27
+1919,62,35,Mars,,Dianah II,St. Johns,m,26
+1920,62,36,Mars,,Phebe II,St. Johns,c f,1 1/2
+1921,62,37,Mars,,Paul Moore,St. Johns,m,36
+1922,62,38,Mars,,Sarah Moore,St. Johns,f,24
+1923,62,39,Mars,,Prince Blake,St. Johns,m,16
+1924,62,39,Mars,,James Robeson,St. Johns,m,30
+1925,62,39,Mars,,John Fortune,St. Johns,m,20
+1926,62,39,Mars,,Ned Ugee,St. Johns,m,30
+1927,62,39,Mars,,Ned Thomas,St. Johns,m,21
+1928,62,39,Britain,John Allen,Nelly,St. Johns,f,18
+1929,62,39,Britain,John Allen,Fortune,St. Johns,c m,9
+1930,62,39,Sovereign,William Stewart,Liberty,St. Johns,m,25
+1931,62,39,Sovereign,William Stewart,Tim,St. Johns,m,22
+1932,62,39,Sovereign,William Stewart,Pompey Grant,St. Johns,m,30
+1933,62,39,Sovereign,William Stewart,Tinah Leach,St. Johns,f,25
+1934,62,39,Sovereign,William Stewart,Susanah,St. Johns,f,35
+1935,62,39,Bridgewater,,Michael Beacon,St. Johns,m,25
+1936,63,1,Bridgewater,,Phillis Drove,St. Johns,f,20
+1937,63,2,Bridgewater,,John Browne,St. Johns,m,25
+1938,63,3,Bridgewater,,Rosania Mott,St. Johns,f,25
+1939,63,4,Bridgewater,,Simon Addams,St. Johns,m,38
+1940,63,5,Bridgewater,,Emey Addams,St. Johns,f,26
+1941,63,6,Bridgewater,,Hannah Jones,St. Johns,f,20
+1942,63,7,Bridgewater,,James Fraser,St. Johns,c m,9
+1943,63,8,Bridgewater,,Lettie,St. Johns,f,30
+1944,63,9,Bridgewater,,Saundy Alexander,St. Johns,m,21
+1945,63,10,Bridgewater,,Ned,St. Johns,m,25
+1946,63,11,Bridgewater,,Anthony Ferguson,St. Johns,m,21
+1947,63,12,Bridgewater,,Gabriel Johnson,St. Johns,m,27
+1948,63,13,Bridgewater,,Nancy Bryan,St. Johns,f,16
+1949,63,14,Bridgewater,,Fortune Logan,St. Johns,m,20
+1950,63,15,Bridgewater,,Dianah,St. Johns,f,22
+1951,63,16,Bridgewater,,Samuel Wright,St. Johns,m,30
+1952,63,17,Bridgewater,,Paris,St. Johns,m,19
+1953,63,18,Bridgewater,,Joe,St. Johns,m,25
+1954,63,19,Bridgewater,,Isaac York,St. Johns,m,26
+1955,63,20,Bridgewater,,John Jones,St. Johns,m,37
+1956,63,21,Pallessier,James Smith,Jack,St. Johns,c m,14
+1957,63,22,Pallessier,James Smith,Rose,St. Johns,c f,14
+1958,63,23,Pallessier,James Smith,Ham,St. Johns,c m,15
+1959,63,24,Pallessier,James Smith,Warwick,St. Johns,m,26
+1960,63,25,Pallessier,James Smith,Jack,St. Johns,c m,9
+1961,63,26,Pallessier,James Smith,Nancy Howthey,St. Johns,c f,14
+1962,63,27,Pallessier,James Smith,Keate,St. Johns,f,23
+1963,63,28,Pallessier,James Smith,Keate,St. Johns,c f,5
+1964,63,29,Pallessier,James Smith,Mary,St. Johns,f,41
+1965,63,30,Aurora,,Hannah,Halifax,f,19
+1966,63,31,Aurora,,Joseph,Halifax,c m,1 1/2
+1967,63,32,Aurora,,Nancy,Halifax,f,28
+1968,63,32,Aurora,,Mercury,Halifax,m,20
+1969,63,32,Supply,,Henry Arrington,Halifax,m,38
+1970,63,32,Bridgewater,,Hargar,St. Johns,f,17
+1971,63,32,Mars,,Abraham,St. Johns,m,16
+1974,65,1,Spencer,Robert Vallentine,William Scott,Port Roseway,m,24
+1975,65,2,Spencer,Robert Vallentine,James Vallentyne,Port Roseway,m,33
+1976,65,3,Spencer,Robert Vallentine,Jane,Port Roseway,f,28
+1977,65,4,Prosperous Amelia,Thomas Atkinson,Sue,Port Roseway,f,25
+1978,65,5,Prosperous Amelia,Thomas Atkinson,Shorn Bolton,Port Roseway,m,52
+1979,65,6,Prosperous Amelia,Thomas Atkinson,Charles,Port Roseway,m,23
+1980,65,7,Prosperous Amelia,Thomas Atkinson,Anny Bolton,Port Roseway,f,42
+1981,65,8,Prosperous Amelia,Thomas Atkinson,Scipio,Port Roseway,m,31
+1982,65,9,Prosperous Amelia,Thomas Atkinson,Jeaney Bolton,Port Roseway,c f,11
+1983,65,10,Nancy,Michael Cunningham,Prince,Annapollis Royal,m,22
+1984,65,11,Nancy,Michael Cunningham,Betty Rappeljie,Annapollis Royal,f,21
+1985,65,12,Nancy,Michael Cunningham,Jim,Annapollis Royal,c m,4
+1986,65,13,Nancy,Michael Cunningham,Lydia,Annapollis Royal,f,20
+1987,65,14,Nancy,Michael Cunningham,Peter,Annapollis Royal,m,40
+1988,65,15,Nancy,Michael Cunningham,Pompey,Annapollis Royal,m,32
+1989,65,15,Nancy,Michael Cunningham,wife of Pompey,Annapollis Royal,f,
+1990,65,15,Nancy,Michael Cunningham,child of Pompey,Annapollis Royal,c,
+1991,65,15,Nancy,Michael Cunningham,child of Pompey,Annapollis Royal,c,
+1992,65,16,Nancy,Michael Cunningham,Eliza Ward,Annapollis Royal,c f,7
+1993,65,17,Nancy,Michael Cunningham,Lewis,St. John's,m,45
+1994,65,18,Nancy,Michael Cunningham,Letitia,St. John's,f,16
+1995,65,19,Nancy,Michael Cunningham,Sam,St. John's,c m,15
+1996,65,20,Nancy,Michael Cunningham,Hannibal,St. John's,c m,11
+1997,65,21,Nancy,Michael Cunningham,Gill,St. John's,c m,8
+1998,65,22,Nancy,Michael Cunningham,Cuff Ben,St. John's,m,40
+1999,65,23,Nancy,Michael Cunningham,John Walker,St. John's,m,34
+2000,65,24,Nancy,Michael Cunningham,Grace Walker,St. John's,f,50
+2001,65,25,Nancy,Michael Cunningham,child of Walker,St. John's,c,5 months
+2002,65,25,John & Jane,Captain Hammond,Francis,,m,48
+2003,65,26,John & Jane,Captain Hammond,Ephraim,,m,60
+2004,65,27,John & Jane,Captain Hammond,Ceaser,,m,25
+2005,65,28,William ,Thomas Potts,Peggey,Port Roseway,f,20
+2006,65,29,William ,Thomas Potts,Grace,Port Roseway,c f,7
+2007,65,30,William ,Thomas Potts,Adam,Port Roseway,m,21
+2008,65,31,William ,Thomas Potts,Vulcan,Port Roseway,m,18
+2009,65,32,Mercury,Thomas Dawson,Harry,St. John's,c m,12
+2010,65,32,Mercury,Thomas Dawson,Phillis,St. John's,c f,14
+2011,65,32,Mercury,Thomas Dawson,Peg,St. John's,f,22
+2012,65,32,Charming Nancy,John Clark,Toby Sams,Port Roseway,m,25
+2013,65,32,Charming Nancy,John Clark,Rebecca Izzard,Port Roseway,f,26
+2014,65,32,Charming Nancy,John Clark,Nanny,Port Roseway,f,35
+2015,65,32,Charming Nancy,John Clark,Stephen Pottle,Port Roseway,m,26
+2016,65,32,Charming Nancy,John Clark,Lydia Johnson,Port Roseway,f,30
+2017,66,1,Clinton,Lt. Trounce,Hannah,Port Roseway,f,60
+2018,66,2,Clinton,Lt. Trounce,Samuel Croaker,Port Roseway,m,21
+2019,66,3,Clinton,Lt. Trounce,Samuel Atkinson,Port Roseway,m,21
+2020,66,4,Clinton,Lt. Trounce,Samuel White,Port Roseway,m,30
+2021,66,5,Clinton,Lt. Trounce,Mintey Atkinson,Port Roseway,f,21
+2022,66,6,Clinton,Lt. Trounce,Peggy Croaker,Port Roseway,f,24
+2023,66,7,Clinton,Lt. Trounce,Peggy White,Port Roseway,f,40
+2024,66,8,Grand Duchess of Russia,Stephen Hollman,Plato,Port Roseway,m,20
+2025,66,9,Grand Dutchess of Russia,Stephen Hollman,Richard Sloane,Port Roseway,m,40
+2026,66,10,Grand Dutchess of Russia,Stephen Hollman,Molly,Port Roseway,f,45
+2027,66,11,Grand Dutchess of Russia,Stephen Hollman,Sally,Port Roseway,f,40
+2028,66,12,Grand Dutchess of Russia,Stephen Hollman,John Warren,Port Roseway,m,45
+2029,66,13,Grand Dutchess of Russia,Stephen Hollman,Dinah Archer,Port Roseway,f,42
+2030,66,14,Grand Dutchess of Russia,Stephen Hollman,Basan Vaughan,Port Roseway,m,25
+2031,66,15,Grand Dutchess of Russia,Stephen Hollman,Bill,Port Roseway,m,25
+2032,66,16,Grand Dutchess of Russia,Stephen Hollman,Leah,Port Roseway,c f,4
+2033,66,17,Grand Dutchess of Russia,Stephen Hollman,Lilly,Port Roseway,f,30
+2034,66,18,Caron,David Balmanne,Nancy,Annapollis Royal,f,23
+2035,66,19,Caron,David Balmanne,Any Walters,Annapollis Royal,f,25
+2036,66,20,Caron,David Balmanne,Aberdeen,Annapollis Royal,m,40
+2037,66,21,Caron,David Balmanne,Nancy Aberdeen,Annapollis Royal,f,24
+2038,66,21,Caron,David Balmanne,child of Aberdeen,Annapollis Royal,c,2
+2039,66,21,Caron,David Balmanne,child of Aberdeen,Annapollis Royal,c,2 months
+2040,66,22,Caron,David Balmanne,Philip Morgan,Annapollis Royal,m,35
+2041,66,23,Caron,David Balmanne,Robert Bias,Annapollis Royal,m,20
+2042,66,24,Caron,David Balmanne,Frear,Annapollis Royal,m,30
+2043,66,25,Caron,David Balmanne,Jean,Annapollis Royal,c f,15
+2044,66,26,Caron,David Balmanne,Belinda,Annapollis Royal,f,43
+2045,66,26,Caron,David Balmanne,child of Belinda,Annapollis Royal,c m,3
+2046,66,27,Caron,David Balmanne,Sue,Annapollis Royal,f,21
+2047,66,28,Caron,David Balmanne,Ned Moore,Annapollis Royal,m,45
+2048,66,29,Caron,David Balmanne,Peter,Annapollis Royal,m,19
+2049,66,30,Caron,David Balmanne,Ceasar,Annapollis Royal,m,26
+2050,66,31,Caron,David Balmanne,Joseph Gaul,Annapollis Royal,m,25
+2051,66,32,Caron,David Balmanne,Naoma Gaul,Annapollis Royal,f,18
+2052,66,32,Caron,David Balmanne,Amelia Hopewell,Annapollis Royal,f,21
+2053,66,32,Caron,David Balmanne,Anson,Annapollis Royal,m,21
+2054,66,32,Caron,David Balmanne,Joe,Annapollis Royal,c m,14
+2055,66,32,Caron,David Balmanne,Bob,Annapollis Royal,c m,7
+2056,66,32,Caron,David Balmanne,Abigill,Annapollis Royal,c f,7
+2057,66,32,Nancy,Captain Hammond,Joe,Annapollis Royal,m,25
+2058,66,32,Nancy,Captain Hammond,Margret,Annapollis Royal,f,19
+2059,66,32,Nancy,Captain Hammond,child of Margret,Annapollis Royal,c f,3
+2060,66,32,Nancy,Captain Hammond,Peter Mattocks,Annapollis Royal,m,40
+2061,67,1,Friendship,Charles Coldstream,Bob,Port Roseway,m,19
+2062,67,2,Friendship,Charles Coldstream,Lilly,Port Roseway,c f,12
+2063,67,3,Friendship,Charles Coldstream,Captain,Port Roseway,c m,15
+2064,67,4,Friendship,Charles Coldstream,Bett,Port Roseway,c f,10
+2065,67,5,Lord Townsend,James Hog,Samuel Penulack,Annapollis Royal,m,25
+2066,67,6,Lord Townsend,James Hog,Sampson,Annapollis Royal,m,30
+2067,67,7,Lord Townsend,James Hog,Joe,Annapollis Royal,m,52
+2068,67,8,Lord Townsend,James Hog,Jack,Annapollis Royal,m,28
+2069,67,9,Lord Townsend,James Hog,Rachel,Annapollis Royal,f,28
+2070,67,10,Lord Townsend,James Hog,Ned,Annapollis Royal,m,20
+2071,67,11,Lord Townsend,James Hog,Abraham,Annapollis Royal,m,23
+2072,67,12,Lord Townsend,James Hog,Jack,Annapollis Royal,m,60
+2073,67,13,Lord Townsend,James Hog,Pompey Campbell,Annapollis Royal,m,50
+2074,67,14,Lord Townsend,James Hog,Sharper Cole,Annapollis Royal,m,20
+2075,67,15,Lord Townsend,James Hog,Anthony Buttler,Annapollis Royal,m,18
+2076,67,16,Lord Townsend,James Hog,Abraham Robertson,Annapollis Royal,c m,15
+2077,67,17,Lord Townsend,James Hog,Moses Caswell,Annapollis Royal,m,28
+2078,67,18,Lord Townsend,James Hog,Sally,Annapollis Royal,c f,10
+2079,67,19,Lord Townsend,James Hog,Susanah,Annapollis Royal,c f,14
+2080,67,20,Lord Townsend,James Hog,Sarah,Annapollis Royal,c f,12
+2081,67,21,Lord Townsend,James Hog,Silvia,Annapollis Royal,f,30
+2082,67,22,Lord Townsend,James Hog,Annie,Annapollis Royal,f,17
+2083,67,23,Lord Townsend,James Hog,Abraham,Annapollis Royal,c m,3
+2084,67,24,Lord Townsend,James Hog,Flora Robin,Annapollis Royal,f,35
+2085,67,25,Lord Townsend,James Hog,Tom Demaresh,Annapollis Royal,m,20
+2086,67,26,Lord Townsend,James Hog,James Nichols,Annapollis Royal,m,27
+2087,67,27,Lord Townsend,James Hog,Jenny Perry,Annapollis Royal,f,40
+2088,67,28,Lord Townsend,James Hog,Betts,Annapollis Royal,f,30
+2089,67,29,Lord Townsend,James Hog,Phillis,Annapollis Royal,c f,15
+2090,67,30,Lord Townsend,James Hog,James,Annapollis Royal,m,19
+2091,67,31,Lord Townsend,James Hog,Kate,Annapollis Royal,f,50
+2092,67,32,Lord Townsend,James Hog,Bill,Annapollis Royal,c m,15
+2093,67,32,Lord Townsend,James Hog,Rachal,Annapollis Royal,f,32
+2094,67,32,Clinton,Lt. Trounce,Nan,Port Roseway,c f,7
+2095,67,32,Clinton,Lt. Trounce,Bett,Port Roseway,c f,5
+2096,67,32,Clinton,Lt. Trounce,Silvia,Port Roseway,f,30
+2097,67,32,Clinton,Lt. Trounce,Mary,Port Roseway,c f,14
+2098,67,32,Clinton,Lt. Trounce,Elizabeth,Port Roseway,f,24
+2099,67,32,Clinton,Lt. Trounce,child of Elizabeth,Port Roseway,c,
+2100,67,32,Clinton,Lt. Trounce,Jude,Port Roseway,c f,9
+2101,67,32,Clinton,Lt. Trounce,Jack,Port Roseway,c m,15
+2102,68,1,William & Mary,William Moore,Ackebee,Halifax,m,60
+2103,68,2,William & Mary,William Moore,Catharina,Halifax,f,60
+2104,68,3,William & Mary,William Moore,Jeany,Halifax,f,40
+2105,68,4,William & Mary,William Moore,Prince,Halifax,m,30
+2106,68,5,William & Mary,William Moore,Katy,Halifax,c f,6
+2107,68,6,L'Abundance,Lt. Phillips,Silvia,Port Roseway,f,30
+2108,68,7,L'Abundance,Lt. Phillips,Eve,Port Roseway,f,64
+2109,68,8,L'Abundance,Lt. Phillips,Eve,Port Roseway,f,56
+2110,68,9,L'Abundance,Lt. Phillips,Daniel,Port Roseway,c m,13
+2111,68,10,L'Abundance,Lt. Phillips,Polly Turner,Port Roseway,f,23
+2112,68,11,L'Abundance,Lt. Phillips,David Lokes,Port Roseway,m,30
+2113,68,12,L'Abundance,Lt. Phillips,Hesther Wilkinson,Port Roseway,f,50
+2114,68,13,L'Abundance,Lt. Phillips,John Woodie,Port Roseway,m,23
+2115,68,14,L'Abundance,Lt. Phillips,Nat Turner,Port Roseway,m,30
+2116,68,15,L'Abundance,Lt. Phillips,Jacob Richards,Port Roseway,m,57
+2117,68,16,L'Abundance,Lt. Phillips,Betty Richards,Port Roseway,f,55
+2118,68,17,L'Abundance,Lt. Phillips,Sarah,Port Roseway,f,17
+2119,68,18,L'Abundance,Lt. Phillips,Ceasar,Port Roseway,m,27
+2120,68,19,L'Abundance,Lt. Phillips,Sam,Port Roseway,m,22
+2121,68,20,L'Abundance,Lt. Phillips,Mary Johnson,Port Roseway,f,18
+2122,68,21,Robert and Elizabeth,John Millbank,Tempie,Annapollis,c f,9
+2123,68,22,Robert and Elizabeth,John Millbank,Sibbe,Annapollis,c f,11
+2124,68,23,Jason,Thomas Appleby,Tammer,St. Johns,c f,13
+2125,68,24,Jason,Thomas Appleby,Tom,St. Johns,m,22
+2126,68,25,Jason,Thomas Appleby,Joe Miller,St. Johns,c m,12
+2127,68,26,Mary ,George Bell,Sarah,Port Roseway,f,20
+2128,68,27,Mary ,George Bell,Susannah,Port Roseway,c f, 1/2
+2129,68,28,Mary ,George Bell,Bill,Port Roseway,c m,12
+2130,68,29,Mary ,George Bell,Harry,Port Roseway,m,30
+2131,68,30,Mary ,George Bell,Sam,Port Roseway,m,40
+2132,68,31,Mary ,George Bell,Sam,Port Roseway,m,35
+2133,68,32,William & Mary,Anthony Moore,Clarinda,Halifax,f,19
+2134,68,33,William & Mary,Anthony Moore,Jupiter,Halifax,m,33
+2135,68,33,William & Mary,Anthony Moore,Nancy,Halifax,f,25
+2136,68,33,William & Mary,Anthony Moore,Sarah,Halifax,c f, 1/2
+2137,68,33,William & Mary,Anthony Moore,Dianah,Halifax,f,22
+2138,68,33,Neptune,Samuel Bellson,Sam,St. John's,c m,15
+2139,68,33,Neptune,Samuel Bellson,Pleasant,St. John's,f,35
+2140,68,33,Neptune,Samuel Bellson,James ,St. John's,c m,1 1/2
+2141,68,33,Neptune,Samuel Bellson,York,St. John's,f,35
+2142,68,33,Nancy,Robert Bruce,Prince,Port Roseway,m,20
+2143,68,33,Nancy,Robert Bruce,Ibby,Port Roseway,f,24
+2144,68,33,Nancy,Robert Bruce,Harry,Port Roseway,c m,2
+2145,68,33,Nancy,Robert Bruce,John Fortune,Port Roseway,m,62
+2146,68,33,Nancy,Robert Bruce,Kate,Port Roseway,f,50
+2147,69,1,Michael,James Bishop,Ming,Annapollis,m,26
+2148,69,2,Michael,James Bishop,Maryann,Annapollis,f,22
+2149,69,3,Michael,James Bishop,Tom,Annapollis,m,26
+2150,69,4,Michael,James Bishop,Priscilla,Annapollis,f,32
+2151,69,5,Michael,James Bishop,Sam,Annapollis,c m,2
+2152,69,6,Michael,James Bishop,Sarah,Annapollis,f,22
+2153,69,7,Michael,James Bishop,Judith,Annapollis,f,40
+2154,69,8,Michael,James Bishop,Dinah,Annapollis,f,28
+2155,69,9,Michael,James Bishop,Cato,Annapollis,c m,2
+2156,69,10,Michael,James Bishop,Cows,Annapollis,m,22
+2157,69,11,Michael,James Bishop,Sam,Annapollis,m,22
+2158,69,12,Hope,Mathew Bryan,Molly,Annapollis,f,16
+2159,69,13,Hope,Mathew Bryan,Mary,Annapollis,f,20
+2160,69,14,Hope,Mathew Bryan,Dinah,Annapollis,c f, 1/2
+2161,69,15,Hope,Mathew Bryan,Elizabeth,Annapollis,f,26
+2203,70,19,Hopewell,George Garbutt,Joe,Port Roseway,c m,8
+2162,69,16,Hope,Mathew Bryan,Timm,Annapollis,c m, 1/2
+2163,69,17,Hope,Mathew Bryan,Jack,Annapollis,c,10
+2164,69,18,Hope,Mathew Bryan,Phillis,Annapollis,c f,6
+2165,69,19,Hope,Mathew Bryan,William,Annapollis,m,20
+2166,69,20,Hope,Mathew Bryan,Queho,Annapollis,m,22
+2167,69,21,Hope,Mathew Bryan,Ceaser,Annapollis,m,50
+2168,69,22,Hope,Mathew Bryan,Dick,Annapollis,c m,11
+2169,69,23,Hope,Mathew Bryan,Lizzy Martin,Annapollis,f,50
+2170,69,24,Hope,Mathew Bryan,Sarah Allman,Annapollis,f,20
+2171,69,25,Hope,Mathew Bryan,Sam Van Wart,Annapollis,m,44
+2172,69,26,Hope,Mathew Bryan,Rachal,Annapollis,f,40
+2173,69,27,Hope,Mathew Bryan,Susannah,Annapollis,c f,11
+2174,69,28,Hope,Mathew Bryan,Cudjoe Thomas,Annapollis,m,42
+2175,69,29,Hope,Mathew Bryan,William Martin,Annapollis,c m,13
+2176,69,30,Hope,Mathew Bryan,John,Annapollis,m,26
+2177,69,31,Trepassey,,Tom,Fort Cumberland,m,26
+2178,69,32,Trepassey,,Nero,Fort Cumberland,c m,15
+2179,69,33,Trepassey,,Jarvis,Fort Cumberland,m,22
+2180,69,33,Trepassey,,John,Fort Cumberland,m,23
+2181,69,33,Trepassey,,Jane,Fort Cumberland,f,33
+2182,69,33,Trepassey,,Mary,Fort Cumberland,f,17
+2183,69,33,Joseph,James Mitchell,Joe,Annapollis,c m,10
+2184,69,33,Joseph,James Mitchell,Nancy,Annapollis,c f,11
+2185,70,1,Kingston,John Atkinson,Lucy,Port Roseway,f,26
+2186,70,2,Kingston,John Atkinson,Priscilla,Port Roseway,c f,7
+2187,70,3,Kingston,John Atkinson,Eleanor Cross,Port Roseway,c f,11
+2188,70,4,Kingston,John Atkinson,Hannah,Port Roseway,f,23
+2189,70,5,Kingston,John Atkinson,Jane Samson,Port Roseway,f,52
+2190,70,6,Kingston,John Atkinson,Catherine,Port Roseway,f,25
+2191,70,7,Kingston,John Atkinson,Hannah,Port Roseway,f,21
+2192,70,8,Kingston,John Atkinson,John Thomas,Port Roseway,c m,15
+2193,70,9,Kingston,John Atkinson,Cuff Cummins,Port Roseway,m,24
+2194,70,10,Kingston,John Atkinson,Lettia,Port Roseway,c f,5
+2195,70,11,Silina,John McGie,Ceasar,Port Roseway,m,40
+2196,70,12,Silina,John McGie,Robert,Port Roseway,m,30
+2197,70,13,Silina,John McGie,Sally,Port Roseway,f,19
+2198,70,14,Silina,John McGie,Dinah,Port Roseway,f,38
+2199,70,15,Silina,John McGie,Dinah,Port Roseway,f,20
+2200,70,16,Silina,John McGie,George,Port Roseway,c m,14
+2201,70,17,Silina,John McGie,Poll,Port Roseway,f,16
+2202,70,18,Hopewell,George Garbutt,Katy Profit,Port Roseway,f,32
+2204,70,20,Hopewell,George Garbutt,Daniel,Port Roseway,c m,9 months
+2205,70,21,Hopewell,George Garbutt,Edward Wan,Port Roseway,m,30
+2206,70,22,Hopewell,George Garbutt,George Travelle,Port Roseway,m,23
+2207,70,23,Mary,Francis Rowbottom,Peg,St. Johns,f,16
+2208,70,24,Sally,William Bell,Moses Thompson,St. Johns,m,20
+2209,70,25,Sally,William Bell,Mary,St. Johns,f,36
+2210,70,26,Sally,William Bell,Sally,St. Johns,c f,6 months
+2211,70,27,Sally,William Bell,Jakey,St. Johns,c m,3
+2212,70,28,Sally,William Bell,Abraham,St. Johns,m,30
+2213,70,29,Sally,William Bell,William Etherington,St. Johns,c m,13
+2214,70,30,Sally,William Bell,Ned,St. Johns,m,40
+2215,70,31,Sally,William Bell,Jeany,St. Johns,f,40
+2216,70,32,Alexander,Roger Alderson,Cairo,St. Johns,f,20
+2217,70,33,Alexander,Roger Alderson,Bella,St. Johns,c f,14
+2218,70,34,Alexander,Roger Alderson,Esther,St. Johns,f,18
+2219,70,34,Alexander,Roger Alderson,Sam,St. Johns,m,35
+2220,70,34,Alexander,Roger Alderson,Robert,St. Johns,m,36
+2221,70,34,Alexander,Roger Alderson,Pompey,St. Johns,m,25
+2222,70,34,Prince of Orange,Thomas MacNault,William,Port Roseway,m,51
+2223,70,34,Kingston,John Atkinson,William Ernest,Port Roseway,m,31
+2224,70,34,Kingston,John Atkinson,Jane Cook,Port Roseway,f,41
+2225,70,34,Elk,Peter Stark,Grace,Port Mattoon,f,26
+2226,70,34,Elk,Peter Stark,Betsey,Port Mattoon,f,22
+2227,70,34,Elk,Peter Stark,Izabella,Port Mattoon,f,22
+2228,70,34,Elk,Peter Stark,Molly,Port Mattoon,f,21
+2229,70,34,Elk,Peter Stark,Jane,Port Mattoon,f,24
+2230,71,1,Elk,Peter Stark,Sukey,Port Mattoon,f,21
+2231,71,2,Elk,Peter Stark,Sukey,Port Mattoon,f,21
+2232,71,3,Elk,Peter Stark,Fanny,Port Mattoon,f,25
+2233,71,4,Elk,Peter Stark,Katy,Port Mattoon,f,22
+2234,71,5,Elk,Peter Stark,Mary,Port Mattoon,f,17
+2235,71,6,Elk,Peter Stark,Betty,Port Mattoon,c f,1
+2236,71,7,Elk,Peter Stark,Elijah,Port Mattoon,c m, 1/2
+2237,71,8,Elk,Peter Stark,Suky,Port Mattoon,c f, 1/2
+2238,71,9,Midsummer Blossom,William Rayon,Kate,Halifax,f,16
+2239,71,10,Midsummer Blossom,William Rayon,Will Hicks,Halifax,c m,12
+2240,71,11,Midsummer Blossom,William Rayon,Solomon,Halifax,m,25
+2241,71,12,Midsummer Blossom,William Rayon,Dick,Halifax,m,21
+2242,71,13,Midsummer Blossom,William Rayon,Nancy,Halifax,f,37
+2243,71,14,Midsummer Blossom,William Rayon,Bristol,Halifax,m,25
+2244,71,15,Dutchess of Gordon,James Holmes,William Simpson,Halifax,m,45
+2245,71,16,Dutchess of Gordon,James Holmes,John Brown,Halifax,m,30
+2246,71,17,Dutchess of Gordon,James Holmes,Punch,Halifax,m,25
+2247,71,18,Saucy Ben,James Miller,Mingo Shiels,Halifax,m,24
+2248,71,19,Saucy Ben,James Miller,Sam McLeod,Halifax,m,29
+2249,71,20,Rhinocerus,,Whitehaven,Halifax,m,30
+2250,71,21,Cato,,Joe Freeman,Annapollis Royal,m,35
+2251,71,22,Cato,,Ben Freebody,Annapollis Royal,m,35
+2253,71,24,Cato,,William Freeman,Annapollis Royal,m,30
+2254,71,25,Cato,,Vigo,Annapollis Royal,m,30
+2255,71,26,Cato,,James Brown,Annapollis Royal,m,21
+2256,71,27,Cato,,Titus,Annapollis Royal,m,28
+2257,71,28,Cato,,Abigail,Annapollis Royal,f,20
+2258,71,29,Cato,,Massey Asten,Annapollis Royal,f,31
+2259,71,30,Cato,,Nancy King,Annapollis Royal,f,19
+2260,71,31,Cato,,Joseph,Annapollis Royal,m,30
+2261,71,32,Cato,,Timothy,Annapollis Royal,m,33
+2262,71,33,Shouldham,James Nicholson,Cato,Annapollis Royal,m,35
+2263,71,33,Shouldham,James Nicholson,Rose Wainworth,Annapollis Royal,f,30
+2264,71,33,Shouldham,James Nicholson,child of Wainworth,Annapollis Royal,c,12
+2265,71,33,Shouldham,James Nicholson,child of Wainworth,Annapollis Royal,c,5
+2266,71,33,Shouldham,James Nicholson,Ceasar,Annapollis Royal,m,51
+2267,71,33,Shouldham,James Nicholson,Bill,Annapollis Royal,c m,14
+2268,71,33,Shouldham,James Nicholson,Daniel,Annapollis Royal,c m,5
+2269,71,33,Shouldham,James Nicholson,Hannah,Annapollis Royal,f,30
+2270,71,33,Shouldham,James Nicholson,child of Hannah,Annapollis Royal,c,2
+2271,71,33,Shouldham,James Nicholson,Yaft Benson,Annapollis Royal,m,24
+2272,71,33,Shouldham,James Nicholson,Jenny,Annapollis Royal,f,20
+2273,71,33,Shouldham,James Nicholson,child of Jenny,Annapollis Royal,c,2
+2274,71,33,Shouldham,James Nicholson,child of Jenny,Annapollis Royal,c,1 month
+2275,71,33,Shouldham,James Nicholson,Jane,Annapollis Royal,f,17
+2276,71,33,Shouldham,James Nicholson,Margret,Annapollis Royal,c f,15
+2277,71,33,Shouldham,James Nicholson,James Jacksons,Annapollis Royal,m,36
+2278,71,33,Shouldham,James Nicholson,Betsey Jackson,Annapollis Royal,f,16
+2279,72,1,Betsey,William Galilie,Amy Ash,Annapollis Royal,f,26
+2280,72,2,Betsey,William Galilie,Jim,Annapollis Royal,c m,8
+2281,72,3,Betsey,William Galilie,Jack,Annapollis Royal,m,22
+2282,72,4,Betsey,William Galilie,Letitia,Annapollis Royal,f,25
+2283,72,5,Betsey,William Galilie,Flanders Goff,Annapollis Royal,m,20
+2284,72,6,Betsey,William Galilie,Sabinah,Annapollis Royal,f,35
+2285,72,7,Betsey,William Galilie,Sam,Annapollis Royal,c m,5
+2286,72,8,Betsey,William Galilie,Beck,Annapollis Royal,c f,1
+2287,72,9,Betsey,William Galilie,Black Bill,Annapollis Royal,m,35
+2288,72,10,Betsey,William Galilie,Aaron,Annapollis Royal,c m,15
+2289,72,11,Betsey,William Galilie,George,Annapollis Royal,m,19
+2290,72,12,Betsey,William Galilie,John,Annapollis Royal,m,
+2291,72,13,Betsey,William Galilie,Mima,Annapollis Royal,f,
+2292,72,14,Betsey,William Galilie,Glasgow,Annapollis Royal,m,45
+2293,72,15,Betsey,William Galilie,Silvia Ben,Annapollis Royal,f,30
+2294,72,16,Betsey,William Galilie,Cander,Annapollis Royal,c m,8
+2295,72,17,Betsey,William Galilie,John,Annapollis Royal,c m,2
+2296,72,18,Betsey,William Galilie,John Been,Annapollis Royal,m,48
+2297,72,19,Betsey,William Galilie,John Jackson,Annapollis Royal,m,22
+2298,72,20,Betsey,William Galilie,Tertullas,Annapollis Royal,m,41
+2299,72,21,Betsey,William Galilie,Hope,Annapollis Royal,f,47
+2300,72,22,Betsey,William Galilie,John Annis,Annapollis Royal,m,30
+2301,72,23,Stafford,Robert Watson,Jacob,Halifax,m,17
+2302,72,24,Stafford,Robert Watson,Elizabeth,Halifax,f,24
+2303,72,25,Stafford,Robert Watson,Sam,Halifax,c m,13
+2304,72,26,Stafford,Robert Watson,Charity,Halifax,f,21
+2305,72,27,Stafford,Robert Watson,Thomas,Halifax,m,26
+2306,72,28,Stafford,Robert Watson,William Locum,Halifax,m,26
+2307,72,29,Stafford,Robert Watson,Sarah,Halifax,f,23
+2308,72,30,La Aigle,John Blain,Isaac William,Annapollis Royal,m,31
+2309,72,31,La Aigle,John Blain,Levitia,Annapollis Royal,m,28
+2310,72,32,La Aigle,John Blain,Joe Mason,Annapollis Royal,m,25
+2311,72,33,La Aigle,John Blain,Samuel Crocker,Annapollis Royal,m,50
+2312,72,34,La Aigle,John Blain,Larry,Annapollis Royal,m,48
+2313,72,35,La Aigle,John Blain,John Pomp,Annapollis Royal,m,24
+2314,72,36,La Aigle,John Blain,Jacob,Annapollis Royal,m,34
+2315,72,36,La Aigle,John Blain,Bobb Harrison,Annapollis Royal,m,21
+2316,72,36,La Aigle,John Blain,Tom,Annapollis Royal,m,60
+2317,72,36,La Aigle,John Blain,Abraham Lesslie,Annapollis Royal,m,31
+2318,72,36,La Aigle,John Blain,Quash,Annapollis Royal,m,39
+2319,72,36,La Aigle,John Blain,Prince,Annapollis Royal,m,30
+2320,72,36,La Aigle,John Blain,Will,Annapollis Royal,m,50
+2321,72,36,La Aigle,John Blain,Pleasant,Annapollis Royal,f,17
+2322,72,36,La Aigle,John Blain,George,Annapollis Royal,c m,1
+2323,72,36,La Aigle,John Blain,Harry,Annapollis Royal,c m,3
+2324,72,36,La Aigle,John Blain,Molly,Annapollis Royal,f,40
+2325,72,36,La Aigle,John Blain,Jenny,Annapollis Royal,c f,9
+2326,73,1,La Aigle,John Blain,Joseph,Annapollis Royal,c m,7
+2327,73,2,La Aigle,John Blain,Charlotte,Annapollis Royal,f,18
+2328,73,3,La Aigle,John Blain,Grace,Annapollis Royal,f,20
+2329,73,4,La Aigle,John Blain,Sally,Annapollis Royal,f,27
+2330,73,5,La Aigle,John Blain,Tom,Annapollis Royal,c m,12 1/2
+2331,73,6,La Aigle,John Blain,Lidia,Annapollis Royal,f,17
+2332,73,7,La Aigle,John Blain,Phillister,Annapollis Royal,m,20
+2333,73,8,La Aigle,John Blain,Phillis,Annapollis Royal,f,28
+2334,73,9,La Aigle,John Blain,Tom,Annapollis Royal,c m,10
+2335,73,10,La Aigle,John Blain,Jonny,Annapollis Royal,c f, 1/2
+2336,73,11,La Aigle,John Blain,Sarrah,Annapollis Royal,f,42
+2337,73,12,La Aigle,John Blain,Betsey,Annapollis Royal,f,36
+2338,73,13,La Aigle,John Blain,Prudence,Annapollis Royal,c f,11
+2339,73,14,La Aigle,John Blain,Mary,Annapollis Royal,f,20
+2340,73,15,La Aigle,John Blain,Silvia,Annapollis Royal,f,55
+2341,73,16,La Aigle,John Blain,Sally,Annapollis Royal,f,32
+2342,73,17,La Aigle,John Blain,August,Annapollis Royal,c m,7
+2343,73,18,La Aigle,John Blain,Dinah,Annapollis Royal,f,25
+2344,73,19,La Aigle,John Blain,Pleasant,Annapollis Royal,f,26
+2345,73,20,La Aigle,John Blain,Lettius,Annapollis Royal,c,11
+2346,73,21,La Aigle,John Blain,Ned,Annapollis Royal,c m,6
+2347,73,22,La Aigle,John Blain,Fanny Brown,Annapollis Royal,f,40
+2348,73,23,La Aigle,John Blain,Polly,Annapollis Royal,c f,6
+2349,73,24,La Aigle,John Blain,Nancy,Annapollis Royal,f,36
+2350,73,25,La Aigle,John Blain,John,Annapollis Royal,c m,4 months
+2351,73,26,La Aigle,John Blain,John Cockburn,Annapollis Royal,m,50
+2352,73,27,Joseph,Ben Coward,Dolly Wilkinson,Port Mattoon,f,62
+2353,73,28,Joseph,Ben Coward,Villot Miller,Port Mattoon,f,34
+2354,73,29,Joseph,Ben Coward,Abraham Miller,Port Mattoon,m,40
+2355,73,30,Joseph,Ben Coward,Sam Hawkins,Port Mattoon,m,25
+2356,73,31,Joseph,Ben Coward,Amey Orphan,Port Mattoon,c f,8
+2357,73,32,Elijah,Alexander Buchannon,Lieut. Col. Bridges,Port Mattoon,m,43
+2358,73,33,Elijah,Alexander Buchannon,Ruben Simmons,Port Mattoon,m,37
+2359,73,33,Elijah,Alexander Buchannon,William Davis,Port Mattoon,m,30
+2360,73,33,Elijah,Alexander Buchannon,March Jones,Port Mattoon,m,40
+2361,73,33,Elijah,Alexander Buchannon,Paul Johnson,Port Mattoon,m,21
+2362,73,33,Elijah,Alexander Buchannon,Cato,Port Mattoon,m,23
+2363,73,33,Elijah,Alexander Buchannon,John Mosley,Port Mattoon,m,25
+2364,73,33,Elijah,Alexander Buchannon,Solomon Lawson,Port Mattoon,m,30
+2558,78,8,Jenney,Ammerson,Abraham,Port Mattoon,c m,10
+2365,73,33,Elijah,Alexander Buchannon,William Dean,Port Mattoon,m,62
+2366,73,33,Elijah,Alexander Buchannon,Levie Johnson,Port Mattoon,m,26
+2367,73,33,Elijah,Alexander Buchannon,John Ballemay,Port Mattoon,m,38
+2368,73,33,Elijah,Alexander Buchannon,Jacob Roan,Port Mattoon,m,26
+2369,73,33,Elijah,Alexander Buchannon,Tom Hunter,Port Mattoon,m,22
+2370,74,1,Elijah,Alexander Buchannon,Jacob Watson,Port Mattoon,m,27
+2371,74,2,Elijah,Alexander Buchannon,George Price,Port Mattoon,m,40
+2372,74,3,Elijah,Alexander Buchannon,Thomas Freeman,Port Mattoon,m,31
+2373,74,4,Elijah,Alexander Buchannon,Peter Robertson,Port Mattoon,m,24
+2374,74,5,Elijah,Alexander Buchannon,Roger Scott,Port Mattoon,m,57
+2375,74,6,Elijah,Alexander Buchannon,Henry Calls,Port Mattoon,m,22
+2376,74,7,Elijah,Alexander Buchannon,James Rea,Port Mattoon,m,24
+2377,74,8,Elijah,Alexander Buchannon,Robert Cain,Port Mattoon,m,19
+2378,74,9,Elijah,Alexander Buchannon,Silas Bright,Port Mattoon,m,26
+2379,74,10,Elijah,Alexander Buchannon,George Johnson,Port Mattoon,m,29
+2380,74,11,Elijah,Alexander Buchannon,Joseph Warrington,Port Mattoon,m,25
+2381,74,12,Elijah,Alexander Buchannon,George Wise,Port Mattoon,m,30
+2382,74,13,Elijah,Alexander Buchannon,Robert Hoult,Port Mattoon,m,24
+2383,74,14,Elijah,Alexander Buchannon,Ben Frankham,Port Mattoon,m,21
+2384,74,15,Elijah,Alexander Buchannon,Alex Duke,Port Mattoon,m,21
+2385,74,16,Elijah,Alexander Buchannon,Joseph Heartlie,Port Mattoon,m,20
+2386,74,17,Elijah,Alexander Buchannon,Richard Bush,Port Mattoon,m,60
+2387,74,18,Elijah,Alexander Buchannon,Samuel Saunders,Port Mattoon,m,20
+2388,74,19,Elijah,Alexander Buchannon,Betsey Elliott,Port Mattoon,f,25
+2389,74,20,Elijah,Alexander Buchannon,Lucy Jackson,Port Mattoon,f,25
+2390,74,21,Elijah,Alexander Buchannon,Peggy Minton,Port Mattoon,f,22
+2391,74,22,Elijah,Alexander Buchannon,Fanny Harris,Port Mattoon,f,20
+2392,74,22,Elijah,Alexander BuchannonAlexander Buchannon,child of Harris,Port Mattoon,c f,7 months
+2393,74,23,Elijah,Alexander Buchannon,Nelly Bush,Port Mattoon,f,54
+2394,74,24,Elijah,Alexander Buchannon,Jenney Fracklan,Port Mattoon,f,24
+2395,74,25,Elijah,Alexander Buchannon,Nancy Basset,Port Mattoon,f,28
+2396,74,26,Elijah,Alexander Buchannon,Patience Jackson,Port Mattoon,f,23
+2397,74,27,Elijah,Alexander Buchannon,Rebecca Duke,Port Mattoon,f,16
+2398,74,28,Elijah,Alexander Buchannon,Jane Bush,Port Mattoon,f,17
+2399,74,29,Elijah,Alexander Buchannon,Peggy Wise,Port Mattoon,f,26
+2400,74,30,Elijah,Alexander Buchannon,Kally Bridges,Port Mattoon,f,54
+2401,74,31,Elijah,Alexander Buchannon,Jane Bridges,Port Mattoon,c f,13
+2402,74,32,Elijah,Alexander Buchannon,Hannah Lynning,Port Mattoon,f,34
+2403,74,32,Elijah,Alexander Buchannon,Mellia Johnson,Port Mattoon,f,19
+2404,74,32,Elijah,Alexander Buchannon,Since Dean,Port Mattoon,f,62
+2405,74,32,Elijah,Alexander Buchannon,Dinah Johnson,Port Mattoon,f,54
+2406,74,32,Elijah,Alexander Buchannon,Polly Vantile,Port Mattoon,f,21
+2407,74,32,Elijah,Alexander Buchannon,Massey Vantile,Port Mattoon,c,4
+2408,74,32,Elijah,Alexander Buchannon,Rebecca Scott,Port Mattoon,f,28
+2409,74,32,Elijah,Alexander Buchannon,Joseph Scott,Port Mattoon,c m,11
+2410,74,32,Elijah,Alexander Buchannon,Mary Scott,Port Mattoon,c f, 1/2
+2411,74,32,Elijah,Alexander Buchannon,Mary Bright,Port Mattoon,f,26
+2412,74,32,Elijah,Alexander Buchannon,Mathew,Port Mattoon,c m,9
+2413,74,32,Elijah,Alexander Buchannon,Silas,Port Mattoon,c m,1 1/2
+2414,75,1,Elijah,Alexander Buchannon,Ester Roberts,Port Mattoon,f,28
+2415,75,2,Elijah,Alexander Buchannon,Dianah Roberts,Port Mattoon,c f,10
+2416,75,3,Elijah,Alexander Buchannon,Peggy Rea,Port Mattoon,f,25
+2417,75,4,Elijah,Alexander Buchannon,Mimbo Scott,Port Mattoon,m,21
+2418,75,5,Elijah,Alexander Buchannon,Phebe Scott,Port Mattoon,c f,3 months
+2419,75,6,Elijah,Alexander Buchannon,Susanah,Port Mattoon,f,23
+2420,75,7,Elijah,Alexander Buchannon,Eaddie,Port Mattoon,c m,5
+2421,75,8,Elijah,Alexander Buchannon,Chloe,Port Mattoon,f,23
+2422,75,9,Elijah,Alexander Buchannon,Priscilla,Port Mattoon,f,21
+2423,75,10,Elijah,Alexander Buchannon,Deanah,Port Mattoon,f,62
+2424,75,11,Elijah,Alexander Buchannon,Nancy Johnson,Port Mattoon,f,36
+2425,75,12,Elijah,Alexander BuchannonAlexander Buchannon,Abagail,Port Mattoon,f,35
+2426,75,12,Elijah,Alexander BuchannonAlexander Buchannon,Joseph,Port Mattoon,c m,3
+2427,75,13,Elijah,Alexander Buchannon,Sally Oxford,Port Mattoon,f,22
+2428,75,14,Elijah,Alexander Buchannon,Elizabeth,Port Mattoon,f,27
+2429,75,15,Elijah,Alexander Buchannon,Judith,Port Mattoon,c f,9 months
+2430,75,16,Elijah,Alexander Buchannon,Ellsie,Port Mattoon,f,17
+2431,75,17,Elijah,Alexander Buchannon,James Campbell,Port Mattoon,c m,9 months
+2432,75,18,Elijah,Alexander Buchannon,Polly Christopher,Port Mattoon,f,30
+2433,75,19,Elijah,Alexander Buchannon,Sylvia,Port Mattoon,c f,14
+2434,75,20,Elijah,Alexander Buchannon,Cathern Scott,Port Mattoon,f,40
+2435,75,21,Elijah,Alexander Buchannon,Elizabeth Edwards,Port Mattoon,f,26
+2436,75,22,Elijah,Alexander Buchannon,Elizabeth Edwards,Port Mattoon,c f,4
+2437,75,23,Elijah,Alexander Buchannon,Jean Quack,Port Mattoon,f,28
+2438,75,24,Elijah,Alexander Buchannon,Elizabeth Quack,Port Mattoon,f,50
+2439,75,25,Elijah,Alexander Buchannon,Sally Quack,Port Mattoon,f,17
+2440,75,26,Elijah,Alexander Buchannon,Maryann Thompson,Port Mattoon,f,22
+2559,78,9,Jenney,Ammerson,Binah,Port Mattoon,f,17
+2441,75,27,Elijah,Alexander Buchannon,Osmond Thompson,Port Mattoon,c m,8
+2442,75,28,Elijah,Alexander Buchannon,Cathern Hurbert,Port Mattoon,f,30
+2443,75,29,Elijah,Alexander Buchannon,Fanny Hurbert,Port Mattoon,c f,9
+2444,75,30,Elizabeth,Robert Harrington,Samuel Holms,Cat Island,m,32
+2445,75,31,Elizabeth,Robert Harrington,John Thomson,Cat Island,m,31
+2446,75,32,Elizabeth,Robert Harrington,John Lambert,Cat Island,m,57
+2447,75,33,Elizabeth,Robert Harrington,Richard Smith,Cat Island,m,21
+2448,75,34,Elizabeth,Robert Harrington,Nuse Bagshaw,Cat Island,m,31
+2449,75,34,Elizabeth,Robert Harrington,James,Cat Island,m,50
+2450,75,34,Elizabeth,Robert Harrington,Rachell,Cat Island,f,40
+2451,75,34,Elizabeth,Robert Harrington,Nancy Lambert,Cat Island,f,31
+2452,75,34,Elizabeth,Robert Harrington,Charlotte David,Cat Island,f,25
+2453,75,34,Elizabeth,Robert Harrington,Ciris David,Cat Island,m,47
+2454,75,34,Elizabeth,Robert HarringtonRobert Harrington,Clarinda,Cat Island,c f,5
+2455,75,34,Elizabeth,Robert Harrington,Sarah,Cat Island,c f,4
+2456,75,34,Elizabeth,Robert Harrington,Chloe,Cat Island,c f,1 month
+2457,75,34,Elizabeth,Robert Harrington,Joe,Cat Island,m,41
+2458,75,34,Elizabeth,Robert Harrington,Charles Rogers,Cat Island,m,33
+2459,76,1,Elizabeth,Robert Harrington,Cubet,Cat Island,m,38
+2460,76,2,Elizabeth,Robert Harrington,Sarah,Cat Island,f,30
+2461,76,3,Elizabeth,Robert Harrington,Nero Denton,Cat Island,m,40
+2462,76,4,Elizabeth,Robert Harrington,Dalkeith,Cat Island,m,25
+2463,76,5,Elizabeth,Robert Harrington,Henry Francis,Cat Island,m,47
+2464,76,6,Elizabeth,Robert Harrington,Peter Quamina,Cat Island,m,30
+2465,76,7,Elizabeth,Robert Harrington,Tiney,Cat Island,f,20
+2466,76,8,Elizabeth,Robert Harrington,Jem,Cat Island,c m,1
+2467,76,9,Elizabeth,Robert Harrington,Nicholas,Cat Island,m,20
+2468,76,10,Elizabeth,Robert Harrington,James Kilby,Cat Island,m,21
+2469,76,11,Elizabeth,Robert Harrington,John Stephenson,Cat Island,m,35
+2470,76,12,Commerce ,Richard Strong,Bob Wheaton,Spithead,m,19
+2471,76,13,Commerce ,Richard Strong,Ceasar Nichols,Spithead,c m,12
+2472,76,14,Commerce ,Richard Strong,Rhose Nichols,Spithead,f,36
+2473,76,15,Commerce ,Richard Strong,Cathern Townsend,Spithead,f,17
+2474,76,16,Pallacier,James Smith,Peter Brittain,Spithead,m,17
+2475,76,17,Duke of Richmond,Richard Davis,George Mintoes,Spithead,m,25
+2476,76,18,Duke of Richmond,Richard Davis,Hector Cockwell,Spithead,m,16
+2477,76,19,Duke of Richmond,Richard Davis,Henry Rhodos,Spithead,m,24
+2478,76,20,Duke of Richmond,Richard Davis,William,Spithead,c m,14
+2479,76,21,Duke of Richmond,Richard Davis,Peter George,Spithead,m,18
+2480,76,22,Duke of Richmond,Richard Davis,Anthony Tunis,Spithead,m,19
+2481,76,23,Duke of Richmond,Richard Davis,Taby Gustus,Spithead,f,24
+2482,76,24,Duke of Richmond,Richard Davis,John Higgins,Spithead,m,20
+2483,76,25,Duke of Richmond,Richard Davis,Susannah,Spithead,f,21
+2484,76,26,Duke of Richmond,Richard Davis,Sally,Spithead,c f,11 weeks
+2485,76,27,Molly,G. Legyett,John,Spithead,c m,13
+2486,76,28,Mary,Mathew Peacock,Sam,Ostend,m,20
+2487,76,29,Aurora,Thomas Jackson,Molly,Ostend,f,20
+2488,76,30,Aurora,Thomas Jackson,William Wintor,Ostend,c m,15
+2489,76,31,Aurora,Thomas Jackson,Betsey,Ostend,f,24
+2490,76,32,Aurora,Thomas Jackson,John Jack,Ostend,m,22
+2491,76,33,Aurora,Thomas Jackson,Gilbert,Ostend,m,16
+2492,76,34,Joseph,James Mitchell,Thomas Potters,Annapollis Royal,m,45
+2493,76,34,Joseph,James Mitchell,Murphy Steele,Annapollis Royal,m,30
+2494,76,34,Joseph,James Mitchell,George Kendle,Annapollis Royal,m,35
+2495,76,34,Joseph,James Mitchell,Toby,Annapollis Royal,m,18
+2496,76,34,Joseph,James Mitchell,Sally Petters,Annapollis Royal,f,30
+2497,76,34,Joseph,James Mitchell,Clarry,Annapollis Royal,c f,12
+2498,76,34,Joseph,James Mitchell,John ,Annapollis Royal,c m,1 1/2
+2499,76,34,Joseph,James Mitchell,John Salter,Annapollis Royal,m,35
+2500,76,34,Joseph,James Mitchell,Nancy Jenkins,Annapollis Royal,f,19
+2501,76,34,Joseph,James Mitchell,Lucy,Annapollis Royal,f,25
+2502,76,34,Joseph,James Mitchell,Abraham,Annapollis Royal,c m,2
+2503,76,34,Joseph,James Mitchell,Judy Stewart,Annapollis Royal,f,49
+2504,77,1,Joseph,James Mitchell,Frances Herbert,Annapollis Royal,f,65
+2505,77,2,Joseph,James Mitchell,Betsey Herbert,Annapollis Royal,f,44
+2506,77,3,Joseph,James Mitchell,James With,Annapollis Royal,m,24
+2507,77,4,Joseph,James Mitchell,Peggy Fenwick,Annapollis Royal,f,19
+2508,77,5,Joseph,James Mitchell,Isaac,Annapollis Royal,m,28
+2509,77,6,Joseph,James Mitchell,Sarah,Annapollis Royal,f,20
+2510,77,7,Joseph,James Mitchell,Lucy Howard,Annapollis Royal,f,23
+2511,77,8,Joseph,James Mitchell,Violet Moore,Annapollis Royal,f,30
+2512,77,9,Joseph,James Mitchell,Dorothy,Annapollis Royal,c f,13
+2513,77,10,Joseph,James Mitchell,Rose Wright,Annapollis Royal,f,25
+2514,77,11,Joseph,James Mitchell,Patience,Annapollis Royal,c f,7
+2515,77,12,Joseph,James Mitchell,Judith,Annapollis Royal,c f,9 months
+2516,77,13,Joseph,James Mitchell,Phebe Budell,Annapollis Royal,f,30
+2517,77,14,Joseph,James Mitchell,Timothy Withers,Annapollis Royal,m,26
+2518,77,15,Joseph,James Mitchell,Betsey Bodell,Annapollis Royal,c f,14
+2519,77,16,Joseph,James Mitchell,Mary Steel,Annapollis Royal,f,24
+2520,77,17,Joseph,James Mitchell,Cutto,Annapollis Royal,f,55
+2521,77,18,Joseph,James Mitchell,James Bowels,Annapollis Royal,m,28
+2522,77,19,Joseph,James Mitchell,Philis,Annapollis Royal,f,23
+2523,77,20,Joseph,James Mitchell,Kato Motte,Annapollis Royal,m,21
+2524,77,21,Joseph,James Mitchell,Hannah Hannell,Annapollis Royal,f,35
+2525,77,22,Joseph,James Mitchell,Jenney Burton,Annapollis Royal,f,20
+2526,77,23,Joseph,James Mitchell,Benjamin Pandorus,Annapollis Royal,m,18
+2527,77,24,Joseph,James Mitchell,Judah Johnson,Annapollis Royal,f,24
+2528,77,25,Joseph,James Mitchell,Stephen,Annapollis Royal,c m,5
+2529,77,26,Joseph,James Mitchell,Sam,Annapollis Royal,c m,3
+2530,77,27,Joseph,James Mitchell,Richard Johnson,Annapollis Royal,m,33
+2531,77,28,Joseph,James Mitchell,Nerow,Annapollis Royal,m,25
+2532,77,29,Joseph,James Mitchell,Frank Cilley,Annapollis Royal,m,37
+2533,77,30,Joseph,James Mitchell,Ann,Annapollis Royal,f,27
+2534,77,31,Joseph,James Mitchell,Sarah,Annapollis Royal,c f,5
+2535,77,32,Joseph,James Mitchell,Tom,Annapollis Royal,c m, 1/2
+2536,77,33,Joseph,James Mitchell,Daphany,Annapollis Royal,c f,11
+2537,77,34,Joseph,James Mitchell,Susannah Motte,Annapollis Royal,f,44
+2538,77,35,Joseph,James Mitchell,Isabella,Annapollis Royal,c f,5
+2539,77,36,Joseph,James Mitchell,Sam,Annapollis Royal,c m,3
+2540,77,36,Joseph,James Mitchell,Jenney,Annapollis Royal,f,25
+2541,77,36,Joseph,James Mitchell,John Marian,Annapollis Royal,m,37
+2542,77,36,Joseph,James Mitchell,Susannah,Annapollis Royal,f,25
+2543,77,36,Joseph,James Mitchell,Dianah,Annapollis Royal,c f,7
+2544,77,36,Joseph,James Mitchell,Sukey,Annapollis Royal,c f,7 months
+2545,77,36,Joseph,James Mitchell,Sambo Crowel,Annapollis Royal,m,44
+2546,77,36,Joseph,James Mitchell,Philis,Annapollis Royal,f,30
+2547,77,36,Joseph,James Mitchell,Anthony,Annapollis Royal,c m,8
+2548,77,36,Joseph,James Mitchell,Nancy,Annapollis Royal,c f,6
+2549,77,36,Joseph,James Mitchell,Mariah,Annapollis Royal,c f,1
+2550,77,36,Joseph,James Mitchell,William Catchpole,Annapollis Royal,m,24
+2551,78,1,Joseph,James Mitchell,Mary Erwin,Annapollis Royal,f,32
+2552,78,2,Joseph,James Mitchell,Sally,Annapollis Royal,c f,12
+2553,78,3,Joseph,James Mitchell,Tom,Annapollis Royal,c m,2
+2554,78,4,Joseph,James Mitchell,Samba Freer,Annapollis Royal,m,24
+2555,78,5,Joseph,James Mitchell,Tom Rivers,Annapollis Royal,m,43
+2556,78,6,Jenney,Ammerson,Phill Bartley,Port Mattoon,m,50
+2557,78,7,Jenney,Ammerson,Charles Middleton,Port Mattoon,m,57
+2560,78,10,Jenney,Ammerson,Pompey,Port Mattoon,c m,4 months
+2561,78,11,Nesbitt,Wilson,Isaac Bolton,Port Mattoon,m,23
+2562,78,12,Nesbitt,Wilson,Backus Erwin,Port Mattoon,m,40
+2563,78,13,Nesbitt,Wilson,William Goodwin,Port Mattoon,m,45
+2564,78,14,Nesbitt,Wilson,Moses Mount,Port Mattoon,m,28
+2565,78,15,Nesbitt,Wilson,Easter Clark,Port Mattoon,f,35
+2566,78,16,Nesbitt,Wilson,William Billinger,Port Mattoon,m,23
+2567,78,17,Nesbitt,Wilson,Joseph Harris,Port Mattoon,m,53
+2568,78,18,Nesbitt,Wilson,Isaac Betty,Port Mattoon,m,25
+2569,78,19,Nesbitt,Wilson,Villiot Parkin,Port Mattoon,f,27
+2570,78,20,Nesbitt,Wilson,Dick Parkin,Port Mattoon,c m, 1/2
+2571,78,21,Nesbitt,Wilson,Anthony Redhook,Port Mattoon,m,25
+2572,78,22,Nesbitt,Wilson,Thomas Bruen,Port Mattoon,m,30
+2573,78,23,Nesbitt,Wilson,Joseph Bartlet,Port Mattoon,m,31
+2574,78,24,Nesbitt,Wilson,Samuel Willis,Port Mattoon,m,41
+2575,78,25,Nesbitt,Wilson,Rachel Willis,Port Mattoon,f,30
+2576,78,26,Nesbitt,Wilson,Joseph Willis,Port Mattoon,c m,9 months
+2577,78,27,Nesbitt,Wilson,Charles Willis,Port Mattoon,c m,5
+2578,78,28,Nesbitt,Wilson,Jenney Willis,Port Mattoon,c f,3
+2579,78,29,Nesbitt,Wilson,Benjamen Field,Port Mattoon,m,38
+2580,78,30,Nesbitt,Wilson,Ellenor Field,Port Mattoon,f,27
+2581,78,31,Nesbitt,Wilson,Ben Field,Port Mattoon,c m,4
+2582,78,32,Nesbitt,Wilson,Sarah Field,Port Mattoon,c f,2
+2583,78,33,Nesbitt,Wilson,James Amie,Port Mattoon,m,39
+2584,78,33,Nesbitt,Wilson,Sam Smith,Port Mattoon,m,36
+2585,78,33,Nesbitt,Wilson,Sam Dismall,Port Mattoon,m,31
+2586,78,33,Nesbitt,Wilson,Garret Heart,Port Mattoon,m,29
+2587,78,33,Nesbitt,Wilson,Isaac Warren,Port Mattoon,m,25
+2588,78,33,Nesbitt,Wilson,Tom Richison,Port Mattoon,m,32
+2589,78,33,Nesbitt,Wilson,Rachal Jorden,Port Mattoon,f,30
+2590,78,33,Nesbitt,Wilson,Dempsey Jorden,Port Mattoon,c m,11
+2591,78,33,Nesbitt,Wilson,Judy Jorden,Port Mattoon,c f,9
+2592,78,33,Nesbitt,Wilson,Joseph Wingwood,Port Mattoon,m,24
+2593,78,33,Nesbitt,Wilson,Flora Hill,Port Mattoon,f,21
+2594,79,1,Nesbitt,Wilson,John Green,Port Matton,m,44
+2595,79,2,Nesbitt,Wilson,Nelly Lamb,Port Matton,f,21
+2596,79,3,Nesbitt,Wilson,Tunkio Hancock,Port Matton,f,25
+2597,79,4,Nesbitt,Wilson,Arthur Bowler,Port Matton,m,34
+2598,79,5,Nesbitt,Wilson,Phebe Bowler,Port Matton,f,35
+2599,79,6,Nesbitt,Wilson,Betsey Bowler,Port Matton,c f,12
+2600,79,7,Nesbitt,Wilson,Fan Bartley,Port Matton,f,42
+2601,79,8,Nesbitt,Wilson,Rachel Bartley,Port Matton,f,16
+2602,79,9,Nesbitt,Wilson,Elizabeth Bartley,Port Matton,c f,12
+2603,79,10,Nesbitt,Wilson,George Bartley,Port Matton,c m,8
+2604,79,11,Nesbitt,Wilson,Israel Bartley,Port Matton,c m,6
+2605,79,12,Nesbitt,Wilson,Tishy Bartley,Port Matton,c f,3
+2606,79,13,Nesbitt,Wilson,Jane Bartley,Port Matton,c f, 1/2
+2607,79,14,Nesbitt,Wilson,Mary Straten,Port Matton,f,24
+2608,79,15,Nesbitt,Wilson,Rose Stratten,Port Matton,f,8
+2609,79,16,Nesbitt,Wilson,Jenny Straten,Port Matton,c f,2
+2610,79,17,Nesbitt,Wilson,Peggy Stratton,Port Matton,c f,4 months
+2611,79,18,Nesbitt,Wilson,Hanah Richardson,Port Matton,f,22
+2612,79,19,Nesbitt,Wilson,Nancy Shepherd,Port Matton,f,40
+2613,79,20,Nesbitt,Wilson,Priscilla,Port Matton,c f,8
+2614,79,21,Nesbitt,Wilson,Richard Raddock,Port Matton,m,37
+2615,79,22,Nesbitt,Wilson,Chanty Raddock,Port Matton,c f,14
+2616,79,23,Nesbitt,Wilson,Jenney Raddock,Port Matton,c f,12
+2617,79,24,Nesbitt,Wilson,Betsy Pamerton,Port Matton,f,28
+2618,79,25,Nesbitt,Wilson,Billy Pamerton,Port Matton,c m,4
+2619,79,26,Nesbitt,Wilson,John Vanbruyck,Port Matton,m,33
+2620,79,27,Nesbitt,Wilson,Nancy Vanbruyck,Port Matton,f,28
+2621,79,28,Nesbitt,Wilson,Sarah Vanbruyck,Port Matton,c f,5
+2622,79,29,Nesbitt,Wilson,Francis Wells,Port Matton,m,24
+2623,79,30,Nesbitt,Wilson,Thomas York,Port Matton,m,31
+2624,79,31,Nesbitt,Wilson,Henry Derling,Port Matton,m,32
+2625,79,32,Nesbitt,Wilson,Philip Thompson,Port Matton,m,24
+2626,79,33,Nesbitt,Wilson,Andrew Izard,Port Matton,m,28
+2627,79,34,Nesbitt,Wilson,Peter French,Port Matton,m,93
+2628,79,35,Nesbitt,Wilson,Jeff,Port Matton,c m,5
+2629,79,36,Nesbitt,Wilson,Robert Conway,Port Matton,m,51
+2630,79,36,Nesbitt,Wilson,Thomas James,Port Matton,m,18
+2631,79,36,Nesbitt,Wilson,Samuel DeGraw,Port Matton,m,24
+2632,79,36,Nesbitt,Wilson,George Wilkins,Port Matton,m,53
+2633,79,36,Nesbitt,Wilson,Christian King,Port Matton,m,28
+2634,79,36,Nesbitt,Wilson,John Bass,Port Matton,m,19
+2635,79,36,Nesbitt,Wilson,John Townsend,Port Matton,m,25
+2636,79,36,Nesbitt,Wilson,John Wright,Port Matton,m,25
+2637,79,36,Nesbitt,Wilson,Stephen Vanboran,Port Matton,m,20
+2638,79,36,Nesbitt,Wilson,Andrew Whitehead,Port Matton,m,29
+2639,79,36,Nesbitt,Wilson,Catto Brown,Port Matton,m,31
+2640,79,36,Nesbitt,Wilson,Richard Jardine,Port Matton,m,31
+2641,80,1,Nesbitt,Wilson,Daniel Brown,Port Matton,m,45
+2642,80,2,Nesbitt,Wilson,Benjamen Astkins,Port Matton,m,56
+2643,80,3,Nesbitt,Wilson,John Longstreet,Port Matton,m,45
+2644,80,4,Nesbitt,Wilson,Quash Shepherd,Port Matton,m,29
+2645,80,5,Nesbitt,Wilson,Prince Crosby,Port Matton,m,22
+2646,80,6,Nesbitt,Wilson,Thomas Boyle,Port Matton,m,26
+2647,80,7,Nesbitt,Wilson,Bristow Borden,Port Matton,m,20
+2648,80,8,Nesbitt,Wilson,Gabriel Morris,Port Matton,m,23
+2649,80,9,Nesbitt,Wilson,Rachel Wilson,Port Matton,f,34
+2650,80,10,Nesbitt,Wilson,Lucy Hart,Port Matton,f,35
+2651,80,11,Nesbitt,Wilson,Amelia Connor,Port Matton,f,19
+2652,80,12,Nesbitt,Wilson,Sally,Port Matton,c f,16 months
+2653,80,13,Nesbitt,Wilson,Pomp Wilson,Port Matton,m,54
+2654,80,14,Nesbitt,Wilson,Suky Dismal,Port Matton,f,21
+2655,80,15,Nesbitt,Wilson,Nancy,Port Matton,c f,5
+2656,80,16,Nesbitt,Wilson,George,Port Matton,c m,11 months
+2657,80,17,Nesbitt,Wilson,Massey,Port Matton,m,22
+2658,80,18,Nesbitt,Wilson,Elizabeth,Port Matton,f,20
+2659,80,19,Nesbitt,Wilson,Hannah,Port Matton,f,22
+2660,80,20,Nesbitt,Wilson,Nancy,Port Matton,c f,15 months
+2661,80,21,Nesbitt,Wilson,Jenney Conway,Port Matton,f,33
+2662,80,22,Nesbitt,Wilson,Bristol,Port Matton,c m,12
+2663,80,23,Nesbitt,Wilson,Hannah,Port Matton,c f,10
+2664,80,24,Nesbitt,Wilson,Betty Westerfield,Port Matton,f,28
+2665,80,25,Nesbitt,Wilson,Philis,Port Matton,f,40
+2666,80,26,Nesbitt,Wilson,Molly Sweney,Port Matton,f,30
+2667,80,27,Nesbitt,Wilson,Rose French,Port Matton,f,16
+2668,80,28,Nesbitt,Wilson,Philis,Port Matton,f,22
+2669,80,29,Nesbitt,Wilson,Mary,Port Matton,c f,1
+2670,80,30,Nesbitt,Wilson,Nancy,Port Matton,f,21
+2671,80,31,Nesbitt,Wilson,Sarah Stebbs,Port Matton,f,22
+2672,80,32,Nesbitt,Wilson,John,Port Matton,c f,20 months
+2673,80,33,Nesbitt,Wilson,Dinah,Port Matton,f,22
+2674,80,34,Nesbitt,Wilson,John,Port Matton,c m,2
+2675,80,35,Nesbitt,Wilson,Lakey,Port Matton,c,7 months
+2676,80,36,Nesbitt,Wilson,Fanny,Port Matton,f,30
+2677,80,36,Nesbitt,Wilson,Silvia Thompson,Port Matton,f,23
+2678,80,36,Nesbitt,Wilson,Hager,Port Matton,f,20
+2679,80,36,Nesbitt,Wilson,Nanney,Port Matton,f,26
+2680,80,36,Nesbitt,Wilson,Mary,Port Matton,c f,7 months
+2681,80,36,Nesbitt,Wilson,Nancy,Port Matton,f,20
+2682,80,36,Nesbitt,Wilson,Jem,Port Matton,c,9 months
+2683,80,36,Nesbitt,Wilson,Hannah,Port Matton,f,40
+2684,80,36,Nesbitt,Wilson,Rose,Port Matton,c f,7
+2685,80,36,Nesbitt,Wilson,Lydia,Port Matton,f,29
+2686,80,36,Nesbitt,Wilson,Bridget,Port Matton,f,35
+2687,81,1,Nesbitt,Wilson,Nelly,Port Matton,f,36
+2688,81,2,Nesbitt,Wilson,Olinda,Port Matton,f,19
+2689,81,3,Nesbitt,Wilson,Rachel,Port Matton,f,19
+2690,81,4,Nesbitt,Wilson,Sally,Port Matton,c f,16 months
+2691,81,5,Nesbitt,Wilson,Lydia,Port Matton,f,23
+2692,81,6,Nesbitt,Wilson,Jenney,Port Matton,c f,3 months
+2693,81,7,Nesbitt,Wilson,Peggy Waldron,Port Matton,f,30
+2694,81,8,Nesbitt,Wilson,Dianah,Port Matton,c f,8
+2695,81,9,Nesbitt,Wilson,Benjamin,Port Matton,c m,1
+2696,81,10,Nesbitt,Wilson,Peggy,Port Matton,f,24
+2697,81,11,Nesbitt,Wilson,Billy,Port Matton,c m,3
+2698,81,12,Nesbitt,Wilson,Susannah,Port Matton,f,65
+2699,81,13,Nesbitt,Wilson,John Ryarson,Port Matton,m,36
+2700,81,14,Nesbitt,Wilson,Kitty,Port Matton,f,25
+2701,81,15,Nesbitt,Wilson,Sam Cooper,Port Matton,m,32
+2702,81,16,Nesbitt,Wilson,Pompy Perkins,Port Matton,m,30
+2703,81,17,Nesbitt,Wilson,Simon Rutledge,Port Matton,m,23
+2704,81,18,Nesbitt,Wilson,Charles Sweeney,Port Matton,m,40
+2705,81,19,Nesbitt,Wilson,Richard Price,Port Matton,m,30
+2706,81,20,Nesbitt,Wilson,York,Port Matton,m,27
+2707,81,21,Nesbitt,Wilson,Hercules,Port Matton,m,26
+2708,81,22,Nesbitt,Wilson,Charles Barren,Port Matton,m,25
+2709,81,23,Nesbitt,Wilson,Jacob Westerfield,Port Matton,m,34
+2710,81,24,Nesbitt,Wilson,Benjamin,Port Matton,m,23
+2711,81,25,Nesbitt,Wilson,Nancy Savage,Port Matton,f,17
+2712,81,26,Nesbitt,Wilson,Ned Dickison,Port Matton,m,21
+2713,81,27,Nesbitt,Wilson,Charles Lamb,Port Matton,m,30
+2714,81,28,Nesbitt,Wilson,Abraham Bayard,Port Matton,m,30
+2715,81,29,Nesbitt,Wilson,Joseph Harris,Port Matton,m,53
+2716,81,30,Nesbitt,Wilson,Job Work,Port Matton,m,22
+2717,81,31,Nesbitt,Wilson,Willis Page,Port Matton,f,35
+2718,81,32,Nesbitt,Wilson,Polly,Port Matton,c f,14
+2719,81,33,Nesbitt,Wilson,Peggy,Port Matton,c f,7
+2720,81,34,Nesbitt,Wilson,Paul Jackson,Port Matton,m,35
+2721,81,35,Nesbitt,Wilson,Charles White,Port Matton,m,25
+2722,81,35,Nesbitt,Wilson,Dick Roach,Port Matton,m,55
+2723,81,35,Nesbitt,Wilson,Benjamin Gerrow,Port Mattoon,m,25
+2724,83,1,Peggy,James Beazley,John Busher,Port Mattoon,m,23
+2725,83,2,Peggy,James Beazley,Fortune Rivers,Port Mattoon,m,30
+2726,83,3,Peggy,James Beazley,Salley Rivers,Port Mattoon,f,30
+2727,83,4,Peggy,James Beazley,Jenny Rivers,Port Mattoon,c f,7
+2728,83,5,Peggy,James Beazley,Close Herring,Port Mattoon,f,50
+2729,83,6,Peggy,James Beazley,William Sampson,Port Mattoon,m,28
+2730,83,7,Peggy,James Beazley,Peter Young,Port Mattoon,m,21
+2731,83,8,Peggy,James Beazley,Samuel Minton,Port Mattoon,m,60
+2732,83,9,Peggy,James Beazley,Prince Frederick,Port Mattoon,m,32
+2733,83,10,Peggy,James Beazley,Gilbert Lafferls,Port Mattoon,m,21
+2734,83,11,Peggy,James Beazley,Jenny Frederick,Port Mattoon,f,32
+2735,83,12,Ranger,James Duncan,Thomas Thomas,Port Mattoon,m,36
+2736,83,13,Ranger,James Duncan,Barry Sawyer,Port Mattoon,m,25
+2737,83,14,Ranger,James Duncan,Shiaea Sawyer,Port Mattoon,f,33
+2738,83,15,Ranger,James Duncan,Nelley Sawyer,Port Mattoon,c f,14
+2739,83,16,Ranger,James Duncan,Chloe Sawyer,Port Mattoon,c f,11
+2740,83,17,Ranger,James Duncan,Tom Sawyer,Port Mattoon,c m,10
+2741,83,18,Ranger,James Duncan,Tom Sumner,Port Mattoon,m,35
+2742,83,19,Ranger,James Duncan,Pinna Sumner,Port Mattoon,f,21
+2743,83,20,Ranger,James Duncan,Cato Sumner,Port Mattoon,c m,2 1/2
+2744,83,21,Ranger,James Duncan,Michael Wallace,Port Mattoon,m,38
+2745,83,22,Ranger,James Duncan,Hannah Wallace,Port Mattoon,f,22
+2746,83,23,Ranger,James Duncan,Dick Wallace,Port Mattoon,c m,4
+2747,83,24,Ranger,James Duncan,Ralph Henry,Port Mattoon,m,30
+2748,83,25,Ranger,James Duncan,Miny Henry,Port Mattoon,f,25
+2749,83,26,Ranger,James Duncan,Molly Henry,Port Mattoon,c f,4
+2750,83,27,Ranger,James Duncan,James Reid,Port Mattoon,m,33
+2751,83,28,Ranger,James Duncan,Polly Reid,Port Mattoon,f,23
+2752,83,29,Ranger,James Duncan,Bristow Garritt,Port Mattoon,m,32
+2753,83,30,Ranger,James Duncan,Rose Garrett,Port Mattoon,f,20
+2754,83,31,Ranger,James Duncan,Anthony Cooper,Port Mattoon,m,63
+2755,83,31,Ranger,James Duncan,Sarrah Cooper,Port Mattoon,f,60
+2756,83,31,Ranger,James Duncan,Isaac Cooper,Port Mattoon,c m,14
+2757,83,31,Ranger,James Duncan,Nancy Cooper,Port Mattoon,c f,4
+2758,83,31,Ranger,James Duncan,Hector Lewis,Port Mattoon,m,40
+2759,83,31,Ranger,James Duncan,Judith Jackson,Port Mattoon,f,53
+2760,83,31,Ranger,James Duncan,Silas Brown,Port Mattoon,m,51
+2761,83,31,Ranger,James Duncan,Murray Scott,Port Mattoon,m,28
+2762,83,31,Ranger,James Duncan,Molly Scott,Port Mattoon,f,30
+2763,83,31,Ranger,James Duncan,Jack Sollberry,Port Mattoon,m,26
+2764,83,31,Ranger,James Duncan,Silla Sollberry,Port Mattoon,f,23
+2765,84,1,Ranger,James Duncan,Kate Godfray,Port Mattoon,f,30
+2766,84,2,Ranger,James Duncan,Port Godfray,Port Mattoon,c m,12
+2767,84,3,Ranger,James Duncan,Lucy Godfray,Port Mattoon,c f,7
+2768,84,4,Ranger,James Duncan,Salley Godfray,Port Mattoon,c f,1 1/2
+2769,84,5,Ranger,James Duncan,Lewis Church,Port Mattoon,m,27
+2770,84,6,Ranger,James Duncan,John Brown,Port Mattoon,m,45
+2771,84,7,Ranger,James Duncan,Peggy Brown,Port Mattoon,f,30
+2772,84,8,Ranger,James Duncan,Jenny Brown,Port Mattoon,c f,5
+2773,84,9,Ranger,James Duncan,James Brown,Port Mattoon,c m,2
+2774,84,10,Ranger,James Duncan,Nancy Brown,Port Mattoon,c f,1 1/2
+2775,84,11,Ranger,James Duncan,London Vinters,Port Mattoon,m,40
+2776,84,12,Ranger,James Duncan,James Tucker,Port Mattoon,m,55
+2777,84,13,Ranger,James Duncan,Lewis Cornick,Port Mattoon,m,30
+2778,84,14,Ranger,James Duncan,Rachel Cornick,Port Mattoon,f,30
+2779,84,15,Ranger,James Duncan,Tom Cornick,Port Mattoon,c m, 1/2
+2780,84,16,Ranger,James Duncan,Argill Killing,Port Mattoon,m,22
+2781,84,17,Ranger,James Duncan,Peggy Thomas,Port Mattoon,f,22
+2782,84,18,Ranger,James Duncan,David Thomas,Port Mattoon,c m,5
+2783,84,19,Ranger,James Duncan,Tony Carragan,Port Mattoon,m,47
+2784,84,20,Ranger,James Duncan,James Hector,Port Mattoon,m,55
+2785,84,21,Ranger,James Duncan,Judy Hector,Port Mattoon,f,30
+2786,84,22,Ranger,James Duncan,Kate Hector,Port Mattoon,c f,8
+2787,84,23,Ranger,James Duncan,John Hector,Port Mattoon,c m,1 1/2
+2788,84,24,Ranger,James Duncan,Sam Godfray,Port Mattoon,m,26
+2789,84,25,Ranger,James Duncan,Sucky Godfray,Port Mattoon,f,22
+2790,84,26,Ranger,James Duncan,Salley Godfray,Port Mattoon,c f,6
+2791,84,27,Ranger,James Duncan,Robert Godfray,Port Mattoon,c m,2
+2792,84,28,Ranger,James Duncan,James Godfray,Port Mattoon,c m,1
+2793,84,29,Ranger,James Duncan,Sam Grayson,Port Mattoon,m,32
+2794,84,30,Ranger,James Duncan,Salley Grayson,Port Mattoon,f,20
+2795,84,31,Ranger,James Duncan,Jam Anderson,Port Mattoon,m,35
+2796,84,32,Ranger,James Duncan,Dianah Anderson,Port Mattoon,f,25
+2797,84,33,Ranger,James Duncan,James Stewart,Port Mattoon,m,29
+2798,84,33,Ranger,James Duncan,Joseph Smith,Port Mattoon,m,54
+2799,84,33,Ranger,James Duncan,Elizah Laston,Port Mattoon,f,24
+2800,84,33,Ranger,James Duncan,Charles Laston,Port Mattoon,c m, 1/2
+2801,84,33,Ranger,James Duncan,James Philip,Port Mattoon,m,40
+2802,84,33,Ranger,James Duncan,Peter Stagdon,Port Mattoon,m,19
+2803,84,33,Ranger,James Duncan,Prince,Port Mattoon,c m,11
+2804,84,33,Ranger,James Duncan,Amelia,Port Mattoon,f,35
+2805,84,33,Ranger,James Duncan,Salley,Port Mattoon,c f,6
+2806,84,33,Ranger,James Duncan,Sam Mixied,Port Mattoon,m,45
+2807,84,33,Ranger,James Duncan,Moses Halstide,Port Mattoon,m,30
+2808,84,33,Ranger,James Duncan,York Nash,Port Mattoon,m,50
+2809,85,1,Ranger,James Duncan,Mary English,Port Mattoon,f,25
+2810,85,2,Ranger,James Duncan,King Tucker,Port Mattoon,m,51
+2811,85,3,Ranger,James Duncan,Dianah Tucker,Port Mattoon,f,22
+2812,85,4,Ranger,James Duncan,Nezer  Wright,Port Mattoon,m,22
+2813,85,5,Ranger,James Duncan,Henry Givin,Port Mattoon,m,33
+2814,85,6,Ranger,James Duncan,Dublin Miller,Port Mattoon,m,65
+2815,85,7,Ranger,James Duncan,Samuel Hutchins,Port Mattoon,m,39
+2816,85,8,Ranger,James Duncan,Lucy Hutchins,Port Mattoon,f,30
+2817,85,9,Ranger,James Duncan,Carth Wright,Port Mattoon,m,50
+2818,85,10,Ranger,James Duncan,Ben Poole,Port Mattoon,m,43
+2819,85,11,Ranger,James Duncan,Marry Poole,Port Mattoon,f,40
+2820,85,12,Ranger,James Duncan,Jack Ellis,Port Mattoon,m,28
+2821,85,13,Ranger,James Duncan,Pompy Beacon,Port Mattoon,m,30
+2822,85,14,Ranger,James Duncan,Marry Halsted,Port Mattoon,f,36
+2823,85,15,Ranger,James Duncan,Phillis,Port Mattoon,c f,11
+2824,85,16,Ranger,James Duncan,Charity Beacon,Port Mattoon,f,36
+2825,85,17,Ranger,James Duncan,Charles Williams,Port Mattoon,m,68
+2826,85,18,Ranger,James Duncan,Venus Williams,Port Mattoon,f,50
+2827,85,19,Ranger,James Duncan,Salley Stewart,Port Mattoon,f,26
+2828,85,20,Ranger,James Duncan,Moses Kelley,Port Mattoon,m,37
+2829,85,21,Ranger,James Duncan,Jenny Kelley,Port Mattoon,f,32
+2830,85,22,Ranger,James Duncan,Petter ,Port Mattoon,c m,6
+2831,85,23,Ranger,James Duncan,Bridget Godfray,Port Mattoon,f,55
+2832,85,24,Ranger,James Duncan,Salley Collins,Port Mattoon,f,22
+2833,85,25,Ranger,James Duncan,Jacob Collins,Port Mattoon,m,40
+2834,85,26,Ranger,James Duncan,Hannah Ellis,Port Mattoon,f,20
+2835,85,27,Ranger,James Duncan,Abraham Herron,Port Mattoon,c m,4
+2836,85,28,Ranger,James Duncan,Jack Robinson,Port Mattoon,m,22
+2837,85,29,Ranger,James Duncan,Quash English,Port Mattoon,m,29
+2838,85,30,Ranger,James Duncan,Clary English,Port Mattoon,f,29
+2839,85,31,Ranger,James Duncan,Marrian Maxico,Port Mattoon,f,27
+2840,85,32,Ranger,James Duncan,Rachael Maxico,Port Mattoon,c f,8
+2841,85,33,Ranger,James Duncan,Prince Robinson,Port Mattoon,m,23
+2842,85,33,Ranger,James Duncan,Hannah Robinson,Port Mattoon,f,32
+2843,85,33,Ranger,James Duncan,Peggy Robinson,Port Mattoon,c f,12
+2844,85,33,Ranger,James Duncan,Tom Seaman,Port Mattoon,m,50
+2845,85,33,Ranger,James Duncan,Daniel Frip,Port Mattoon,m,39
+2846,85,33,Ranger,James Duncan,Rose Frip,Port Mattoon,f,29
+2847,85,33,Ranger,James Duncan,Lucy Frip,Port Mattoon,c f,9
+2848,85,33,Ranger,James Duncan,Nicholas Forde,Port Mattoon,m,60
+2849,85,33,Ranger,James Duncan,Dick Poole,Port Mattoon,m,19
+2850,85,33,Ranger,James Duncan,Jacob Williams,Port Mattoon,m,22
+2851,85,33,Ranger,James Duncan,Quomo Robinson,Port Mattoon,m,45
+2852,85,33,Ranger,James Duncan,Betty Quomo,Port Mattoon,f,50
+2853,85,33,Ranger,James Duncan,Jack Neal,Port Mattoon,m,23
+2854,86,1,Ranger,James Duncan,Frank Miller,Port Mattoon,m,70
+2855,86,2,Ranger,James Duncan,Jenny Miller,Port Mattoon,f,50
+2856,86,3,Ranger,James Duncan,Nancy Miller,Port Mattoon,c f,9
+2857,86,4,Ranger,James Duncan,Pompy Clarke,Port Mattoon,m,33
+2858,86,5,Ranger,James Duncan,Phillis Clarke,Port Mattoon,f,30
+2859,86,6,Ranger,James Duncan,Joseph Dickson,Port Mattoon,m,50
+2860,86,7,Ranger,James Duncan,John Browne,Port Mattoon,m,40
+2861,86,8,Ranger,James Duncan,Cato Ramsey,Port Mattoon,m,50
+2862,86,9,Ranger,James Duncan,Suckey ,Port Mattoon,f,60
+2863,86,10,Ranger,James Duncan,Cato,Port Mattoon,c m,5
+2864,86,11,Ranger,James Duncan,Lucey Lambert,Port Mattoon,f,28
+2865,86,12,Ranger,James Duncan,Nancy Leonard,Port Mattoon,f,26
+2866,86,13,Ranger,James Duncan,Jacob Kemp,Port Mattoon,m,40
+2867,86,14,Concord,George Robinson,David Raymond,Port Mattoon,m,40
+2868,86,15,Concord,George Robinson,Prince Baker,Port Mattoon,m,39
+2869,86,16,Concord,George Robinson,Dorothey,Port Mattoon,f,30
+2870,86,17,Concord,George Robinson,John Goseman,Port Mattoon,m,23
+2871,86,18,Concord,George Robinson,Charles Harrison,Port Mattoon,m,25
+2872,86,19,Concord,George Robinson,Daniel Proffitt,Port Mattoon,m,23
+2873,86,20,Concord,George Robinson,Sibe Proffitt,Port Mattoon,f,32
+2874,86,21,Concord,George Robinson,Rose Gozeman,Port Mattoon,f,24
+2875,86,22,Concord,George Robinson,Fanney Gozeman,Port Mattoon,c f,5 months
+2876,86,23,Concord,George Robinson,Peter Dorram,Port Mattoon,m,25
+2877,86,24,Concord,George Robinson,Harry Blauvelt ,Port Mattoon,m,32
+2878,86,25,Concord,George Robinson,Dorras Scudder,Port Mattoon,f,20
+2879,86,26,Concord,George Robinson,Andrew Dickson,Port Mattoon,c m,11
+2880,86,27,Concord,George Robinson,Peter Mercer,Port Mattoon,m,54
+2881,86,28,Concord,George Robinson,Thomas Ormond,Port Mattoon,m,25
+2882,86,29,Concord,George Robinson,Toney Bartram,Port Mattoon,m,25
+2883,86,30,Concord,George Robinson,John Fredrick,Port Mattoon,m,24
+2884,86,31,Concord,George Robinson,Peter Sampson,Port Mattoon,m,19
+2885,86,32,Concord,George Robinson,Thomas Thomson,Port Mattoon,m,20
+2886,86,33,Concord,George Robinson,Prince Perry,Port Mattoon,m,45
+2887,86,34,Concord,George Robinson,Daniel Payne,Port Mattoon,m,22
+2888,86,35,Concord,George Robinson,Polly Groves,Port Mattoon,f,26
+2889,86,35,Concord,George Robinson,Darcas,Port Mattoon,f,28
+2890,86,35,Diannah,William Browne,Scipio Conner,Port Mattoon,m,22
+2891,86,35,Diannah,William Browne,John Broughton,Port Mattoon,m,21
+2892,86,35,Diannah,William Browne,Suckey Broughton,Port Mattoon,f,20
+2893,86,35,Diannah,William Browne,Thomas Summers,Port Mattoon,m,39
+2894,86,35,Diannah,William Browne,Sarrah Miller,Port Mattoon,f,39
+2895,86,35,Diannah,William Browne,Suzanah Turnbull,Port Mattoon,f,23
+2896,86,35,Diannah,William Browne,Sam Turnbull,Port Mattoon,c m,10
+2897,86,35,Diannah,William Browne,Titus Eldridge,Port Mattoon,m,21
+2898,86,35,Diannah,William Browne,Prince Aldrich,Port Mattoon,m,34
+2899,86,35,Diannah,William Browne,Betsey Aldrich,Port Mattoon,f,33
+2900,86,35,Diannah,William Browne,Tabby Rogers,Port Mattoon,f,20
+2901,87,1,Diannah,William Browne,Betsey Rogers,Port Mattoon,c f,2
+2902,87,2,Diannah,William Browne,Easter Rogers,Port Mattoon,c f,10
+2903,87,3,Diannah,William Browne,Cato Cox,Port Mattoon,m,26
+2904,87,4,Diannah,William Browne,John Cox,Port Mattoon,c m,10
+2905,87,5,Diannah,William Browne,Jenny Cox,Port Mattoon,f,24
+2906,87,6,Diannah,William Browne,Betsey Forsyeth,Port Mattoon,f,22
+2907,87,7,Diannah,William Browne,John Forsyeth,Port Mattoon,m,22
+2908,87,8,Diannah,William Browne,Lydia Forsyeth,Port Mattoon,c f,1
+2909,87,9,Diannah,William Browne,Isaac Spencer,Port Mattoon,m,43
+2910,87,10,Diannah,William Browne,Jack Scotly,Port Mattoon,m,32
+2911,87,11,Diannah,William Browne,Phebe Scotley,Port Mattoon,f,25
+2912,87,12,Diannah,William Browne,Jupiter,Port Mattoon,m,35
+2913,87,13,Diannah,William Browne,Robert Backhus,Port Mattoon,m,26
+2914,87,14,Diannah,William Browne,Molly Backhus,Port Mattoon,f,21
+2915,87,15,Diannah,William Browne,Phillis Farmer,Port Mattoon,f,30
+2916,87,16,Diannah,William Browne,Cato Rogers,Port Mattoon,m,44
+2917,87,17,Diannah,William Browne,Bob Dalton,Port Mattoon,m,36
+2918,87,18,Diannah,William Browne,Nelly Dalton,Port Mattoon,f,26
+2919,87,19,Diannah,William Browne,Suzan Dalton,Port Mattoon,c f,2
+2920,87,20,Diannah,William Browne,Peter Tarbett,Port Mattoon,m,32
+2921,87,21,Diannah,William Browne,Peggy King,Port Mattoon,f,28
+2922,87,22,Diannah,William Browne,Robert King,Port Mattoon,c m,4
+2923,87,23,Diannah,William Browne,Richard Samson,Port Mattoon,m,25
+2924,87,24,Diannah,William Browne,Daniel Reading,Port Mattoon,m,28
+2925,87,25,Diannah,William Browne,Marry Reading,Port Mattoon,f,19
+2926,87,26,Diannah,William Browne,William Hannabell,Port Mattoon,m,25
+2927,87,27,Diannah,William Browne,Sarrah Hannabell,Port Mattoon,f,21
+2928,87,28,L'Abondance,Lieut. Philips,Robert Bowland,Port Mattoon,m,35
+2929,87,29,L'Abondance,Lieut. Philips,Thomas Russall,Port Mattoon,m,24
+2930,87,30,L'Abondance,Lieut. Philips,Sarn Wedder,Port Mattoon,m,30
+2931,87,31,L'Abondance,Lieut. Philips,John,Port Mattoon,m,21
+2932,87,32,L'Abondance,Lieut. Philips,John Nicholson,Port Mattoon,m,21
+2933,87,33,L'Abondance,Lieut. Philips,John Jackson,Port Mattoon,m,19
+2934,87,34,L'Abondance,Lieut. Philips,Lewis Freeland,Port Mattoon,m,29
+2935,87,35,L'Abondance,Lieut. Philips,Elizabeth Freeland,Port Mattoon,f,22
+2936,87,35,L'Abondance,Lieut. Philips,Lewis,Port Mattoon,m,32
+2937,87,35,L'Abondance,Lieut. Philips,Richard Jarrett,Port Mattoon,m,30
+2938,87,35,L'Abondance,Lieut. Philips,Sam Van Nostrant,Port Mattoon,m,53
+2939,87,35,L'Abondance,Lieut. Philips,Sarrah Van Nostrant,Port Mattoon,f,50
+2940,87,35,L'Abondance,Lieut. Philips,Sarrah Van Nostrant,Port Mattoon,f,20
+2941,87,35,L'Abondance,Lieut. Philips,Isaac Howard,Port Mattoon,m,27
+2942,87,35,L'Abondance,Lieut. Philips,Morris Seaman,Port Mattoon,m,21
+2943,87,35,L'Abondance,Lieut. Philips,Sarrah ,Port Mattoon,f,70
+2944,87,35,L'Abondance,Lieut. Philips,Belinda,Port Mattoon,f,50
+2945,87,35,L'Abondance,Lieut. Philips,Moses Kelley,Port Mattoon,m,20
+2946,87,35,L'Abondance,Lieut. Philips,Thomas Cooper,Port Mattoon,m,20
+2947,87,35,L'Abondance,Lieut. Philips,Jane,Port Mattoon,f,30
+2948,88,1,L'Abondance,Lieut. Philips,Aaron Jones,Port Mattoon,m,42
+2949,88,2,L'Abondance,Lieut. Philips,Isaac Jones,Port Mattoon,c m,10
+2950,88,3,L'Abondance,Lieut. Philips,Sarrah Jones,Port Mattoon,f,42
+2951,88,4,L'Abondance,Lieut. Philips,Thomas Drake,Port Mattoon,m,17
+2952,88,5,L'Abondance,Lieut. Philips,Tom,Port Mattoon,m,17
+2953,88,6,L'Abondance,Lieut. Philips,John Hamilton,Port Mattoon,m,24
+2954,88,7,L'Abondance,Lieut. Philips,Kate Walters,Port Mattoon,f,40
+2955,88,8,L'Abondance,Lieut. Philips,Will Robinson,Port Mattoon,m,19
+2956,88,9,L'Abondance,Lieut. Philips,Adam Green,Port Mattoon,m,23
+2957,88,10,L'Abondance,Lieut. Philips,Latice Young,Port Mattoon,f,20
+2958,88,11,L'Abondance,Lieut. Philips,Jack Williams,Port Mattoon,m,24
+2959,88,12,L'Abondance,Lieut. Philips,Judith Dewitt,Port Mattoon,f,22
+2960,88,13,L'Abondance,Lieut. Philips,Dublin Moore,Port Mattoon,m,31
+2961,88,14,L'Abondance,Lieut. Philips,John Charles Clap,Port Mattoon,m,35
+2962,88,15,L'Abondance,Lieut. Philips,Thomas Holmes,Port Mattoon,m,22
+2963,88,16,L'Abondance,Lieut. Philips,Jacob Brady,Port Mattoon,m,40
+2964,88,17,L'Abondance,Lieut. Philips,Daniel Elliott,Port Mattoon,m,29
+2965,88,18,L'Abondance,Lieut. Philips,Stanle Platt,Port Mattoon,m,29
+2966,88,19,L'Abondance,Lieut. Philips,Peggy,Port Mattoon,f,30
+2967,88,20,L'Abondance,Lieut. Philips,Peter her son,Port Mattoon,c m,2
+2968,88,21,L'Abondance,Lieut. Philips,Salley Wilson,Port Mattoon,f,18
+2969,88,22,L'Abondance,Lieut. Philips,James Russell,Port Mattoon,m,20
+2970,88,23,L'Abondance,Lieut. Philips,Capt. George Fraction,Port Mattoon,m,27
+2971,88,24,L'Abondance,Lieut. Philips,John Cooper,Port Mattoon,m,27
+2972,88,25,L'Abondance,Lieut. Philips,Betsey Robinson,Port Mattoon,f,40
+2973,88,26,L'Abondance,Lieut. Philips,Mingo Leslie,Port Mattoon,m,34
+2974,88,27,L'Abondance,Lieut. Philips,Dianah Johnson,Port Mattoon,f,18
+2975,88,28,L'Abondance,Lieut. Philips,Martin Cox,Port Mattoon,m,44
+2976,88,29,L'Abondance,Lieut. Philips,Lymus Pandorrus,Port Mattoon,m,52
+2977,88,30,L'Abondance,Lieut. Philips,Marria Pandorrus,Port Mattoon,f,32
+2978,88,31,L'Abondance,Lieut. Philips,Oliver Vinson,Port Mattoon,m,30
+2979,88,32,L'Abondance,Lieut. Philips,Dianah Vinson,Port Mattoon,f,28
+2980,88,33,L'Abondance,Lieut. Philips,Judith Mozely ,Port Mattoon,f,28
+2981,88,34,L'Abondance,Lieut. Philips,Peggy Mozely ,Port Mattoon,f,18
+2982,88,35,L'Abondance,Lieut. Philips,Isaac Taylor,Port Mattoon,m,39
+2983,88,36,L'Abondance,Lieut. Philips,John Hedler,Port Mattoon,m,26
+2984,88,37,L'Abondance,Lieut. Philips,Dianah Hedler,Port Mattoon,f,27
+2985,88,37,L'Abondance,Lieut. Philips,James Hedler,Port Mattoon,c m,6
+2986,88,37,L'Abondance,Lieut. Philips,Charlotte Hedler,Port Mattoon,c f,1
+2987,88,37,L'Abondance,Lieut. Philips,Cato Winslow,Port Mattoon,m,49
+2988,88,37,L'Abondance,Lieut. Philips,Rose Winslow,Port Mattoon,f,40
+2989,88,37,L'Abondance,Lieut. Philips,Toby Winslow,Port Mattoon,c m,11
+2990,88,37,L'Abondance,Lieut. Philips,Hannah Winslow,Port Mattoon,c f,4
+2991,88,37,L'Abondance,Lieut. Philips,Mary Thomson,Port Mattoon,f,54
+2992,88,37,L'Abondance,Lieut. Philips,Margret Thomson,Port Mattoon,f,25
+2993,88,37,L'Abondance,Lieut. Philips,Polly Thomson,Port Mattoon,c f,10
+2994,88,37,L'Abondance,Lieut. Philips,Rachell Thomson,Port Mattoon,c f,3
+2995,88,37,L'Abondance,Lieut. Philips,Salley Thomson,Port Mattoon,c f,1
+2996,88,37,L'Abondance,Lieut. Philips,Betsey,Port Mattoon,f,50
+2997,88,37,L'Abondance,Lieut. Philips,George Wilkinson,Port Mattoon,m,19
+2998,89,1,L'Abondance,Lieut. Philips,Toney,Port Mattoon,m,34
+2999,89,2,L'Abondance,Lieut. Philips,Hager Kennady,Port Mattoon,f,29
+3000,89,3,L'Abondance,Lieut. Philips,Sam her son,Port Mattoon,c m,1
+3001,89,4,L'Abondance,Lieut. Philips,Peter Harding,Port Mattoon,m,28
+3002,89,5,L'Abondance,Lieut. Philips,Kate Harding,Port Mattoon,f,40
+3003,89,6,L'Abondance,Lieut. Philips,Eben Harding,Port Mattoon,c m,2 1/2
+3004,89,7,L'Abondance,Lieut. Philips,John Jackson,Port Mattoon,m,30
+3005,89,8,L'Abondance,Lieut. Philips,Hannah Jackson,Port Mattoon,f,30
+3006,89,9,L'Abondance,Lieut. Philips,Pompy Colt,Port Mattoon,m,27
+3007,89,10,L'Abondance,Lieut. Philips,Toby Castington,Port Mattoon,m,33
+3008,89,11,L'Abondance,Lieut. Philips,Chloe Mann,Port Mattoon,f,34
+3009,89,12,L'Abondance,Lieut. Philips,Bettsey Mann,Port Mattoon,c f,5
