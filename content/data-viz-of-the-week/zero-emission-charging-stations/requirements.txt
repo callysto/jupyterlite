@@ -1,0 +1,7 @@
+plotly-express
+pyodide_http
+nbformat
+geopy
+folium 
+plotly
+requests

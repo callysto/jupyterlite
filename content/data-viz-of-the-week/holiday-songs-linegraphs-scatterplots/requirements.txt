@@ -1,0 +1,3 @@
+plotly
+pyodide_http
+nbformat
