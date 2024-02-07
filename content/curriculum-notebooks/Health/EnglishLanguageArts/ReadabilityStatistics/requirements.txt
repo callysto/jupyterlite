@@ -1,0 +1,7 @@
+plotly-express
+pyodide_http
+nbformat
+textstat
+bs4
+plotly
+requests
