@@ -3,3 +3,5 @@ pyodide_http
 nbformat
 plotly
 ipywidgets
+geopandas
+folium
