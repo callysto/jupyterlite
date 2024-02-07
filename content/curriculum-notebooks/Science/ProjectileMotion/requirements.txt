@@ -3,4 +3,3 @@ pyodide_http
 nbformat
 plotly
 ipywidgets
-pycountry-convert
