@@ -1,0 +1,6 @@
+plotly-express
+pyodide_http
+nbformat
+plotly
+ipywidgets
+pycountry-convert
