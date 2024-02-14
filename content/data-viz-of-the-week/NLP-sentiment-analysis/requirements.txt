@@ -1,6 +1,0 @@
-plotly-express
-pyodide_http
-nbformat
-nltk
-gcld3
-plotly

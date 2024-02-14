@@ -1,5 +1,0 @@
-plotly-express
-plotly
-scipy
-nbformat
-pyodide_http

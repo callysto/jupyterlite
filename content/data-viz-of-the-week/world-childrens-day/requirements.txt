@@ -1,9 +1,0 @@
-plotly-express
-pyodide_http
-nbformat
-pycountry_convert
-plotly
-geopandas
-ipywidgets
-folium
-ipydatagrid

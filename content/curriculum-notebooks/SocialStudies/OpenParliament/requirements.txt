@@ -1,8 +1,0 @@
-plotly-express
-pyodide_http
-nbformat
-plotly
-ipywidgets
-bs4
-spacy
-requests

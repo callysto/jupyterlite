@@ -1,4 +1,0 @@
-pyodide_http
-nbformat
-ColabTurtlePlus
-folium
