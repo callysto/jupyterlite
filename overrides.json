@@ -1,14 +1,146 @@
 {
-    "@jupyterlab/notebook-extension:panel": {
-      "toolbar": [
+  "@jupyterlab/notebook-extension:panel": {
+    "toolbar": [
+      {
+        "name": "clear-all-outputs",
+        "icon": "ui-components:clear",
+        "command": "notebook:clear-all-cell-outputs",
+        "args": {},
+        "rank": 34
+      },
+      {
+        "name": "download",
+        "label": "Download",
+        "icon": "ui-components:download",
+        "command": "docmanager:download",
+        "args": {},
+        "rank": 50,
+        "disabled": false
+      }
+    ]
+  },
+  "@jupyterlab/shortcuts-extension:shortcuts": {
+      "shortcuts": [
         {
-          "name": "download",
-          "label": "Download",
+          "command": "notebook:change-cell-to-code",
+          "keys": [
+              "Y"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
           "args": {},
-          "command": "docmanager:download",
-          "icon": "ui-components:download",
-          "rank": 50
-        }
-      ]
-    }
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-heading-1",
+          "keys": [
+              "1"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-heading-2",
+          "keys": [
+              "2"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-heading-3",
+          "keys": [
+              "3"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-heading-4",
+          "keys": [
+              "4"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-heading-5",
+          "keys": [
+              "5"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-heading-6",
+          "keys": [
+              "6"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-markdown",
+          "keys": [
+              "M"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:change-cell-to-raw",
+          "keys": [
+              "R"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+        },
+        {
+          "command": "notebook:cut-cell",
+          "keys": [
+              "X"
+          ],
+          "winKeys": [],
+          "macKeys": [],
+          "linuxKeys": [],
+          "selector": ".jp-Notebook:focus",
+          "args": {},
+          "disabled":true
+      }
+    ]
   }
+}
