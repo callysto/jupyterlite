@@ -1,0 +1,22 @@
+Date,Approximate USD per GFLOPS,Platform providing the lowest cost per GFLOPS,Comments
+1945-01-01,$1.88e15,"ENIAC: $487,000 in 1945 and $7,916,000 in 2022.","$487,000 / 0.0000000385 GFLOPS. First-generation (vacuum tube-based) electronic digital computer."
+1961-01-01,$1.696e9,A basic installation of IBM 7030 Stretch had a cost at the time of US$7.78 million each.,The IBM 7030 Stretch performs one floating-point multiply every 2.4 microseconds.[76] Second-generation (transistor-based) computer.
+1984-01-01,"$100,000,000",Cray X-MP/48,"$15,000,000 / 0.8 GFLOPS. Third-generation (integrated circuit-based) computer."
+1997-01-01,"$55,000",Two 16-processor Beowulf clusters with Pentium Pro microprocessors[77],
+2000-04-01,"$2,000",Bunyip Beowulf cluster,Bunyip was the first sub-US$1/MFLOPS computing technology. It won the Gordon Bell Prize in 2000.
+2000-05-01,"$1,000",KLAT2,KLAT2 was the first computing technology which scaled to large applications while staying under US$1/MFLOPS.[78]
+2003-08-01,$100,KASY0,KASY0 was the first sub-US$100/GFLOPS computing technology.[79]
+2007-08-01,$70,Microwulf,"As of August 2007, this 26 GFLOPS ""personal"" Beowulf cluster can be built for $1256.[80]"
+2011-03-01,$2,HPU4Science,"This $30,000 cluster was built using only commercially available ""gamer"" grade hardware.[81]"
+2012-08-01,$1,Quad AMD Radeon 7970 System,"A quad AMD Radeon 7970 desktop computer reaching 16 TFLOPS of single-precision, 4 TFLOPS of double-precision computing performance. Total system cost was $3000; built using only commercially available hardware.[82]"
+2013-06-01,$0.3,Sony PlayStation 4,"The Sony PlayStation 4 is listed as having a peak performance of 1.84 TFLOPS, at a price of $400[83]"
+2013-11-01,$0.2,AMD Sempron 145 & GeForce GTX 760 system,"Built using commercially available parts, a system using one AMD Sempron 145 and three Nvidia GeForce GTX 760 reaches a total of 6.771 TFLOPS for a total cost of US$1,090.66.[84]"
+2013-12-01,$0.15,Pentium G550 & Radeon R9 290 system,Built using commercially available parts. Intel Pentium G550 and AMD Radeon R9 290 tops out at 4.848 TFLOPS grand total of US$681.84.[85]
+2015-01-01,$0.1,Celeron G1830 & Radeon R9 295X2 system,Built using commercially available parts. Intel Celeron G1830 and AMD Radeon R9 295X2 tops out at over 11.5 TFLOPS at a grand total of US$902.57.[86][87]
+2017-06-01,$0.07,AMD Ryzen 7 1700 & AMD Radeon Vega Frontier Edition system,"Built using commercially available parts. AMD Ryzen 7 1700 CPU combined with AMD Radeon Vega FE cards in CrossFire tops out at over 50 TFLOPS at just under US$3,000 for the complete system.[88]"
+2017-10-01,$0.04,Intel Celeron G3930 & AMD RX Vega 64 system,"Built using commercially available parts. Three AMD RX Vega 64 graphics cards provide just over 75 TFLOPS half precision (38 TFLOPS SP or 2.6 TFLOPS DP when combined with the CPU) at ~$2,050 for the complete system.[89]"
+2020-11-01,$0.03,AMD Ryzen 3600 & 3× NVIDIA RTX 3080 system,"AMD Ryzen 3600 @ 484 GFLOPS & $199.99 3× NVIDIA RTX 3080 @ 29,770 GFLOPS each & $699.99 Total system GFLOPS = 89,794 / TFLOPS= 89.2794 Total system cost incl. realistic but low cost parts; matched with other example = $2839[90] US$/GFLOP = $0.0314"
+2020-11-01,$0.04,PlayStation 5,The Sony PlayStation 5 digital edition is listed as having a peak performance of 10.28 TFLOPS (20.58 TFLOPS at half precision) at a retail price of $399.[91]
+2020-11-01,$0.04,Xbox Series X,Microsoft's Xbox Series X is listed as having a peak performance of 12.15 TFLOPS (24.30 TFLOPS at half precision) at a retail price of $499.[92]
+2022-09-01,$0.02,RTX 4090,Nvidia's RTX 4090 is listed as having a peak performance of 82.6 TFLOPS (1.32 PFLOPS at 8-bit precision) at a retail price of $1599.[93]
+2023-05-01,$0.01,Radeon RX 7600,AMD's RX 7600 is listed as having a peak performance of 21.5 TFLOPS at a retail price of $269.[94]
