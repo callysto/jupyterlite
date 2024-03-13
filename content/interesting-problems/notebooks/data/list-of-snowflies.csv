@@ -1,0 +1,122 @@
+﻿,,,,,,,,,,,,,
+List of Alberta Snowfly Elements in the ACIMS Database - June 2022,,,,,,,,,,,,,
+,"Please note:  Elements may be tracked at the species or subspecies/variety level, so be sure to check both the species and infraspecies for tracking status.",,,,,,,,,,,,
+SUBNATION_NAME,NAME_CATEGORY_DESC,ELCODE,FAMILY,SNAME,SCOMNAME,GNAME,GCOMNAME,S_RANK,N_RANK,G_RANK,ORIGIN_DESC,CURR_PRESENCE_ABSENCE_DESC,EO_TRACK_STATUS_DESC
+Alberta,Invertebrate Animal,IIPLE02030,Capniidae,Bolshecapnia milami,glacier snowfly,Bolshecapnia milami,Glacier Snowfly,SU,N3N5,G4G5,Unknown/Undetermined,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE02050,Capniidae,Bolshecapnia sasquatchi,sasquatch snowfly,Bolshecapnia sasquatchi,Sasquatch Snowfly,SU,NU,G2,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE02060,Capniidae,Bolshecapnia spenceri,ice snowfly,Bolshecapnia spenceri,Ice Snowfly,SU,NU,G3,Native,Unknown/Undetermined,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE03040,Capniidae,Capnia cheama,Cheam Snowfly,Capnia cheama,Mt. Cheama Snowfly,SU,NU,G4,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE03050,Capniidae,Capnia coloradensis,Colorado snowfly,Capnia coloradensis,Colorado Snowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE03060,Capniidae,Capnia confusa,widespread snowfly,Capnia confusa,Widespread Snowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE03150,Capniidae,Capnia gracilaria,slender snowfly,Capnia gracilaria,Slender Snowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE03260,Capniidae,Capnia nana,dwarf snowfly,Capnia nana,Dwarf Snowfly,SU,N5,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE03310,Capniidae,Capnia petila,thin snowfly,Capnia petila,Thin Snowfly,SU,N5,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE03390,Capniidae,Capnia sextuberculata,six-knobbed snowfly,Capnia sextuberculata,Six-knobbed Snowfly,SU,NU,G4,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE03490,Capniidae,Capnia vernalis,Belly Snowfly,Capnia vernalis,Vernal Snowfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE04010,Capniidae,Eucapnopsis brevicauda,Short-tailed Snowfly,Eucapnopsis brevicauda,Short-tailed Snowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE05020,Capniidae,Isocapnia agassizi,Agassiz snowfly,Isocapnia agassizi,Agassiz Snowfly,SU,N4N5,G4G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE05030,Capniidae,Isocapnia crinita,hooked snowfly,Isocapnia crinita,Hooked Snowfly,SU,N3N5,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE05050,Capniidae,Isocapnia grandis,giant snowfly,Isocapnia grandis,Giant Snowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE05060,Capniidae,Isocapnia hyalita,hyalite snowfly,Isocapnia hyalita,Hyalite Snowfly,SU,NU,G4,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE05070,Capniidae,Isocapnia integra,Alberta snowfly,Isocapnia integra,Alberta Snowfly,S4S5,N4N5,G4G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE05110,Capniidae,Isocapnia vedderensis,Vedder snowfly,Isocapnia vedderensis,Vedder Snowfly,SU,NU,G4,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE06080,Capniidae,Mesocapnia oenone,wine snowfly,Mesocapnia oenone,Wine Snowfly,SU,N4N5,G4G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE09010,Capniidae,Utacapnia columbiana,Columbian snowfly,Utacapnia columbiana,Columbian Snowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE09020,Capniidae,Utacapnia distincta,Distinctive Snowfly,Utacapnia distincta,Distinctive Snowfly,SU,NU,G4,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE09110,Capniidae,Utacapnia trava,Yellowstone snowfly,Utacapnia trava,Yellowstone Snowfly,SU,N4N5,G4G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0A010,Leuctridae,Despaxia augusta,Smooth Needlefly,Despaxia augusta,Autumn Needlefly,SU,N4N5,G4G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0D030,Leuctridae,Paraleuctra forcipata,bullshorn needlefly,Paraleuctra forcipata,Bullshorn Needlefly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0D050,Leuctridae,Paraleuctra occidentalis,western needlefly,Paraleuctra occidentalis,Western Needlefly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0D060,Leuctridae,Pomoleuctra purcellana,Purcell needlefly,Pomoleuctra purcellana,Purcell Needlefly,SU,NU,G4,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0D080,Leuctridae,Paraleuctra sara,Appalachian Needlefly,Paraleuctra sara,Appalachian Needlefly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0D090,Leuctridae,Paraleuctra vershina,summit needlefly,Paraleuctra vershina,Summit Needlefly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0D110,Leuctridae,Paraleuctra alta,Alberta needlefly,Paraleuctra alta,Alberta Needlefly,SU,NU,GU,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE0E020,Leuctridae,Perlomyia utahensis,Utah needlefly,Perlomyia utahensis,Utah Needlefly,SU,NU,G3,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE0G050,Leuctridae,Megaleuctra stigmata,giant needlefly,Megaleuctra stigmata,Giant Needlefly,SU,NU,G2G3,Native,Unknown/Undetermined,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE0H020,Nemouridae,Amphinemura banksi,Rockies forestfly,Amphinemura banksi,Rockies Forestfly,SU,NU,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE0H040,Nemouridae,Amphinemura linda,lovely forestfly,Amphinemura palmeni,Lovely Forestfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0J030,Nemouridae,Malenka californica,California forestfly,Malenka californica,California Forestfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0J070,Nemouridae,Malenka flexura,twisted forestfly,Malenka flexura,Twisted Forestfly,SU,NU,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE0K010,Nemouridae,Lednia tumana,mist forestfly,Lednia tumana,Mist Forestfly,SU,NU,G1G2,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE0L070,Nemouridae,Nemoura arctica,arctic forestfly,Nemoura arctica,Arctic Forestfly,SU,NNR,GNR,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0P010,Nemouridae,Podmosta decepta,least forestfly,Podmosta decepta,Least Forestfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0P020,Nemouridae,Podmosta delicatula,delicate forestfly,Podmosta delicatula,Delicate Forestfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0Q010,Nemouridae,Prostoia besametsa,banded forestfly,Prostoia besametsa,Banded Forestfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0R010,Nemouridae,Shipsa rotunda,intrepid forestfly,Shipsa rotunda,Intrepid Forestfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0S040,Nemouridae,Soyedina potteri,Idaho forestfly,Soyedina potteri,Rocky Mountain Forestfly,SU,NU,G2,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE0T010,Nemouridae,Visoka cataractae,cataract forestfly,Visoka cataractae,Cataract Forestfly,SU,N4N5,G4G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0U020,Nemouridae,Zapada cinctipes,common forestfly,Zapada cinctipes,Common Forestfly,S4S5,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0U030,Nemouridae,Zapada columbiana,Columbian forestfly,Zapada columbiana,Columbian Forestfly,S4S5,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0U050,Nemouridae,Zapada frigida,frigid forestfly,Zapada frigida,Frigid Forestfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0U060,Nemouridae,Zapada glacier,glacier forestfly,Zapada glacier,Glacier Forestfly,SNA,NNA,G1,Native,Unknown/Undetermined,Do not track
+Alberta,Invertebrate Animal,IIPLE0U070,Nemouridae,Zapada haysi,intermountain forestfly,Zapada haysi,Intermountain Forestfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0U090,Nemouridae,Zapada oregonensis,Oregon forestfly,Zapada oregonensis,Oregon Forestfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0W010,Taeniopterygidae,Doddsia occidentalis,western willowfly,Doddsia occidentalis,Western Willowfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0X020,Taeniopterygidae,Oemopteryx fosketti,saskatoon willowfly,Oemopteryx fosketti,Saskatoon Willowfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0X030,Taeniopterygidae,Oemopteryx glacialis,Canadian willowfly,Oemopteryx glacialis,Canadian Willowfly,SU,N4N5,G4G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0Z080,Taeniopterygidae,Taenionema pacificum,pacific willowfly,Taenionema pacificum,Pacific Willowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE0Z090,Taeniopterygidae,Taenionema pallidum,common willowfly,Taenionema pallidum,Common Willowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE10070,Taeniopterygidae,Taeniopteryx nivalis,boreal willowfly,Taeniopteryx nivalis,Boreal Willowfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE10080,Taeniopterygidae,Taeniopteryx parvula,hooked willowfly,Taeniopteryx parvula,Hooked Willowfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE11100,Chloroperlidae,Alloperla delicata,delicate sallfly,Alloperla delicata,Delicate Sallfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE11170,Chloroperlidae,Alloperla medveda,beartooth sallfly,Alloperla medveda,Beartooth Sallfly,SU,NU,G4,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE11250,Chloroperlidae,Alloperla serrata,sawtooth sallfly,Alloperla serrata,Sawtooth Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE11260,Chloroperlidae,Alloperla severa,western sallfly,Alloperla severa,Western Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE14010,Chloroperlidae,Haploperla brevis,least sallfly,Haploperla brevis,Least Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE16010,Chloroperlidae,Plumiperla diversa,margined sallfly,Plumiperla diversa,Margined Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE18010,Chloroperlidae,Suwallia autumna,autumn sallfly,Suwallia autumna,Autumn Sallfly,SU,NU,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE18020,Chloroperlidae,Suwallia dubia,pale sallfly,Suwallia dubia,Pale Sallfly,SU,NU,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE18030,Chloroperlidae,Suwallia lineosa,lined sallfly,Suwallia lineosa,Lined Sallfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE18050,Chloroperlidae,Suwallia pallidula,yellow sallfly,Suwallia pallidula,Yellow Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE18080,Chloroperlidae,Suwallia forcipata,forceps sallfly,Suwallia forcipata,Forceps Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE18090,Chloroperlidae,Suwallia starki,gallatin sallfly,Suwallia starki,Gallatin Sallfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE19020,Chloroperlidae,Gaufinia albertensis,Alberta sallfly,Gaufinia albertensis,Alberta Sallfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE19030,Chloroperlidae,Sweltsa borealis,boreal sallfly,Sweltsa borealis,Boreal Sallfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE19050,Chloroperlidae,Sweltsa coloradensis,Colorado sallfly,Sweltsa coloradensis,Colorado Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE19090,Chloroperlidae,Sweltsa fidelis,mountain sallfly,Sweltsa fidelis,Mountain Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE19220,Chloroperlidae,Sweltsa revelstoka,Canadian sallfly,Sweltsa revelstoka,Canadian Sallfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1A020,Chloroperlidae,Triznaka signata,striped sallfly,Triznaka signata,Striped Sallfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1B010,Chloroperlidae,Kathroperla perdita,longhead sallfly,Kathroperla perdita,Longhead Sallfly,SU,N4N5,G4G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE1C010,Chloroperlidae,Paraperla frontalis,hyporheic sallfly,Paraperla frontalis,Hyporheic Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1C020,Chloroperlidae,Paraperla wilsoni,Chilliwack sallfly,Paraperla wilsoni,Chilliwack Sallfly,SU,N4N5,G4G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1D020,Chloroperlidae,Utaperla sopladora,black sallfly,Utaperla sopladora,Black Sallfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1K010,Peltoperlidae,Yoraperla brevis,least roachfly,Yoraperla brevis,Least Roachfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1K020,Peltoperlidae,Yoraperla mariana,brown roachfly,Yoraperla mariana,Brown Roachfly,SU,NU,G4,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE1L010,Perlidae,Acroneuria abnormis,common stonefly,Acroneuria abnormis,Common Stone,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1L120,Perlidae,Acroneuria lycorias,boreal stonefly,Acroneuria lycorias,Boreal Stone,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1P010,Perlidae,Calineuria californica,western stonefly,Calineuria californica,Western Stone,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1Q020,Perlidae,Doroneuria theodora,Montana stonefly,Doroneuria theodora,Montana Stone,SU,NU,G4,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE1T020,Perlidae,Hesperoperla pacifica,golden stonefly,Hesperoperla pacifica,Golden Stone,S4S5,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE1Z010,Perlidae,Claassenia sabulosa,shortwing stonefly,Claassenia sabulosa,Shortwing Stonefly,S4S5,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24130,Perlodidae,Isoperla decolorata,bearlake stripetail,Isoperla decolorata,Bear Lake Stripetail,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24210,Perlodidae,Isoperla fulva,western stripetail,Isoperla fulva,Western Stripetail,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24220,Perlodidae,Isoperla fusca,Waterton stripetail,Isoperla fusca,Waterton Stripetail,SU,N3N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24300,Perlodidae,Isoperla longiseta,plains stripetail,Isoperla longiseta,Plains Stripetail,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24420,Perlodidae,Isoperla petersoni,springs stripetail,Isoperla petersoni,Springs Stripetail,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24450,Perlodidae,Isoperla pinta,checkered stripetail,Isoperla pinta,Checkered Stripetail,SU,NU,G4,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE24460,Perlodidae,Isoperla quinquepunctata,fivespot stripetail,Isoperla quinquepunctata,Fivespot Stripetail,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24540,Perlodidae,Isoperla sobria,Colorado stripetail,Isoperla sobria,Colorado Stripetail,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE24550,Perlodidae,Isoperla sordida,notched stripetail,Isoperla sordida,Notched Stripetail,SU,NU,G3G4,Native,Unknown/Undetermined,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE24580,Perlodidae,Isoperla transmarina,boreal stripetail stonefly,Isoperla transmarina,Boreal Stripetail,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE25010,Perlodidae,Arcynopteryx dichroa,Holarctic Springfly,Arcynopteryx dichroa,Holarctic Springfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE27020,Perlodidae,Megarcys signata,Laramide Springfly,Megarcys signata,Laramide Springfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE27030,Perlodidae,Megarcys subtruncata,truncate springfly,Megarcys subtruncata,Truncate Springfly,SU,NU,G4,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE27040,Perlodidae,Megarcys watertoni,Glacier Springfly,Megarcys watertoni,Glacier Springfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE29010,Perlodidae,Perlinodes aurea,longgill springfly,Perlinodes aurea,Longgill Springfly,SU,NU,G4,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE2A010,Perlodidae,Setvena bradleyi,Alberta springfly,Setvena bradleyi,Alberta Springfly,SU,N4N5,G4G5,Native,Unknown/Undetermined,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE2B010,Perlodidae,Skwala americana,American springfly,Skwala americana,American Springfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2D010,Perlodidae,Cultus aestivalis,summer springfly,Cultus aestivalis,Summer Springfly,SU,NU,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE2D050,Perlodidae,Cultus tostonus,Toston Springfly,Cultus tostonus,Toston Springfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2F010,Perlodidae,Kogotus modestus,sickle springfly,Kogotus modestus,Sickle Springfly,SU,NU,G5,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE2F020,Perlodidae,Kogotus nonus,smooth springfly,Kogotus nonus,Smooth Springfly,SU,NU,G4,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2K010,Perlodidae,Rickera sorpta,Pale-striped Springfly,Rickera sorpta,Palestripe Springfly,SU,NU,G3,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE2M010,Perlodidae,Diura bicaudata,Lapland springfly,Diura bicaudata,Lapland Springfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2M020,Perlodidae,Diura knowltoni,Nearctic springfly,Diura knowltoni,Nearctic Springfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2Q010,Perlodidae,Isogenoides colubrinus,Blackfoot springfly,Isogenoides colubrinus,Blackfoot Springfly,SU,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2Q030,Perlodidae,Isogenoides elongatus,elongate springfly,Isogenoides elongatus,Elongate Springfly,SU,NU,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2Q040,Perlodidae,Isogenoides frontalis,Hudsonian springfly,Isogenoides frontalis,Hudsonian Springfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2U010,Pteronarcyidae,Pteronarcella badia,least salmonfly,Pteronarcella badia,Least Salmonfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2U020,Pteronarcyidae,Pteronarcella regularis,Dwarf Salmonfly,Pteronarcella regularis,Dwarf Salmonfly,SU,NU,G3,Native,Present,Track all extant and selected historical EOs
+Alberta,Invertebrate Animal,IIPLE2V020,Pteronarcyidae,Pteronarcys californica,giant salmonfly,Pteronarcys californica,Giant Salmonfly,SU,N4N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2V040,Pteronarcyidae,Pteronarcys dorsata,American Salmonfly,Pteronarcys dorsata,American Salmonfly,S4S5,N5,G5,Native,Present,Do not track
+Alberta,Invertebrate Animal,IIPLE2V060,Pteronarcyidae,Pteronarcys princeps,ebony salmonfly,Pteronarcys princeps,Ebony Salmonfly,SU,N4N5,G4G5,Native,Present,Do not track
