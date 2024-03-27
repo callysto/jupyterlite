@@ -2,6 +2,8 @@
 
 #### January 2024. Michael Lamoureux 
 
+#### March 2024. Updated to run in Jupyterlite
+
 This folder contains several short notebooks showing how to use the Phidget devices. We have notebooks for:
 - temperature
 - humidity

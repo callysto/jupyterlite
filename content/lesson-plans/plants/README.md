@@ -1,30 +1,20 @@
-This is a test branch for using Phidgets with the "Anywidget" tool.
+## Updates
 
-Old code is in the folder old_code
+This is an updated version of the Plants notebooks, for "Jupyterlite" and the "Anywidget" module.
 
-Now (Dec 21) all the notebooks use the anywidget module, which runs on Jupyter Lab as well as classic notebooks. 
+Now (March 2024) all the notebooks use the anywidget module, which runs on Jupyterlite as well as the Jupyter Lab and classic notebooks. 
 
 - PhidgetFour_auto.ipynb:  Connects the phidgets to Plotly gauges, updates automatically
 - PhidgetFour_read.ipynb:   Connects the phidgets to Plotly gauges, updates on button click
-- plants-data-ethercalc-anywidget.ipynb: Connects the phidgets to Plotly gauges, posts to online spreadsheet
 - plants-data-google-anywidget.ipynb: Connects the phidgets to Plotly gauges, posts to online spreadsheet
 - plants-watering-anywidget.ipynb: Connects the phidgets to Plotly gauges, waters on a button click
 - plants-watering-auto-anywidget.ipynb: Connects the phidgets to Plotly gauges, waters automatically
 
-## History 
-Latest test versions (Nov 23) works on both classic Jupyter notebooks as well as the  Callysto Lab enviroment. Test files are:
-- PhidgetFour_auto.ipynb
-- PhidgetFour_read.ipynb
-- ph4auto.js, ph4read.js, ph4xx.css
+We have to remove the following notebook, as we were not able to figure out how to POST requests to Ethercalc in Jupyterlite:
+- plants-data-ethercalc-anywidget.ipynb: Connects the phidgets to Plotly gauges, posts to online spreadsheet
 
-To get to the "Jupyter Lab" environment, log into hub.callysto.ca and change the "tree" in the https address to "lab"
 
-eg:
-
-- https://hub-01.callysto.ca/jupyter/user/123ec456fg789hi012jkl/tree  change to
-- https://hub-01.callysto.ca/jupyter/user/123ec456fg789hi012jkl/lab
-
-There is a conditional install of the module "anywidget"
+## Limitations 
 
 Successfully tested on:
 - Mac OS in Chrome and Opera browsers
